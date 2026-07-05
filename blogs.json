@@ -9,7 +9,8 @@
   { "name": "Patrick Collison", "url": "https://patrickcollison.com/dispatches",
     "scrape": { "item": "a", "include": "^/dispatches/.", "limit": 50 } },
   { "name": "Paul Graham",      "url": "https://www.paulgraham.com/articles.html",
-    "scrape": { "item": "a", "include": "\\.html$",
+    "scrape": { "marker": "img[src*='the-reddits']", "markerScope": "td",
+      "include": "\\.html$",
       "exclude": "^https?:|^(index|articles|rss|bio|books)\\.html$",
       "limit": 300 } }
 ]

@@ -161,28 +161,45 @@ function scrapePosts(blog, html) {
   const out = [];
   const seen = new Set();
 
-  $(cfg.item).each((_, el) => {
-    if (out.length >= limit) return;
-    const node = $(el);
-    const linkEl = cfg.link ? node.find(cfg.link).first()
-      : (node.is('a') ? node : node.find('a').first());
-    const href = linkEl.attr('href');
-    if (!href) return;
-    if (include && !include.test(href)) return;
-    if (exclude && exclude.test(href)) return;
+  // Two modes. `marker`: each entry is identified by a per-row marker element
+  // (e.g. PG's bullet image) — the link is taken from the marker's enclosing
+  // cell. This skips curated "try reading" links that lack the marker. Else
+  // `item`: each matched node is (or contains) the entry's link.
+  const entries = [];
+  if (cfg.marker) {
+    const scope = cfg.markerScope || 'td,li,tr,p,div';
+    $(cfg.marker).each((_, el) => {
+      const cell = $(el).closest(scope);
+      const a = (cfg.link ? cell.find(cfg.link) : cell.find('a[href]')).first();
+      if (a.length) entries.push({ node: cell, a });
+    });
+  } else {
+    $(cfg.item).each((_, el) => {
+      const node = $(el);
+      const a = cfg.link ? node.find(cfg.link).first() : (node.is('a') ? node : node.find('a').first());
+      if (a.length) entries.push({ node, a });
+    });
+  }
+
+  for (const { node, a } of entries) {
+    if (out.length >= limit) break;
+    const href = a.attr('href');
+    if (!href) continue;
+    if (include && !include.test(href)) continue;
+    if (exclude && exclude.test(href)) continue;
 
     const url = new URL(href, blog.url).href;
-    if (seen.has(url)) return;
+    if (seen.has(url)) continue;
     seen.add(url);
 
-    const titleEl = cfg.title ? node.find(cfg.title).first() : linkEl;
+    const titleEl = cfg.title ? node.find(cfg.title).first() : a;
     const title = (titleEl.text() || '').trim();
-    if (!title) return;
+    if (!title) continue;
     const dateRaw = cfg.date
       ? (node.find(cfg.date).attr('datetime') || node.find(cfg.date).first().text())
       : null;
     out.push({ title, url, published: toIso(dateRaw) });
-  });
+  }
   return out;
 }
 

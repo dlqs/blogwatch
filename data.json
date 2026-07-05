@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T09:58:47.573Z",
+  "generatedAt": "2026-07-05T10:34:51.450Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -112,8 +112,8 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "How to Do Great Work",
-        "url": "https://www.paulgraham.com/greatwork.html",
+        "title": "How to Earn a Billion Dollars",
+        "url": "https://www.paulgraham.com/earn.html",
         "published": null,
         "firstSeen": "2026-07-05T09:48:58.014Z"
       }
@@ -212,9 +212,6 @@
     "https://patrickcollison.com/dispatches/bridge-editing": "2026-07-05T09:58:47.573Z",
     "https://patrickcollison.com/dispatches/government-internet": "2026-07-05T09:58:47.573Z",
     "https://patrickcollison.com/dispatches/stripe-ireland": "2026-07-05T09:58:47.573Z",
-    "https://www.paulgraham.com/greatwork.html": "2026-07-05T09:48:58.014Z",
-    "https://www.paulgraham.com/kids.html": "2026-07-05T09:48:58.014Z",
-    "https://www.paulgraham.com/selfindulgence.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/earn.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/winc.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/brandage.html": "2026-07-05T09:48:58.014Z",
@@ -230,6 +227,7 @@
     "https://www.paulgraham.com/google.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/best.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/superlinear.html": "2026-07-05T09:48:58.014Z",
+    "https://www.paulgraham.com/greatwork.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/getideas.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/read.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/want.html": "2026-07-05T09:48:58.014Z",
@@ -264,6 +262,7 @@
     "https://www.paulgraham.com/fh.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/mod.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/fp.html": "2026-07-05T09:48:58.014Z",
+    "https://www.paulgraham.com/kids.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/lesson.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/nov.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/genius.html": "2026-07-05T09:48:58.014Z",
@@ -320,6 +319,7 @@
     "https://www.paulgraham.com/future.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/addiction.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/top.html": "2026-07-05T09:48:58.014Z",
+    "https://www.paulgraham.com/selfindulgence.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/organic.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/apple.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/really.html": "2026-07-05T09:48:58.014Z",
