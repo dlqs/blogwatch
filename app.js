@@ -1,6 +1,5 @@
-// blogwatch UI — one row per blog showing its latest post, newest first.
-
-const NEW_WINDOW_MS = 48 * 3600 * 1000;
+// blogwatch UI — one row per blog (favicon + latest post), newest first.
+// Visited posts dim via the CSS :visited selector; no per-post "new" badge.
 
 async function main() {
   const statusEl = document.getElementById('status');
@@ -51,6 +50,8 @@ function renderRow(b, now) {
   const li = document.createElement('li');
   li.className = 'row';
 
+  li.appendChild(favicon(b));
+
   const a = document.createElement('a');
   a.className = 'title';
   a.href = b.latest.url;
@@ -68,25 +69,39 @@ function renderRow(b, now) {
   time.textContent = fmtWhen(b.latest.published, b._t, now);
   meta.append(blog, time);
 
-  const head = document.createElement('div');
-  head.className = 'row-head';
-  head.appendChild(a);
-  if (b.latest.firstSeen && now - Date.parse(b.latest.firstSeen) < NEW_WINDOW_MS) {
-    const badge = document.createElement('span');
-    badge.className = 'badge';
-    badge.textContent = 'NEW';
-    head.appendChild(badge);
-  }
-
-  li.append(head, meta);
+  const body = document.createElement('div');
+  body.className = 'body';
+  body.append(a, meta);
+  li.appendChild(body);
   return li;
 }
 
-// Show a real date when we have one; for dateless sources fall back to
-// "seen Nd ago" so the label never lies about a publish date.
+function favicon(b) {
+  if (b.icon) {
+    const img = document.createElement('img');
+    img.className = 'favicon';
+    img.src = b.icon;
+    img.alt = '';
+    img.width = 16;
+    img.height = 16;
+    img.loading = 'lazy';
+    img.addEventListener('error', () => img.replaceWith(placeholder(b.name)));
+    return img;
+  }
+  return placeholder(b.name);
+}
+
+function placeholder(name) {
+  const span = document.createElement('span');
+  span.className = 'favicon placeholder';
+  span.textContent = (name || '?').trim().charAt(0).toUpperCase();
+  return span;
+}
+
+// Real date when we have one; for dateless sources say when blogwatch first
+// found it, so the label never pretends to be a publish date.
 function fmtWhen(published, t, now) {
-  if (published) return relTime(t, now);
-  return `seen ${relTime(t, now)}`;
+  return published ? relTime(t, now) : `found ${relTime(t, now)}`;
 }
 
 function relTime(t, now) {

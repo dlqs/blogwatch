@@ -14,10 +14,15 @@ only — it never mirrors content.
   `scrape` block `{ item, title?, link?, date?, include?, exclude?, limit? }`
   (see Paul Graham, whose `articles.html` is a flat undated essay list). Node 20;
   deps: rss-parser, cheerio.
+  Also self-hosts each blog's favicon into `icons/<host>.<ext>` (downloaded once,
+  reused after).
 - `index.html` + `app.js` + `styles.css` — vanilla one-row-per-blog UI (no build).
+  Read posts dim via CSS `:visited` (no per-post badge). GoatCounter analytics at
+  `blogwatch.goatcounter.com` (its own site code, separate from dlqs's).
 - `data.json` — generated output, committed by CI. `{ generatedAt, blogs:[{…,
-  latest}], seen:{url→firstSeen} }`. `seen` persists first-seen times so "new"
-  is stable and dateless blogs can be ordered.
+  icon, latest}], seen:{url→firstSeen} }`. `generatedAt` only advances when the
+  content actually changes, so steady-state runs make no commit.
+- `icons/` — self-hosted favicons committed by CI.
 - `.github/workflows/poll.yml` — hourly cron + manual `workflow_dispatch`.
 - `CNAME` — `blogwatch.dlqs.xyz`.
 
