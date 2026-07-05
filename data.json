@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T09:08:48.948Z",
+  "generatedAt": "2026-07-05T09:12:00.782Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -7,7 +7,7 @@
       "feed": "https://danluu.com/atom.xml",
       "ok": true,
       "error": null,
-      "lastChecked": "2026-07-05T09:08:48.948Z"
+      "lastChecked": "2026-07-05T09:12:00.782Z"
     },
     {
       "name": "Astral Codex Ten",
@@ -15,7 +15,7 @@
       "feed": "https://www.astralcodexten.com/feed",
       "ok": true,
       "error": null,
-      "lastChecked": "2026-07-05T09:08:48.948Z"
+      "lastChecked": "2026-07-05T09:12:00.782Z"
     }
   ],
   "posts": [
