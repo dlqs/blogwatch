@@ -1,0 +1,183 @@
+{
+  "generatedAt": "2026-07-05T09:08:48.948Z",
+  "blogs": [
+    {
+      "name": "Dan Luu",
+      "url": "https://danluu.com/",
+      "feed": "https://danluu.com/atom.xml",
+      "ok": true,
+      "error": null,
+      "lastChecked": "2026-07-05T09:08:48.948Z"
+    },
+    {
+      "name": "Astral Codex Ten",
+      "url": "https://www.astralcodexten.com/",
+      "feed": "https://www.astralcodexten.com/feed",
+      "ok": true,
+      "error": null,
+      "lastChecked": "2026-07-05T09:08:48.948Z"
+    }
+  ],
+  "posts": [
+    {
+      "blog": "Astral Codex Ten",
+      "blogUrl": "https://www.astralcodexten.com/",
+      "title": "The AI Superforecasters Are Here",
+      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+      "published": "2026-07-02T23:14:12.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Astral Codex Ten",
+      "blogUrl": "https://www.astralcodexten.com/",
+      "title": "Hidden Open Thread 440.5",
+      "url": "https://www.astralcodexten.com/p/hidden-open-thread-4405",
+      "published": "2026-07-02T09:07:54.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Astral Codex Ten",
+      "blogUrl": "https://www.astralcodexten.com/",
+      "title": "Chip Off The Old Block",
+      "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
+      "published": "2026-07-01T03:11:23.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Astral Codex Ten",
+      "blogUrl": "https://www.astralcodexten.com/",
+      "title": "Open Thread 440",
+      "url": "https://www.astralcodexten.com/p/open-thread-440",
+      "published": "2026-06-29T13:33:40.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Astral Codex Ten",
+      "blogUrl": "https://www.astralcodexten.com/",
+      "title": "The Metaculus Democracy Threat Index",
+      "url": "https://www.astralcodexten.com/p/the-metaculus-threat-to-democracy",
+      "published": "2026-06-25T23:59:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Astral Codex Ten",
+      "blogUrl": "https://www.astralcodexten.com/",
+      "title": "Hidden Open Thread 439.5",
+      "url": "https://www.astralcodexten.com/p/hidden-open-thread-4395",
+      "published": "2026-06-25T09:11:01.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Astral Codex Ten",
+      "blogUrl": "https://www.astralcodexten.com/",
+      "title": "Should People Avoid Whole-Body Screening Info?",
+      "url": "https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening",
+      "published": "2026-06-23T00:41:37.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Astral Codex Ten",
+      "blogUrl": "https://www.astralcodexten.com/",
+      "title": "Open Thread 439",
+      "url": "https://www.astralcodexten.com/p/open-thread-439",
+      "published": "2026-06-22T15:01:34.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Astral Codex Ten",
+      "blogUrl": "https://www.astralcodexten.com/",
+      "title": "Preliminary Thoughts On The Midjourney Scanner",
+      "url": "https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney",
+      "published": "2026-06-19T05:32:51.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Astral Codex Ten",
+      "blogUrl": "https://www.astralcodexten.com/",
+      "title": "Waiting For The Miracle",
+      "url": "https://www.astralcodexten.com/p/waiting-for-the-miracle",
+      "published": "2026-06-18T04:42:50.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Dan Luu",
+      "blogUrl": "https://danluu.com/",
+      "title": "Steve Ballmer was an underrated CEO",
+      "url": "https://danluu.com/ballmer/",
+      "published": "2024-10-28T00:00:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Dan Luu",
+      "blogUrl": "https://danluu.com/",
+      "title": "How good can you be at Codenames without knowing any words?",
+      "url": "https://danluu.com/codenames/",
+      "published": "2024-08-11T00:00:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Dan Luu",
+      "blogUrl": "https://danluu.com/",
+      "title": "A discussion of discussions on AI bias",
+      "url": "https://danluu.com/ai-bias/",
+      "published": "2024-06-16T00:00:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Dan Luu",
+      "blogUrl": "https://danluu.com/",
+      "title": "What the FTC got wrong in the Google antitrust investigation",
+      "url": "https://danluu.com/ftc-google-antitrust/",
+      "published": "2024-05-26T00:00:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Dan Luu",
+      "blogUrl": "https://danluu.com/",
+      "title": "How web bloat impacts users with slow devices",
+      "url": "https://danluu.com/slow-device/",
+      "published": "2024-03-16T00:00:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Dan Luu",
+      "blogUrl": "https://danluu.com/",
+      "title": "Diseconomies of scale in fraud, spam, support, and moderation",
+      "url": "https://danluu.com/diseconomies-scale/",
+      "published": "2024-02-18T00:00:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Dan Luu",
+      "blogUrl": "https://danluu.com/",
+      "title": "Why it's impossible to agree on what's allowed",
+      "url": "https://danluu.com/impossible-agree/",
+      "published": "2024-02-07T00:00:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Dan Luu",
+      "blogUrl": "https://danluu.com/",
+      "title": "Notes on Cruise's pedestrian accident",
+      "url": "https://danluu.com/cruise-report/",
+      "published": "2024-01-29T00:00:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Dan Luu",
+      "blogUrl": "https://danluu.com/",
+      "title": "Why do people post on [bad platform] instead of [good platform]?",
+      "url": "https://danluu.com/why-video/",
+      "published": "2024-01-25T00:00:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    },
+    {
+      "blog": "Dan Luu",
+      "blogUrl": "https://danluu.com/",
+      "title": "How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT",
+      "url": "https://danluu.com/seo-spam/",
+      "published": "2023-12-30T00:00:00.000Z",
+      "firstSeen": "2026-07-05T09:08:19.647Z"
+    }
+  ]
+}

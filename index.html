@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>blogwatch</title>
+  <meta name="description" content="A personal watcher for new posts on blogs I follow.">
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>blogwatch</h1>
+    <p class="sub" id="status">loading…</p>
+  </header>
+
+  <main id="timeline" class="timeline"></main>
+
+  <footer class="site-footer">
+    <details id="issues" hidden>
+      <summary></summary>
+      <ul id="issues-list"></ul>
+    </details>
+    <p class="muted">All titles link out to the original site. <a href="https://github.com/dlqs/blogwatch">source</a></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

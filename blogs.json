@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Dan Luu",
+    "url": "https://danluu.com/",
+    "feed": "https://danluu.com/atom.xml"
+  },
+  {
+    "name": "Astral Codex Ten",
+    "url": "https://www.astralcodexten.com/",
+    "feed": "https://www.astralcodexten.com/feed"
+  }
+]

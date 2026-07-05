@@ -1,0 +1,40 @@
+name: poll
+
+on:
+  schedule:
+    - cron: '17 * * * *'   # hourly
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poll
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - run: npm ci
+
+      - run: node poll.mjs
+
+      - name: Commit refreshed data.json if it changed
+        run: |
+          if git diff --quiet -- data.json; then
+            echo "no changes"
+          else
+            git config user.name "blogwatch-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add data.json
+            git commit -m "data: refresh $(date -u +%FT%TZ)"
+            git push
+          fi

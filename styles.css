@@ -1,0 +1,117 @@
+:root {
+  --bg: #fbfbfa;
+  --fg: #1a1a1a;
+  --muted: #6b7280;
+  --line: #e6e6e3;
+  --accent: #c2410c;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16171a;
+    --fg: #e8e8e6;
+    --muted: #9096a0;
+    --line: #2a2c31;
+    --accent: #fb923c;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.site-header,
+main,
+.site-footer {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.site-header { padding-top: 52px; }
+.site-header h1 {
+  font-size: 1.55rem;
+  letter-spacing: -0.02em;
+  margin: 0 0 4px;
+}
+.sub { color: var(--muted); font-size: 0.9rem; margin: 0; }
+
+.timeline { padding-bottom: 64px; }
+
+h2.day {
+  font-size: 0.74rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  font-weight: 600;
+  color: var(--muted);
+  margin: 34px 0 6px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+}
+
+ul.posts { list-style: none; margin: 0; padding: 0; }
+
+li.post { padding: 11px 0; }
+
+.title-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+a.title {
+  color: var(--fg);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1.02rem;
+}
+a.title:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-underline-offset: 2px;
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+.meta .blog { font-weight: 500; }
+.meta .blog::after {
+  content: "·";
+  margin-left: 8px;
+  opacity: 0.5;
+}
+
+.badge {
+  flex: none;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: #fff;
+  background: var(--accent);
+  padding: 2px 5px;
+  border-radius: 4px;
+  align-self: center;
+}
+
+.site-footer {
+  padding-bottom: 48px;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+.site-footer a { color: var(--accent); }
+.muted { color: var(--muted); }
+.empty { padding: 48px 0; }
+
+details summary { cursor: pointer; color: var(--accent); }
+#issues-list { margin: 8px 0 4px; padding-left: 18px; }
