@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T10:34:51.450Z",
+  "generatedAt": "2026-07-05T15:35:44.955Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -103,6 +103,32 @@
         "url": "https://patrickcollison.com/dispatches/paris",
         "published": null,
         "firstSeen": "2026-07-05T09:58:47.573Z"
+      }
+    },
+    {
+      "name": "Bits about Money",
+      "url": "https://www.bitsaboutmoney.com/",
+      "icon": "icons/www.bitsaboutmoney.com.png",
+      "ok": true,
+      "error": null,
+      "latest": {
+        "title": "Notes on a non-profit indicted for bank fraud",
+        "url": "https://www.bitsaboutmoney.com/archive/nonprofit-indicted-bank-fraud/",
+        "published": "2026-05-01T07:23:53.000Z",
+        "firstSeen": "2026-07-05T15:35:44.955Z"
+      }
+    },
+    {
+      "name": "Komoroske Updates",
+      "url": "https://groups.google.com/g/komoroske-updates",
+      "icon": "icons/groups.google.com.png",
+      "ok": true,
+      "error": null,
+      "latest": {
+        "title": "Bits and Bobs 6/29/26",
+        "url": "https://groups.google.com/g/komoroske-updates/c/BTj4xirm01g",
+        "published": null,
+        "firstSeen": "2026-07-05T15:35:44.955Z"
       }
     },
     {
@@ -212,6 +238,46 @@
     "https://patrickcollison.com/dispatches/bridge-editing": "2026-07-05T09:58:47.573Z",
     "https://patrickcollison.com/dispatches/government-internet": "2026-07-05T09:58:47.573Z",
     "https://patrickcollison.com/dispatches/stripe-ireland": "2026-07-05T09:58:47.573Z",
+    "https://www.bitsaboutmoney.com/archive/nonprofit-indicted-bank-fraud/": "2026-07-05T15:35:44.955Z",
+    "https://www.bitsaboutmoney.com/archive/fraud-investigation/": "2026-07-05T15:35:44.955Z",
+    "https://www.bitsaboutmoney.com/archive/regulation-e/": "2026-07-05T15:35:44.955Z",
+    "https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/": "2026-07-05T15:35:44.955Z",
+    "https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/": "2026-07-05T15:35:44.955Z",
+    "https://www.bitsaboutmoney.com/archive/window-modern-loan-origination/": "2026-07-05T15:35:44.955Z",
+    "https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/": "2026-07-05T15:35:44.955Z",
+    "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
+    "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
+    "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/BTj4xirm01g": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/IF5b9Em3gro": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/qp3309974YM": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/CFR8CWKGsCE": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/VCJllOwkW3A": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/TjxhteaCEAc": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/iqpYeJG2Kok": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/BJvWxE1TXe4": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/r38Adlmyz9I": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/bVDMq3dOWhY": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/OG9DE41WgAY": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/IujUVKtcxrQ": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/-EkFAIowrIY": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/UFjpVO2mVDk": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/y954MhQ09Kw": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/MTxkeccpXDA": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/fU0PPgE-8zk": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/ii1XZMN_pSs": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/F04BdKnmNMY": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/sMyda8PVLy8": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/_0kkdicK9T4": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/1lYBJyp_Jls": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/ikBbfX7zaVU": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/FgQ3bWxwVGA": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/Qe6yiknk61c": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/irsjqMgE-Pk": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/cZKArC-7yC0": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/VHjuf48gKgA": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/5CWdHRmmbVc": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/x6h8I5oVwm8": "2026-07-05T15:35:44.955Z",
     "https://www.paulgraham.com/earn.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/winc.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/brandage.html": "2026-07-05T09:48:58.014Z",

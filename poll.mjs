@@ -181,6 +181,10 @@ function scrapePosts(blog, html) {
     });
   }
 
+  // Resolve relative hrefs against <base> when present (Google Groups uses one).
+  const base = $('base[href]').attr('href');
+  const resolveBase = base ? new URL(base, blog.url).href : blog.url;
+
   for (const { node, a } of entries) {
     if (out.length >= limit) break;
     const href = a.attr('href');
@@ -188,13 +192,17 @@ function scrapePosts(blog, html) {
     if (include && !include.test(href)) continue;
     if (exclude && exclude.test(href)) continue;
 
-    const url = new URL(href, blog.url).href;
-    if (seen.has(url)) continue;
-    seen.add(url);
-
+    // Title first: some sites emit two links per entry with the same href (an
+    // author link + a title link) — only the titled one counts, and it must not
+    // be blocked by the untitled one having reserved the URL.
     const titleEl = cfg.title ? node.find(cfg.title).first() : a;
     const title = (titleEl.text() || '').trim();
     if (!title) continue;
+
+    const url = new URL(href, resolveBase).href;
+    if (seen.has(url)) continue;
+    seen.add(url);
+
     const dateRaw = cfg.date
       ? (node.find(cfg.date).attr('datetime') || node.find(cfg.date).first().text())
       : null;
