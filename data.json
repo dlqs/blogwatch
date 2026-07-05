@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T09:48:58.014Z",
+  "generatedAt": "2026-07-05T09:58:47.573Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -93,6 +93,19 @@
       }
     },
     {
+      "name": "Patrick Collison",
+      "url": "https://patrickcollison.com/dispatches",
+      "icon": null,
+      "ok": true,
+      "error": null,
+      "latest": {
+        "title": "Paris",
+        "url": "https://patrickcollison.com/dispatches/paris",
+        "published": null,
+        "firstSeen": "2026-07-05T09:58:47.573Z"
+      }
+    },
+    {
       "name": "Paul Graham",
       "url": "https://www.paulgraham.com/articles.html",
       "icon": "icons/www.paulgraham.com.png",
@@ -177,6 +190,28 @@
     "https://www.neelnanda.io/blog/46-bets-v-outcomes": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/45-x-risk": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/44-agency": "2026-07-05T09:48:58.014Z",
+    "https://patrickcollison.com/dispatches/paris": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/new-aesthetics": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/detroit-impressions": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/arab-novels": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/genome-agents": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/ruskins-gothic": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/atlas-year": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/war-and-peace": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/pandemic-changes": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/on-moby-dick": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/faroe-islands": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/on-titan": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/arc-discoveries": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/manufacturing-matters": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/reddit-medicine": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/irish-enlightenment": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/europe-vs-america": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/ten-novels": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/draghi-on-europe": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/bridge-editing": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/government-internet": "2026-07-05T09:58:47.573Z",
+    "https://patrickcollison.com/dispatches/stripe-ireland": "2026-07-05T09:58:47.573Z",
     "https://www.paulgraham.com/greatwork.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/kids.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/selfindulgence.html": "2026-07-05T09:48:58.014Z",

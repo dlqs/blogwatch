@@ -6,6 +6,8 @@
   { "name": "Sam Altman",       "url": "https://blog.samaltman.com/",      "feed": "https://blog.samaltman.com/posts.atom" },
   { "name": "Simon Willison",   "url": "https://simonwillison.net/",       "feed": "https://simonwillison.net/atom/everything/" },
   { "name": "Neel Nanda",       "url": "https://www.neelnanda.io/",        "feed": "https://www.neelnanda.io/blog?format=rss" },
+  { "name": "Patrick Collison", "url": "https://patrickcollison.com/dispatches",
+    "scrape": { "item": "a", "include": "^/dispatches/.", "limit": 50 } },
   { "name": "Paul Graham",      "url": "https://www.paulgraham.com/articles.html",
     "scrape": { "item": "a", "include": "\\.html$",
       "exclude": "^https?:|^(index|articles|rss|bio|books)\\.html$",
