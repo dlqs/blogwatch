@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-05T09:31:56.556Z",
+  "generatedAt": "2026-07-05T09:34:02.671Z",
   "blogs": [
     {
       "name": "Dan Luu",
       "url": "https://danluu.com/",
       "ok": true,
       "error": null,
-      "lastChecked": "2026-07-05T09:31:56.556Z",
+      "lastChecked": "2026-07-05T09:34:02.671Z",
       "latest": {
         "title": "Steve Ballmer was an underrated CEO",
         "url": "https://danluu.com/ballmer/",
@@ -19,7 +19,7 @@
       "url": "https://www.astralcodexten.com/",
       "ok": true,
       "error": null,
-      "lastChecked": "2026-07-05T09:31:56.556Z",
+      "lastChecked": "2026-07-05T09:34:02.671Z",
       "latest": {
         "title": "The AI Superforecasters Are Here",
         "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
@@ -32,7 +32,7 @@
       "url": "https://scholars-stage.org/",
       "ok": true,
       "error": null,
-      "lastChecked": "2026-07-05T09:31:56.556Z",
+      "lastChecked": "2026-07-05T09:34:02.671Z",
       "latest": {
         "title": "China and the Future of Science",
         "url": "https://scholars-stage.org/china-and-the-future-of-science/",
@@ -45,7 +45,7 @@
       "url": "https://addyosmani.com/",
       "ok": true,
       "error": null,
-      "lastChecked": "2026-07-05T09:31:56.556Z",
+      "lastChecked": "2026-07-05T09:34:02.671Z",
       "latest": {
         "title": "The New Software Lifecycle",
         "url": "https://addyosmani.com/blog/new-sdlc-vibe-coding/",
@@ -58,7 +58,7 @@
       "url": "https://blog.samaltman.com/",
       "ok": true,
       "error": null,
-      "lastChecked": "2026-07-05T09:31:56.556Z",
+      "lastChecked": "2026-07-05T09:34:02.671Z",
       "latest": {
         "title": "(untitled)",
         "url": "https://blog.samaltman.com/2279512",
@@ -71,7 +71,7 @@
       "url": "https://simonwillison.net/",
       "ok": true,
       "error": null,
-      "lastChecked": "2026-07-05T09:31:56.556Z",
+      "lastChecked": "2026-07-05T09:34:02.671Z",
       "latest": {
         "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
         "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
@@ -84,7 +84,7 @@
       "url": "https://www.neelnanda.io/",
       "ok": true,
       "error": null,
-      "lastChecked": "2026-07-05T09:31:56.556Z",
+      "lastChecked": "2026-07-05T09:34:02.671Z",
       "latest": {
         "title": "MATS Applications Open (Due Aug 29)",
         "url": "https://www.neelnanda.io/blog/mats-apps-9",
@@ -97,7 +97,7 @@
       "url": "https://www.paulgraham.com/articles.html",
       "ok": true,
       "error": null,
-      "lastChecked": "2026-07-05T09:31:56.556Z",
+      "lastChecked": "2026-07-05T09:34:02.671Z",
       "latest": {
         "title": "How to Do Great Work",
         "url": "https://www.paulgraham.com/greatwork.html",
