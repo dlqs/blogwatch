@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T15:54:49.082Z",
+  "generatedAt": "2026-07-05T15:56:07.794Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -117,6 +117,14 @@
         "published": "2026-05-01T07:23:53.000Z",
         "firstSeen": "2026-07-05T15:35:44.955Z"
       }
+    },
+    {
+      "name": "rachelbythebay",
+      "url": "https://rachelbythebay.com/w/",
+      "icon": null,
+      "ok": false,
+      "error": "fetch failed",
+      "latest": null
     },
     {
       "name": "Komoroske Updates",
