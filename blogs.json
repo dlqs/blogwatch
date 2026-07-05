@@ -9,7 +9,6 @@
   { "name": "Patrick Collison", "url": "https://patrickcollison.com/dispatches",
     "scrape": { "item": "a", "include": "^/dispatches/.", "limit": 50 } },
   { "name": "Bits about Money", "url": "https://www.bitsaboutmoney.com/", "feed": "https://www.bitsaboutmoney.com/archive/rss/" },
-  { "name": "rachelbythebay",   "url": "https://rachelbythebay.com/w/",     "feed": "https://rachelbythebay.com/w/atom.xml" },
   { "name": "Komoroske Updates", "url": "https://groups.google.com/g/komoroske-updates",
     "scrape": { "item": "a[href*='/komoroske-updates/c/']", "title": "span.o1DPKc", "limit": 30 } },
   { "name": "Paul Graham",      "url": "https://www.paulgraham.com/articles.html",
