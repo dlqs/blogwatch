@@ -21,47 +21,42 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--fg);
-  font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font: 15px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
 .site-header,
-main,
+.list,
 .site-footer {
-  max-width: 680px;
+  max-width: 620px;
   margin: 0 auto;
   padding: 0 20px;
 }
 
-.site-header { padding-top: 52px; }
+.site-header { padding-top: 44px; padding-bottom: 4px; }
 .site-header h1 {
-  font-size: 1.55rem;
+  font-size: 1.4rem;
   letter-spacing: -0.02em;
-  margin: 0 0 4px;
+  margin: 0 0 3px;
 }
-.sub { color: var(--muted); font-size: 0.9rem; margin: 0; }
+.sub { color: var(--muted); font-size: 0.85rem; margin: 0; }
 
-.timeline { padding-bottom: 64px; }
+.list {
+  list-style: none;
+  margin: 14px auto 0;
+  padding: 0 20px;
+}
 
-h2.day {
-  font-size: 0.74rem;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  font-weight: 600;
-  color: var(--muted);
-  margin: 34px 0 6px;
-  padding-bottom: 8px;
+.row {
+  padding: 9px 0;
   border-bottom: 1px solid var(--line);
 }
+.row:last-child { border-bottom: none; }
 
-ul.posts { list-style: none; margin: 0; padding: 0; }
-
-li.post { padding: 11px 0; }
-
-.title-row {
+.row-head {
   display: flex;
   align-items: baseline;
-  gap: 8px;
+  gap: 7px;
   flex-wrap: wrap;
 }
 
@@ -69,7 +64,7 @@ a.title {
   color: var(--fg);
   text-decoration: none;
   font-weight: 500;
-  font-size: 1.02rem;
+  font-size: 0.98rem;
 }
 a.title:hover {
   text-decoration: underline;
@@ -80,38 +75,35 @@ a.title:hover {
 .meta {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin-top: 3px;
+  gap: 7px;
+  margin-top: 1px;
   color: var(--muted);
-  font-size: 0.82rem;
+  font-size: 0.78rem;
 }
 .meta .blog { font-weight: 500; }
-.meta .blog::after {
-  content: "·";
-  margin-left: 8px;
-  opacity: 0.5;
-}
+.meta .blog::after { content: "·"; margin-left: 7px; opacity: 0.5; }
 
 .badge {
   flex: none;
-  font-size: 0.6rem;
+  font-size: 0.58rem;
   font-weight: 700;
   letter-spacing: 0.05em;
   color: #fff;
   background: var(--accent);
-  padding: 2px 5px;
+  padding: 1px 5px;
   border-radius: 4px;
   align-self: center;
 }
 
 .site-footer {
-  padding-bottom: 48px;
+  padding-top: 22px;
+  padding-bottom: 44px;
   color: var(--muted);
-  font-size: 0.82rem;
+  font-size: 0.78rem;
 }
 .site-footer a { color: var(--accent); }
 .muted { color: var(--muted); }
-.empty { padding: 48px 0; }
+.empty { padding: 40px 0; }
 
 details summary { cursor: pointer; color: var(--accent); }
-#issues-list { margin: 8px 0 4px; padding-left: 18px; }
+#issues-list { margin: 6px 0 2px; padding-left: 18px; }

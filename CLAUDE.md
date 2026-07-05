@@ -9,11 +9,15 @@ only — it never mirrors content.
 - `blogs.json` — the watchlist (edit this). `{ name, url, feed?, scrape? }`.
 - `poll.mjs` — resolves each feed (explicit `feed` → `<link rel=alternate>`
   discovery → common paths like `/feed`, `/atom.xml`), parses with `rss-parser`,
-  computes new posts with a stable `firstSeen`, writes `data.json`. A blog with
-  no feed can carry a `scrape` CSS-selector block. Node 20; deps: rss-parser,
-  cheerio.
-- `index.html` + `app.js` + `styles.css` — vanilla unified-timeline UI (no build).
-- `data.json` — generated output, committed by CI. Holds the last ~120 posts.
+  and records the **single latest post per blog** — newest by `published` date,
+  falling back to `firstSeen` for dateless sources. A blog with no feed carries a
+  `scrape` block `{ item, title?, link?, date?, include?, exclude?, limit? }`
+  (see Paul Graham, whose `articles.html` is a flat undated essay list). Node 20;
+  deps: rss-parser, cheerio.
+- `index.html` + `app.js` + `styles.css` — vanilla one-row-per-blog UI (no build).
+- `data.json` — generated output, committed by CI. `{ generatedAt, blogs:[{…,
+  latest}], seen:{url→firstSeen} }`. `seen` persists first-seen times so "new"
+  is stable and dateless blogs can be ordered.
 - `.github/workflows/poll.yml` — hourly cron + manual `workflow_dispatch`.
 - `CNAME` — `blogwatch.dlqs.xyz`.
 

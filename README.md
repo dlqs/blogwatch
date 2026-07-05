@@ -1,8 +1,9 @@
 # blogwatch
 
-A tiny personal dashboard that watches a hand-picked list of blogs and shows a
-unified timeline of their **new posts**, linking out to each original article.
-It never mirrors content — it just tells you *when* something new went up.
+A tiny personal dashboard that watches a hand-picked list of blogs and shows the
+**latest post from each** (one row per blog, newest first), linking out to the
+original article. One row per blog means a daily poster never crowds out a yearly
+one. It never mirrors content — it just tells you *when* something new went up.
 
 Live at **https://blogwatch.dlqs.xyz**.
 
@@ -10,10 +11,13 @@ Live at **https://blogwatch.dlqs.xyz**.
 
 - `blogs.json` is the watchlist.
 - An hourly GitHub Action runs `poll.mjs`, which fetches each blog's RSS/Atom
-  feed (auto-discovering it when not given), figures out what's new, and commits
-  `data.json`.
-- The static page (`index.html` + `app.js`) renders `data.json` as a
-  reverse-chronological timeline with a **NEW** badge on recent posts.
+  feed (auto-discovering it when not given), records each blog's latest post, and
+  commits `data.json`.
+- The static page (`index.html` + `app.js`) renders one row per blog, newest
+  first, with a **NEW** badge on posts first seen in the last 48h.
+- Dateless sources (e.g. Paul Graham, who has no feed) are scraped, and their
+  "latest" is inferred from when a link first appears — so a new essay still
+  surfaces.
 
 No server, no database.
 

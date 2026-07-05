@@ -1,12 +1,13 @@
 [
-  {
-    "name": "Dan Luu",
-    "url": "https://danluu.com/",
-    "feed": "https://danluu.com/atom.xml"
-  },
-  {
-    "name": "Astral Codex Ten",
-    "url": "https://www.astralcodexten.com/",
-    "feed": "https://www.astralcodexten.com/feed"
-  }
+  { "name": "Dan Luu",          "url": "https://danluu.com/",              "feed": "https://danluu.com/atom.xml" },
+  { "name": "Astral Codex Ten", "url": "https://www.astralcodexten.com/",  "feed": "https://www.astralcodexten.com/feed" },
+  { "name": "The Scholar's Stage", "url": "https://scholars-stage.org/",   "feed": "https://scholars-stage.org/feed/" },
+  { "name": "Addy Osmani",      "url": "https://addyosmani.com/",          "feed": "https://addyosmani.com/rss.xml" },
+  { "name": "Sam Altman",       "url": "https://blog.samaltman.com/",      "feed": "https://blog.samaltman.com/posts.atom" },
+  { "name": "Simon Willison",   "url": "https://simonwillison.net/",       "feed": "https://simonwillison.net/atom/everything/" },
+  { "name": "Neel Nanda",       "url": "https://www.neelnanda.io/",        "feed": "https://www.neelnanda.io/blog?format=rss" },
+  { "name": "Paul Graham",      "url": "https://www.paulgraham.com/articles.html",
+    "scrape": { "item": "a", "include": "\\.html$",
+      "exclude": "^https?:|^(index|articles|rss|bio|books)\\.html$",
+      "limit": 300 } }
 ]

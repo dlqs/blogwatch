@@ -1,10 +1,10 @@
-// blogwatch UI — fetches data.json and renders a unified, reverse-chron timeline.
+// blogwatch UI — one row per blog showing its latest post, newest first.
 
 const NEW_WINDOW_MS = 48 * 3600 * 1000;
 
 async function main() {
   const statusEl = document.getElementById('status');
-  const timelineEl = document.getElementById('timeline');
+  const listEl = document.getElementById('list');
 
   let data;
   try {
@@ -17,8 +17,6 @@ async function main() {
   }
 
   const blogs = data.blogs || [];
-  const posts = data.posts || [];
-
   statusEl.innerHTML =
     `Watching <strong>${blogs.length}</strong> blog${blogs.length === 1 ? '' : 's'}` +
     (data.generatedAt ? ` · updated ${fmtUpdated(data.generatedAt)}` : '');
@@ -33,90 +31,62 @@ async function main() {
       broken.map((b) => `<li>${esc(b.name)} — ${esc(b.error || 'error')}</li>`).join('');
   }
 
-  if (!posts.length) {
-    timelineEl.innerHTML = '<p class="muted empty">No posts yet.</p>';
+  const now = Date.now();
+  const rows = blogs
+    .filter((b) => b.latest)
+    .map((b) => ({ ...b, _t: Date.parse(b.latest.published || b.latest.firstSeen) || 0 }))
+    .sort((a, b) => b._t - a._t);
+
+  if (!rows.length) {
+    listEl.innerHTML = '<p class="muted empty">No posts yet.</p>';
     return;
   }
 
-  const now = Date.now();
-  const groups = new Map();
-  for (const p of posts) {
-    const t = Date.parse(p.published || p.firstSeen) || now;
-    const key = dayKey(new Date(t));
-    if (!groups.has(key)) groups.set(key, []);
-    groups.get(key).push({ ...p, _t: t });
-  }
-
   const frag = document.createDocumentFragment();
-  for (const items of groups.values()) {
-    const h = document.createElement('h2');
-    h.className = 'day';
-    h.textContent = dayLabel(new Date(items[0]._t));
-    frag.appendChild(h);
-
-    const ul = document.createElement('ul');
-    ul.className = 'posts';
-    for (const p of items) ul.appendChild(renderPost(p, now));
-    frag.appendChild(ul);
-  }
-  timelineEl.appendChild(frag);
+  for (const b of rows) frag.appendChild(renderRow(b, now));
+  listEl.appendChild(frag);
 }
 
-function renderPost(p, now) {
+function renderRow(b, now) {
   const li = document.createElement('li');
-  li.className = 'post';
-
-  const titleRow = document.createElement('div');
-  titleRow.className = 'title-row';
+  li.className = 'row';
 
   const a = document.createElement('a');
   a.className = 'title';
-  a.href = p.url;
+  a.href = b.latest.url;
   a.target = '_blank';
   a.rel = 'noopener noreferrer';
-  a.textContent = p.title || '(untitled)';
-  titleRow.appendChild(a);
-
-  if (p.firstSeen && now - Date.parse(p.firstSeen) < NEW_WINDOW_MS) {
-    const badge = document.createElement('span');
-    badge.className = 'badge';
-    badge.textContent = 'NEW';
-    titleRow.appendChild(badge);
-  }
+  a.textContent = b.latest.title || '(untitled)';
 
   const meta = document.createElement('div');
   meta.className = 'meta';
   const blog = document.createElement('span');
   blog.className = 'blog';
-  blog.textContent = p.blog;
+  blog.textContent = b.name;
   const time = document.createElement('span');
   time.className = 'time';
-  time.textContent = relTime(p._t, now);
+  time.textContent = fmtWhen(b.latest.published, b._t, now);
   meta.append(blog, time);
 
-  li.append(titleRow, meta);
+  const head = document.createElement('div');
+  head.className = 'row-head';
+  head.appendChild(a);
+  if (b.latest.firstSeen && now - Date.parse(b.latest.firstSeen) < NEW_WINDOW_MS) {
+    const badge = document.createElement('span');
+    badge.className = 'badge';
+    badge.textContent = 'NEW';
+    head.appendChild(badge);
+  }
+
+  li.append(head, meta);
   return li;
 }
 
-function dayKey(d) {
-  return `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`;
-}
-
-function sameDay(a, b) {
-  return a.getFullYear() === b.getFullYear() &&
-    a.getMonth() === b.getMonth() &&
-    a.getDate() === b.getDate();
-}
-
-function dayLabel(d) {
-  const today = new Date();
-  const yesterday = new Date();
-  yesterday.setDate(today.getDate() - 1);
-  if (sameDay(d, today)) return 'Today';
-  if (sameDay(d, yesterday)) return 'Yesterday';
-  const opts = { weekday: 'short', month: 'short', day: 'numeric' };
-  if (d.getFullYear() !== today.getFullYear()) opts.year = 'numeric';
-  return d.toLocaleDateString(undefined, opts);
+// Show a real date when we have one; for dateless sources fall back to
+// "seen Nd ago" so the label never lies about a publish date.
+function fmtWhen(published, t, now) {
+  if (published) return relTime(t, now);
+  return `seen ${relTime(t, now)}`;
 }
 
 function relTime(t, now) {
