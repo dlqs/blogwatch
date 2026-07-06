@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T15:56:49.020Z",
+  "generatedAt": "2026-07-06T09:12:04.282Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The AI Superforecasters Are Here",
-        "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
-        "published": "2026-07-02T23:14:12.000Z",
-        "firstSeen": "2026-07-05T09:48:58.014Z"
+        "title": "Open Thread 441",
+        "url": "https://www.astralcodexten.com/p/open-thread-441",
+        "published": "2026-07-06T09:01:09.000Z",
+        "firstSeen": "2026-07-06T09:12:04.282Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
-        "published": "2026-07-05T01:00:48.000Z",
-        "firstSeen": "2026-07-05T09:48:58.014Z"
+        "title": "sqlite-utils 4.0rc3",
+        "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+        "published": "2026-07-06T05:40:08.000Z",
+        "firstSeen": "2026-07-06T09:12:04.282Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/why-video/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/seo-spam/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/open-thread-441": "2026-07-06T09:12:04.282Z",
     "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4405": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/chip-off-the-old-block": "2026-07-05T09:48:58.014Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/open-thread-439": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney": "2026-07-05T09:48:58.014Z",
-    "https://www.astralcodexten.com/p/waiting-for-the-miracle": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything": "2026-07-06T09:12:04.282Z",
     "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything": "2026-07-05T09:48:58.014Z",
     "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything": "2026-07-05T09:48:58.014Z",
     "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything": "2026-07-05T09:48:58.014Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything": "2026-07-05T09:48:58.014Z",
     "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything": "2026-07-05T09:48:58.014Z",
     "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything": "2026-07-05T09:48:58.014Z",
-    "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-05T09:48:58.014Z",
