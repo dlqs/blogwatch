@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T21:06:26.845Z",
+  "generatedAt": "2026-07-07T01:09:45.934Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "sqlite-utils 4.0rc3",
-        "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
-        "published": "2026-07-06T05:40:08.000Z",
-        "firstSeen": "2026-07-06T09:12:04.282Z"
+        "title": "tencent/Hy3",
+        "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+        "published": "2026-07-06T23:57:35.000Z",
+        "firstSeen": "2026-07-07T01:09:45.934Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything": "2026-07-07T01:09:45.934Z",
     "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything": "2026-07-06T09:12:04.282Z",
     "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything": "2026-07-05T09:48:58.014Z",
     "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything": "2026-07-05T09:48:58.014Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything": "2026-07-05T09:48:58.014Z",
     "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything": "2026-07-05T09:48:58.014Z",
     "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything": "2026-07-05T09:48:58.014Z",
-    "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-05T09:48:58.014Z",
