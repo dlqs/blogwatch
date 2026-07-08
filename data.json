@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:58:46.424Z",
+  "generatedAt": "2026-07-08T14:42:42.611Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 441",
-        "url": "https://www.astralcodexten.com/p/open-thread-441",
-        "published": "2026-07-06T09:01:09.000Z",
-        "firstSeen": "2026-07-06T09:12:04.282Z"
+        "title": "Your Book Review: The Book Of Abraham",
+        "url": "https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham",
+        "published": "2026-07-08T12:48:42.000Z",
+        "firstSeen": "2026-07-08T14:42:42.611Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/why-video/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/seo-spam/": "2026-07-08T11:58:46.424Z",
+    "https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham": "2026-07-08T14:42:42.611Z",
     "https://www.astralcodexten.com/p/open-thread-441": "2026-07-06T09:12:04.282Z",
     "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4405": "2026-07-05T09:48:58.014Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/hidden-open-thread-4395": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/open-thread-439": "2026-07-05T09:48:58.014Z",
-    "https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
