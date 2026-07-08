@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:38:45.206Z",
+  "generatedAt": "2026-07-08T22:18:10.077Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
-        "url": "https://danluu.com/ai-coding/",
-        "published": "2026-07-03T00:00:00.000Z",
-        "firstSeen": "2026-07-08T20:38:45.206Z"
+        "title": "Steve Ballmer was an underrated CEO",
+        "url": "https://danluu.com/ballmer/",
+        "published": "2024-10-28T00:00:00.000Z",
+        "firstSeen": "2026-07-05T09:48:58.014Z"
       }
     },
     {
@@ -146,7 +146,6 @@
     }
   ],
   "seen": {
-    "https://danluu.com/ai-coding/": "2026-07-08T20:38:45.206Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
@@ -156,6 +155,7 @@
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/why-video/": "2026-07-05T09:48:58.014Z",
+    "https://danluu.com/seo-spam/": "2026-07-08T22:18:10.077Z",
     "https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham": "2026-07-08T14:42:42.611Z",
     "https://www.astralcodexten.com/p/open-thread-441": "2026-07-06T09:12:04.282Z",
     "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here": "2026-07-05T09:48:58.014Z",
