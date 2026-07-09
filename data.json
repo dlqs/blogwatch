@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T22:18:10.077Z",
+  "generatedAt": "2026-07-09T01:03:40.906Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Kenton Varda",
-        "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
-        "published": "2026-07-08T20:03:34.000Z",
-        "firstSeen": "2026-07-08T20:38:45.206Z"
+        "title": "Rewriting Bun in Rust",
+        "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+        "published": "2026-07-08T23:57:21.000Z",
+        "firstSeen": "2026-07-09T01:03:40.906Z"
       }
     },
     {
@@ -196,6 +196,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything": "2026-07-09T01:03:40.906Z",
+    "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything": "2026-07-09T01:03:40.906Z",
     "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything": "2026-07-08T20:38:45.206Z",
     "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything": "2026-07-07T20:59:00.388Z",
     "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything": "2026-07-07T22:32:51.473Z",
@@ -204,8 +206,6 @@
     "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything": "2026-07-07T22:32:51.473Z",
     "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything": "2026-07-07T01:09:45.934Z",
     "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything": "2026-07-06T09:12:04.282Z",
-    "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything": "2026-07-05T09:48:58.014Z",
-    "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-05T09:48:58.014Z",
