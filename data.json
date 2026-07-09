@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T18:12:04.664Z",
+  "generatedAt": "2026-07-09T20:06:29.216Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Introducing Muse Spark 1.1",
-        "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
-        "published": "2026-07-09T16:24:09.000Z",
-        "firstSeen": "2026-07-09T18:12:04.664Z"
+        "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+        "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+        "published": "2026-07-09T19:46:38.000Z",
+        "firstSeen": "2026-07-09T20:06:29.216Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything": "2026-07-09T20:06:29.216Z",
     "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything": "2026-07-09T18:12:04.664Z",
     "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything": "2026-07-09T18:12:04.664Z",
     "https://simonwillison.net/2026/Jul/9/llm/#atom-everything": "2026-07-09T18:12:04.664Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything": "2026-07-07T20:59:00.388Z",
     "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything": "2026-07-07T22:32:51.473Z",
     "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything": "2026-07-07T22:32:51.473Z",
-    "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything": "2026-07-07T22:32:51.473Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-05T09:48:58.014Z",
