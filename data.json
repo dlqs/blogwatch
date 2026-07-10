@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T21:48:25.176Z",
+  "generatedAt": "2026-07-10T04:18:06.063Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Steve Ballmer was an underrated CEO",
-        "url": "https://danluu.com/ballmer/",
-        "published": "2024-10-28T00:00:00.000Z",
-        "firstSeen": "2026-07-05T09:48:58.014Z"
+        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
+        "url": "https://danluu.com/ai-coding/",
+        "published": "2026-07-03T00:00:00.000Z",
+        "firstSeen": "2026-07-10T04:18:06.063Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The new GPT-5.6 family: Luna, Terra, Sol",
-        "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
-        "published": "2026-07-09T19:46:38.000Z",
-        "firstSeen": "2026-07-09T20:06:29.216Z"
+        "title": "Quoting OpenAI",
+        "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+        "published": "2026-07-10T01:05:57.000Z",
+        "firstSeen": "2026-07-10T04:18:06.063Z"
       }
     },
     {
@@ -146,6 +146,7 @@
     }
   ],
   "seen": {
+    "https://danluu.com/ai-coding/": "2026-07-10T04:18:06.063Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
@@ -155,7 +156,6 @@
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/why-video/": "2026-07-05T09:48:58.014Z",
-    "https://danluu.com/seo-spam/": "2026-07-09T21:48:25.176Z",
     "https://www.astralcodexten.com/p/introducing-plan-a": "2026-07-09T18:12:04.664Z",
     "https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham": "2026-07-08T14:42:42.611Z",
     "https://www.astralcodexten.com/p/open-thread-441": "2026-07-06T09:12:04.282Z",
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/10/openai/#atom-everything": "2026-07-10T04:18:06.063Z",
     "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything": "2026-07-09T20:06:29.216Z",
     "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything": "2026-07-09T18:12:04.664Z",
     "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything": "2026-07-09T18:12:04.664Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything": "2026-07-08T20:38:45.206Z",
     "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything": "2026-07-07T20:59:00.388Z",
     "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything": "2026-07-07T22:32:51.473Z",
-    "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything": "2026-07-07T22:32:51.473Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-05T09:48:58.014Z",
