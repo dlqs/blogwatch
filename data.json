@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T21:09:01.884Z",
+  "generatedAt": "2026-07-12T00:13:16.130Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Nilay Patel",
-        "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
-        "published": "2026-07-10T17:05:26.000Z",
-        "firstSeen": "2026-07-10T18:47:53.450Z"
+        "title": "sqlite-utils 4.1",
+        "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+        "published": "2026-07-11T23:50:20.000Z",
+        "firstSeen": "2026-07-12T00:13:16.130Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything": "2026-07-12T00:13:16.130Z",
     "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything": "2026-07-10T18:47:53.450Z",
     "https://simonwillison.net/2026/Jul/10/openai/#atom-everything": "2026-07-10T04:18:06.063Z",
     "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything": "2026-07-09T20:06:29.216Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything": "2026-07-09T01:03:40.906Z",
     "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything": "2026-07-09T01:03:40.906Z",
     "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything": "2026-07-08T20:38:45.206Z",
-    "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything": "2026-07-07T20:59:00.388Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-05T09:48:58.014Z",
