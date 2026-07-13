@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T23:11:27.832Z",
+  "generatedAt": "2026-07-13T00:13:09.205Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
-        "url": "https://danluu.com/ai-coding/",
-        "published": "2026-07-03T00:00:00.000Z",
-        "firstSeen": "2026-07-12T19:33:31.487Z"
+        "title": "Steve Ballmer was an underrated CEO",
+        "url": "https://danluu.com/ballmer/",
+        "published": "2024-10-28T00:00:00.000Z",
+        "firstSeen": "2026-07-05T09:48:58.014Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Fable gets another bump",
-        "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-        "published": "2026-07-12T21:20:07.000Z",
-        "firstSeen": "2026-07-12T22:09:54.947Z"
+        "title": "Directly Responsible Individuals (DRI)",
+        "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
+        "published": "2026-07-12T23:57:14.000Z",
+        "firstSeen": "2026-07-13T00:13:09.205Z"
       }
     },
     {
@@ -146,7 +146,6 @@
     }
   ],
   "seen": {
-    "https://danluu.com/ai-coding/": "2026-07-12T19:33:31.487Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
@@ -156,6 +155,7 @@
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/why-video/": "2026-07-05T09:48:58.014Z",
+    "https://danluu.com/seo-spam/": "2026-07-13T00:13:09.205Z",
     "https://www.astralcodexten.com/p/introducing-plan-a": "2026-07-09T18:12:04.664Z",
     "https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham": "2026-07-08T14:42:42.611Z",
     "https://www.astralcodexten.com/p/open-thread-441": "2026-07-06T09:12:04.282Z",
@@ -196,6 +196,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything": "2026-07-13T00:13:09.205Z",
+    "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything": "2026-07-13T00:13:09.205Z",
     "https://simonwillison.net/2026/Jul/12/bump/#atom-everything": "2026-07-12T22:09:54.947Z",
     "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything": "2026-07-12T23:11:27.832Z",
     "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything": "2026-07-12T00:13:16.130Z",
@@ -204,8 +206,6 @@
     "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything": "2026-07-09T20:06:29.216Z",
     "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything": "2026-07-09T18:12:04.664Z",
     "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything": "2026-07-09T18:12:04.664Z",
-    "https://simonwillison.net/2026/Jul/9/llm/#atom-everything": "2026-07-09T18:12:04.664Z",
-    "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything": "2026-07-09T01:03:40.906Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-05T09:48:58.014Z",
