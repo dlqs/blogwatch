@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T04:03:56.928Z",
+  "generatedAt": "2026-07-13T11:31:12.108Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Introducing Plan A",
-        "url": "https://www.astralcodexten.com/p/introducing-plan-a",
-        "published": "2026-07-09T16:19:53.000Z",
-        "firstSeen": "2026-07-09T18:12:04.664Z"
+        "title": "Open Thread 442",
+        "url": "https://www.astralcodexten.com/p/open-thread-442",
+        "published": "2026-07-13T08:25:48.000Z",
+        "firstSeen": "2026-07-13T11:31:12.108Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/why-video/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/open-thread-442": "2026-07-13T11:31:12.108Z",
     "https://www.astralcodexten.com/p/introducing-plan-a": "2026-07-09T18:12:04.664Z",
     "https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham": "2026-07-08T14:42:42.611Z",
     "https://www.astralcodexten.com/p/open-thread-441": "2026-07-06T09:12:04.282Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/open-thread-440": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/the-metaculus-threat-to-democracy": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4395": "2026-07-05T09:48:58.014Z",
-    "https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
