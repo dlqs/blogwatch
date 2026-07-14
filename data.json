@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T19:45:49.535Z",
+  "generatedAt": "2026-07-14T21:16:51.683Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Armin Ronacher",
-        "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
-        "published": "2026-07-14T18:04:23.000Z",
-        "firstSeen": "2026-07-14T19:45:49.535Z"
+        "title": "lobste.rs is now running on SQLite",
+        "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+        "published": "2026-07-14T19:44:11.000Z",
+        "firstSeen": "2026-07-14T21:16:51.683Z"
       }
     },
     {
@@ -196,7 +196,9 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything": "2026-07-14T21:16:51.683Z",
     "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything": "2026-07-14T19:45:49.535Z",
+    "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything": "2026-07-14T21:16:51.683Z",
     "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything": "2026-07-14T03:38:26.897Z",
     "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything": "2026-07-13T23:15:46.074Z",
     "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything": "2026-07-13T22:13:50.470Z",
@@ -204,8 +206,6 @@
     "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything": "2026-07-13T00:13:09.205Z",
     "https://simonwillison.net/2026/Jul/12/bump/#atom-everything": "2026-07-12T22:09:54.947Z",
     "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything": "2026-07-12T23:11:27.832Z",
-    "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything": "2026-07-12T00:13:16.130Z",
-    "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything": "2026-07-10T18:47:53.450Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-14T17:35:33.260Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-14T17:35:33.260Z",
