@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T03:38:26.897Z",
+  "generatedAt": "2026-07-14T15:51:41.229Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -83,8 +83,8 @@
       "name": "Neel Nanda",
       "url": "https://www.neelnanda.io/",
       "icon": "icons/www.neelnanda.io.ico",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "This operation was aborted",
       "latest": {
         "title": "MATS Applications Open (Due Aug 29)",
         "url": "https://www.neelnanda.io/blog/mats-apps-9",
@@ -207,15 +207,6 @@
     "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything": "2026-07-10T18:47:53.450Z",
     "https://simonwillison.net/2026/Jul/10/openai/#atom-everything": "2026-07-10T04:18:06.063Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
-    "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-05T09:48:58.014Z",
-    "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-05T09:48:58.014Z",
-    "https://www.neelnanda.io/blog/interlude-a-mechanistic-interpretability-analysis-of-grokking": "2026-07-05T09:48:58.014Z",
-    "https://www.neelnanda.io/blog/49-mentoring": "2026-07-05T09:48:58.014Z",
-    "https://www.neelnanda.io/blog/48-rating": "2026-07-05T09:48:58.014Z",
-    "https://www.neelnanda.io/blog/47-inside-views": "2026-07-05T09:48:58.014Z",
-    "https://www.neelnanda.io/blog/46-bets-v-outcomes": "2026-07-05T09:48:58.014Z",
-    "https://www.neelnanda.io/blog/45-x-risk": "2026-07-05T09:48:58.014Z",
-    "https://www.neelnanda.io/blog/44-agency": "2026-07-05T09:48:58.014Z",
     "https://patrickcollison.com/dispatches/paris": "2026-07-05T09:58:47.573Z",
     "https://patrickcollison.com/dispatches/new-aesthetics": "2026-07-05T09:58:47.573Z",
     "https://patrickcollison.com/dispatches/detroit-impressions": "2026-07-05T09:58:47.573Z",
