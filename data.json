@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T00:07:14.038Z",
+  "generatedAt": "2026-07-15T03:39:12.423Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,7 +73,7 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting GitHub Changeling",
+        "title": "Quoting GitHub Changelog",
         "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
         "published": "2026-07-14T22:43:35.000Z",
         "firstSeen": "2026-07-15T00:07:14.038Z"
