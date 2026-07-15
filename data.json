@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T03:39:12.423Z",
+  "generatedAt": "2026-07-15T11:51:02.061Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 442",
-        "url": "https://www.astralcodexten.com/p/open-thread-442",
-        "published": "2026-07-13T08:25:48.000Z",
-        "firstSeen": "2026-07-13T11:31:12.108Z"
+        "title": "AI Chip Regulation Is Not A Dystopian Surveillance State",
+        "url": "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
+        "published": "2026-07-15T10:19:35.000Z",
+        "firstSeen": "2026-07-15T11:51:02.061Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/why-video/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian": "2026-07-15T11:51:02.061Z",
     "https://www.astralcodexten.com/p/open-thread-442": "2026-07-13T11:31:12.108Z",
     "https://www.astralcodexten.com/p/introducing-plan-a": "2026-07-09T18:12:04.664Z",
     "https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham": "2026-07-08T14:42:42.611Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/chip-off-the-old-block": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/open-thread-440": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/the-metaculus-threat-to-democracy": "2026-07-05T09:48:58.014Z",
-    "https://www.astralcodexten.com/p/hidden-open-thread-4395": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
