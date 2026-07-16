@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T03:41:17.308Z",
+  "generatedAt": "2026-07-16T06:33:22.613Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -47,10 +47,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The Agent-Era Career",
-        "url": "https://addyosmani.com/blog/career-advice-age-of-agents/",
-        "published": "2026-07-06T00:00:00.000Z",
-        "firstSeen": "2026-07-06T21:06:26.845Z"
+        "title": "Own the Outer Loop",
+        "url": "https://addyosmani.com/blog/own-the-outer-loop/",
+        "published": "2026-07-15T00:00:00.000Z",
+        "firstSeen": "2026-07-16T06:33:22.613Z"
       }
     },
     {
@@ -176,6 +176,8 @@
     "https://scholars-stage.org/the-eight-tribes-of-trump-and-china/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-the-euro-american-split-i-dread-possibility/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/observations-from-india/": "2026-07-05T09:48:58.014Z",
+    "https://addyosmani.com/blog/own-the-outer-loop/": "2026-07-16T06:33:22.613Z",
+    "https://addyosmani.com/blog/earning-judgment/": "2026-07-16T06:33:22.613Z",
     "https://addyosmani.com/blog/career-advice-age-of-agents/": "2026-07-06T21:06:26.845Z",
     "https://addyosmani.com/blog/agentic-autonomy-levels/": "2026-07-06T21:06:26.845Z",
     "https://addyosmani.com/blog/new-sdlc-vibe-coding/": "2026-07-05T09:48:58.014Z",
@@ -184,8 +186,6 @@
     "https://addyosmani.com/blog/intent-debt/": "2026-07-05T09:48:58.014Z",
     "https://addyosmani.com/blog/orchestration-tax/": "2026-07-05T09:48:58.014Z",
     "https://addyosmani.com/blog/dont-outsource-learning/": "2026-07-05T09:48:58.014Z",
-    "https://addyosmani.com/blog/cognitive-surrender/": "2026-07-05T09:48:58.014Z",
-    "https://addyosmani.com/blog/agent-skills/": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/2279512": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/sora-update-number-1": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/sora-2": "2026-07-05T09:48:58.014Z",
