@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T16:43:41.475Z",
+  "generatedAt": "2026-07-16T18:34:04.449Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Inkling: Our open-weights model",
-        "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-        "published": "2026-07-16T15:35:25.000Z",
-        "firstSeen": "2026-07-16T16:43:41.475Z"
+        "title": "Quoting Thibault Sottiaux",
+        "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+        "published": "2026-07-16T17:45:59.000Z",
+        "firstSeen": "2026-07-16T18:34:04.449Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything": "2026-07-16T18:34:04.449Z",
     "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything": "2026-07-16T16:43:41.475Z",
     "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything": "2026-07-16T14:25:50.954Z",
     "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything": "2026-07-16T03:41:17.308Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything": "2026-07-15T00:07:14.038Z",
     "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything": "2026-07-14T21:16:51.683Z",
     "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything": "2026-07-14T19:45:49.535Z",
-    "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything": "2026-07-14T21:16:51.683Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-14T17:35:33.260Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-14T17:35:33.260Z",
