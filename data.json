@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T21:27:07.244Z",
+  "generatedAt": "2026-07-16T23:12:33.561Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Six Slightly Skew Boogeymen",
-        "url": "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
-        "published": "2026-07-16T00:55:28.000Z",
-        "firstSeen": "2026-07-16T03:41:17.308Z"
+        "title": "Against \"Stochastic Terrorism\"",
+        "url": "https://www.astralcodexten.com/p/against-stochastic-terrorism",
+        "published": "2026-07-16T22:18:00.000Z",
+        "firstSeen": "2026-07-16T23:12:33.561Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/why-video/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/against-stochastic-terrorism": "2026-07-16T23:12:33.561Z",
     "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen": "2026-07-16T03:41:17.308Z",
     "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian": "2026-07-15T11:51:02.061Z",
     "https://www.astralcodexten.com/p/open-thread-442": "2026-07-13T11:31:12.108Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4405": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/chip-off-the-old-block": "2026-07-05T09:48:58.014Z",
-    "https://www.astralcodexten.com/p/open-thread-440": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
