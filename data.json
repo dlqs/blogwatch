@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T21:07:53.564Z",
+  "generatedAt": "2026-07-19T06:44:12.124Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "SQLite Query Explainer",
-        "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
-        "published": "2026-07-18T17:19:10.000Z",
-        "firstSeen": "2026-07-18T21:07:53.564Z"
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+        "published": "2026-07-19T05:06:21.000Z",
+        "firstSeen": "2026-07-19T06:44:12.124Z"
       }
     },
     {
@@ -196,6 +196,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything": "2026-07-19T06:44:12.124Z",
+    "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything": "2026-07-19T06:44:12.124Z",
     "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything": "2026-07-18T21:07:53.564Z",
     "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything": "2026-07-18T06:21:06.137Z",
     "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything": "2026-07-18T06:21:06.137Z",
@@ -204,8 +206,6 @@
     "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything": "2026-07-17T03:42:15.565Z",
     "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything": "2026-07-17T00:14:21.483Z",
     "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything": "2026-07-16T21:27:07.244Z",
-    "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything": "2026-07-16T18:34:04.449Z",
-    "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything": "2026-07-16T16:43:41.475Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-14T17:35:33.260Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-14T17:35:33.260Z",
