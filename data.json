@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T03:49:03.444Z",
+  "generatedAt": "2026-07-21T14:26:07.851Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 443",
-        "url": "https://www.astralcodexten.com/p/open-thread-443",
-        "published": "2026-07-20T11:27:22.000Z",
-        "firstSeen": "2026-07-20T13:20:10.966Z"
+        "title": "Contra Pritchard On Liberal Happiness",
+        "url": "https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness",
+        "published": "2026-07-21T12:30:55.000Z",
+        "firstSeen": "2026-07-21T14:26:07.851Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Reverse-engineering is cheap now",
-        "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
-        "published": "2026-07-20T19:24:05.000Z",
-        "firstSeen": "2026-07-20T20:43:16.706Z"
+        "title": "Nativ: Run AI models locally on your Mac",
+        "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+        "published": "2026-07-21T14:22:27.000Z",
+        "firstSeen": "2026-07-21T14:26:07.851Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/why-video/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness": "2026-07-21T14:26:07.851Z",
     "https://www.astralcodexten.com/p/open-thread-443": "2026-07-20T13:20:10.966Z",
     "https://www.astralcodexten.com/p/your-book-review-great-and-desperate": "2026-07-17T15:43:53.533Z",
     "https://www.astralcodexten.com/p/against-stochastic-terrorism": "2026-07-16T23:12:33.561Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/introducing-plan-a": "2026-07-09T18:12:04.664Z",
     "https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham": "2026-07-08T14:42:42.611Z",
     "https://www.astralcodexten.com/p/open-thread-441": "2026-07-06T09:12:04.282Z",
-    "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -196,6 +196,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything": "2026-07-21T14:26:07.851Z",
+    "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything": "2026-07-21T14:26:07.851Z",
     "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything": "2026-07-20T20:43:16.706Z",
     "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything": "2026-07-20T18:21:49.054Z",
     "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything": "2026-07-20T04:09:45.010Z",
@@ -204,8 +206,6 @@
     "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything": "2026-07-18T21:07:53.564Z",
     "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything": "2026-07-18T06:21:06.137Z",
     "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything": "2026-07-18T06:21:06.137Z",
-    "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything": "2026-07-17T14:05:30.791Z",
-    "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything": "2026-07-17T19:34:49.407Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-14T17:35:33.260Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-14T17:35:33.260Z",
