@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T06:41:31.633Z",
+  "generatedAt": "2026-07-23T23:15:45.338Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Seth Larson",
-        "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
-        "published": "2026-07-23T04:50:36.000Z",
-        "firstSeen": "2026-07-23T06:41:31.633Z"
+        "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+        "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+        "published": "2026-07-23T22:53:08.000Z",
+        "firstSeen": "2026-07-23T23:15:45.338Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything": "2026-07-23T23:15:45.338Z",
     "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything": "2026-07-23T06:41:31.633Z",
     "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything": "2026-07-23T00:14:28.489Z",
     "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything": "2026-07-23T00:14:28.489Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything": "2026-07-21T14:26:07.851Z",
     "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything": "2026-07-21T14:26:07.851Z",
     "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything": "2026-07-20T20:43:16.706Z",
-    "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything": "2026-07-20T18:21:49.054Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-14T17:35:33.260Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-14T17:35:33.260Z",
