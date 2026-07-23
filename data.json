@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T16:50:04.052Z",
+  "generatedAt": "2026-07-23T00:14:28.489Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Nativ: Run AI models locally on your Mac",
-        "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
-        "published": "2026-07-21T14:22:27.000Z",
-        "firstSeen": "2026-07-21T14:26:07.851Z"
+        "title": "Quoting Thomas Ptacek",
+        "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+        "published": "2026-07-22T23:59:01.000Z",
+        "firstSeen": "2026-07-23T00:14:28.489Z"
       }
     },
     {
@@ -196,16 +196,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything": "2026-07-23T00:14:28.489Z",
+    "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything": "2026-07-23T00:14:28.489Z",
+    "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything": "2026-07-23T00:14:28.489Z",
+    "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything": "2026-07-23T00:14:28.489Z",
+    "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything": "2026-07-23T00:14:28.489Z",
     "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything": "2026-07-21T14:26:07.851Z",
     "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything": "2026-07-21T14:26:07.851Z",
     "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything": "2026-07-20T20:43:16.706Z",
     "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything": "2026-07-20T18:21:49.054Z",
     "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything": "2026-07-20T04:09:45.010Z",
-    "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything": "2026-07-19T06:44:12.124Z",
-    "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything": "2026-07-19T06:44:12.124Z",
-    "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything": "2026-07-18T21:07:53.564Z",
-    "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything": "2026-07-18T06:21:06.137Z",
-    "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything": "2026-07-18T06:21:06.137Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-14T17:35:33.260Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-14T17:35:33.260Z",
