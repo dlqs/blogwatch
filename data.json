@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T15:30:20.181Z",
+  "generatedAt": "2026-07-25T23:14:48.697Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Boris Cherny",
-        "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
-        "published": "2026-07-25T00:42:59.000Z",
-        "firstSeen": "2026-07-25T03:41:33.264Z"
+        "title": "Ruff v0.16.0",
+        "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+        "published": "2026-07-25T22:44:05.000Z",
+        "firstSeen": "2026-07-25T23:14:48.697Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything": "2026-07-25T23:14:48.697Z",
     "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": "2026-07-25T03:41:33.264Z",
     "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": "2026-07-25T03:41:33.264Z",
     "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything": "2026-07-23T23:15:45.338Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything": "2026-07-23T00:14:28.489Z",
     "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything": "2026-07-23T00:14:28.489Z",
     "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything": "2026-07-23T00:14:28.489Z",
-    "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything": "2026-07-21T14:26:07.851Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
