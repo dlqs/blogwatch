@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T22:28:35.852Z",
+  "generatedAt": "2026-07-28T00:12:36.410Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
-        "url": "https://danluu.com/ai-coding/",
-        "published": "2026-07-03T00:00:00.000Z",
-        "firstSeen": "2026-07-13T04:03:56.928Z"
+        "title": "Exercises in benchmarking and evals, part 7: DeepSWE, Senior SWE-Bench, napkin math, and winter tires",
+        "url": "https://danluu.com/exercise-7/",
+        "published": "2026-07-23T00:00:00.000Z",
+        "firstSeen": "2026-07-28T00:12:36.410Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "An opinionated guide to which AI to use to do stuff",
-        "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
-        "published": "2026-07-27T21:55:53.000Z",
-        "firstSeen": "2026-07-27T22:28:35.852Z"
+        "title": "moonshotai/Kimi-K3",
+        "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+        "published": "2026-07-27T23:39:04.000Z",
+        "firstSeen": "2026-07-28T00:12:36.410Z"
       }
     },
     {
@@ -146,6 +146,7 @@
     }
   ],
   "seen": {
+    "https://danluu.com/exercise-7/": "2026-07-28T00:12:36.410Z",
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
@@ -155,7 +156,6 @@
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
-    "https://danluu.com/why-video/": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/open-thread-444": "2026-07-27T15:16:12.762Z",
     "https://www.astralcodexten.com/p/breakdown-in-pakistan": "2026-07-24T15:48:40.855Z",
     "https://www.astralcodexten.com/p/the-hugging-face-incident": "2026-07-24T06:41:01.640Z",
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything": "2026-07-28T00:12:36.410Z",
     "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything": "2026-07-27T22:28:35.852Z",
     "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything": "2026-07-26T19:37:09.007Z",
     "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything": "2026-07-25T23:14:48.697Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything": "2026-07-23T06:41:31.633Z",
     "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything": "2026-07-23T00:14:28.489Z",
     "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything": "2026-07-23T00:14:28.489Z",
-    "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything": "2026-07-23T00:14:28.489Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
