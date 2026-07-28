@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T12:15:34.416Z",
+  "generatedAt": "2026-07-28T22:18:03.945Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "moonshotai/Kimi-K3",
-        "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
-        "published": "2026-07-27T23:39:04.000Z",
-        "firstSeen": "2026-07-28T00:12:36.410Z"
+        "title": "Quoting Akshat Bubna",
+        "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
+        "published": "2026-07-28T22:05:55.000Z",
+        "firstSeen": "2026-07-28T22:18:03.945Z"
       }
     },
     {
@@ -196,6 +196,9 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything": "2026-07-28T22:18:03.945Z",
+    "https://simonwillison.net/2026/Jul/28/uv/#atom-everything": "2026-07-28T22:18:03.945Z",
+    "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything": "2026-07-28T22:18:03.945Z",
     "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything": "2026-07-28T00:12:36.410Z",
     "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything": "2026-07-27T22:28:35.852Z",
     "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything": "2026-07-26T19:37:09.007Z",
@@ -203,9 +206,6 @@
     "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": "2026-07-25T03:41:33.264Z",
     "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": "2026-07-25T03:41:33.264Z",
     "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything": "2026-07-23T23:15:45.338Z",
-    "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything": "2026-07-23T06:41:31.633Z",
-    "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything": "2026-07-23T00:14:28.489Z",
-    "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything": "2026-07-23T00:14:28.489Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
