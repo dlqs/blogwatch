@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T00:12:36.410Z",
+  "generatedAt": "2026-07-28T12:15:34.416Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 444",
-        "url": "https://www.astralcodexten.com/p/open-thread-444",
-        "published": "2026-07-27T13:25:31.000Z",
-        "firstSeen": "2026-07-27T15:16:12.762Z"
+        "title": "Psychology Research Is Mostly Fine",
+        "url": "https://www.astralcodexten.com/p/psychology-research-is-mostly-fine",
+        "published": "2026-07-28T11:05:46.000Z",
+        "firstSeen": "2026-07-28T12:15:34.416Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/psychology-research-is-mostly-fine": "2026-07-28T12:15:34.416Z",
     "https://www.astralcodexten.com/p/open-thread-444": "2026-07-27T15:16:12.762Z",
     "https://www.astralcodexten.com/p/breakdown-in-pakistan": "2026-07-24T15:48:40.855Z",
     "https://www.astralcodexten.com/p/the-hugging-face-incident": "2026-07-24T06:41:01.640Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/your-book-review-great-and-desperate": "2026-07-17T15:43:53.533Z",
     "https://www.astralcodexten.com/p/against-stochastic-terrorism": "2026-07-16T23:12:33.561Z",
     "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen": "2026-07-16T03:41:17.308Z",
-    "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian": "2026-07-15T11:51:02.061Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
