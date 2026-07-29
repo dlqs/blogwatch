@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T03:43:37.314Z",
+  "generatedAt": "2026-07-29T19:46:35.946Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Discovering cryptographic weaknesses with Claude",
-        "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
-        "published": "2026-07-28T22:45:37.000Z",
-        "firstSeen": "2026-07-29T00:11:10.966Z"
+        "title": "AI Worming through Word",
+        "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
+        "published": "2026-07-29T18:43:03.000Z",
+        "firstSeen": "2026-07-29T19:46:35.946Z"
       }
     },
     {
@@ -196,6 +196,9 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything": "2026-07-29T19:46:35.946Z",
+    "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything": "2026-07-29T19:46:35.946Z",
+    "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything": "2026-07-29T19:46:35.946Z",
     "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything": "2026-07-29T00:11:10.966Z",
     "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything": "2026-07-28T22:18:03.945Z",
     "https://simonwillison.net/2026/Jul/28/uv/#atom-everything": "2026-07-28T22:18:03.945Z",
@@ -203,9 +206,6 @@
     "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything": "2026-07-28T00:12:36.410Z",
     "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything": "2026-07-27T22:28:35.852Z",
     "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything": "2026-07-26T19:37:09.007Z",
-    "https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything": "2026-07-29T03:43:37.314Z",
-    "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything": "2026-07-25T23:14:48.697Z",
-    "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": "2026-07-25T03:41:33.264Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
