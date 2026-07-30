@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T03:32:27.468Z",
+  "generatedAt": "2026-07-30T18:49:04.491Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting D. Richard Hipp",
-        "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
-        "published": "2026-07-29T21:15:21.000Z",
-        "firstSeen": "2026-07-29T22:15:38.767Z"
+        "title": "Quoting Bruce Schneier",
+        "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+        "published": "2026-07-30T18:25:26.000Z",
+        "firstSeen": "2026-07-30T18:49:04.491Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything": "2026-07-30T18:49:04.491Z",
     "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything": "2026-07-29T22:15:38.767Z",
     "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything": "2026-07-29T19:46:35.946Z",
     "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything": "2026-07-29T19:46:35.946Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/28/uv/#atom-everything": "2026-07-28T22:18:03.945Z",
     "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything": "2026-07-28T22:18:03.945Z",
     "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything": "2026-07-28T00:12:36.410Z",
-    "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything": "2026-07-27T22:28:35.852Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
