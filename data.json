@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T22:15:38.767Z",
+  "generatedAt": "2026-07-30T03:32:27.468Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Psychology Research Is Mostly Fine",
-        "url": "https://www.astralcodexten.com/p/psychology-research-is-mostly-fine",
-        "published": "2026-07-28T11:05:46.000Z",
-        "firstSeen": "2026-07-28T12:15:34.416Z"
+        "title": "Highlights From The Discourse On The Hugging Face Incident",
+        "url": "https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
+        "published": "2026-07-30T01:07:16.000Z",
+        "firstSeen": "2026-07-30T03:32:27.468Z"
       }
     },
     {
@@ -156,6 +156,8 @@
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/highlights-from-the-discourse-on": "2026-07-30T03:32:27.468Z",
+    "https://www.astralcodexten.com/p/hidden-open-thread-4445": "2026-07-30T03:32:27.468Z",
     "https://www.astralcodexten.com/p/psychology-research-is-mostly-fine": "2026-07-28T12:15:34.416Z",
     "https://www.astralcodexten.com/p/open-thread-444": "2026-07-27T15:16:12.762Z",
     "https://www.astralcodexten.com/p/breakdown-in-pakistan": "2026-07-24T15:48:40.855Z",
@@ -164,8 +166,6 @@
     "https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness": "2026-07-21T14:26:07.851Z",
     "https://www.astralcodexten.com/p/open-thread-443": "2026-07-20T13:20:10.966Z",
     "https://www.astralcodexten.com/p/your-book-review-great-and-desperate": "2026-07-17T15:43:53.533Z",
-    "https://www.astralcodexten.com/p/against-stochastic-terrorism": "2026-07-16T23:12:33.561Z",
-    "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen": "2026-07-16T03:41:17.308Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
