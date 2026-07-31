@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T21:32:36.007Z",
+  "generatedAt": "2026-07-31T23:17:07.216Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
-        "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
-        "published": "2026-07-31T21:15:23.000Z",
-        "firstSeen": "2026-07-31T21:32:36.007Z"
+        "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+        "published": "2026-07-31T23:13:22.000Z",
+        "firstSeen": "2026-07-31T23:17:07.216Z"
       }
     },
     {
@@ -196,6 +196,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything": "2026-07-31T23:17:07.216Z",
+    "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything": "2026-07-31T23:17:07.216Z",
     "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything": "2026-07-31T21:32:36.007Z",
     "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything": "2026-07-31T00:16:43.695Z",
     "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything": "2026-07-31T00:16:43.695Z",
@@ -204,8 +206,6 @@
     "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything": "2026-07-31T03:56:28.512Z",
     "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything": "2026-07-31T00:16:43.695Z",
     "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything": "2026-07-29T22:15:38.767Z",
-    "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything": "2026-07-29T19:46:35.946Z",
-    "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything": "2026-07-29T19:46:35.946Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
