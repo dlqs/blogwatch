@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T23:17:07.216Z",
+  "generatedAt": "2026-08-01T00:14:53.619Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Links For July 2026 (Part 2)",
-        "url": "https://www.astralcodexten.com/p/links-for-july-2026-part-2",
-        "published": "2026-07-30T20:45:37.000Z",
-        "firstSeen": "2026-07-30T22:28:49.542Z"
+        "title": "Your Book Review: The Epic Of Gilgamesh",
+        "url": "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
+        "published": "2026-07-31T23:58:42.000Z",
+        "firstSeen": "2026-08-01T00:14:53.619Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
-        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
-        "published": "2026-07-31T23:13:22.000Z",
-        "firstSeen": "2026-07-31T23:17:07.216Z"
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+        "published": "2026-07-31T23:59:44.000Z",
+        "firstSeen": "2026-08-01T00:14:53.619Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh": "2026-08-01T00:14:53.619Z",
     "https://www.astralcodexten.com/p/links-for-july-2026-part-2": "2026-07-30T22:28:49.542Z",
     "https://www.astralcodexten.com/p/highlights-from-the-discourse-on": "2026-07-30T03:32:27.468Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4445": "2026-07-30T03:32:27.468Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/the-hugging-face-incident": "2026-07-24T06:41:01.640Z",
     "https://www.astralcodexten.com/p/links-for-july-2026-part-1": "2026-07-22T16:50:04.052Z",
     "https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness": "2026-07-21T14:26:07.851Z",
-    "https://www.astralcodexten.com/p/open-thread-443": "2026-07-20T13:20:10.966Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything": "2026-08-01T00:14:53.619Z",
     "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything": "2026-07-31T23:17:07.216Z",
     "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything": "2026-07-31T23:17:07.216Z",
     "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything": "2026-07-31T21:32:36.007Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything": "2026-07-30T18:49:04.491Z",
     "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything": "2026-07-31T03:56:28.512Z",
     "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything": "2026-07-31T00:16:43.695Z",
-    "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything": "2026-07-29T22:15:38.767Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
