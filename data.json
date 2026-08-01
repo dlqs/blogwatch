@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T03:55:40.866Z",
+  "generatedAt": "2026-08-01T21:11:09.172Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
-        "published": "2026-07-31T23:59:44.000Z",
-        "firstSeen": "2026-08-01T00:14:53.619Z"
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+        "published": "2026-08-01T20:34:49.000Z",
+        "firstSeen": "2026-08-01T21:11:09.172Z"
       }
     },
     {
@@ -196,16 +196,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything": "2026-08-01T21:11:09.172Z",
     "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything": "2026-08-01T00:14:53.619Z",
     "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything": "2026-07-31T23:17:07.216Z",
     "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything": "2026-08-01T03:55:40.866Z",
     "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything": "2026-07-31T23:17:07.216Z",
     "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything": "2026-07-31T21:32:36.007Z",
+    "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything": "2026-08-01T21:11:09.172Z",
     "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything": "2026-08-01T03:55:40.866Z",
     "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything": "2026-07-31T00:16:43.695Z",
     "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything": "2026-07-31T00:16:43.695Z",
-    "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything": "2026-07-31T03:56:28.512Z",
-    "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything": "2026-07-30T18:49:04.491Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
