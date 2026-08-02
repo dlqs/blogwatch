@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T06:47:10.762Z",
+  "generatedAt": "2026-08-02T17:18:15.887Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -99,10 +99,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Paris",
-        "url": "https://patrickcollison.com/dispatches/paris",
+        "title": "Why Aesthetics",
+        "url": "https://patrickcollison.com/dispatches/why-aesthetics",
         "published": null,
-        "firstSeen": "2026-07-05T09:58:47.573Z"
+        "firstSeen": "2026-08-02T17:18:15.887Z"
       }
     },
     {
@@ -216,6 +216,7 @@
     "https://www.neelnanda.io/blog/46-bets-v-outcomes": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/45-x-risk": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/44-agency": "2026-07-25T15:30:20.181Z",
+    "https://patrickcollison.com/dispatches/why-aesthetics": "2026-08-02T17:18:15.887Z",
     "https://patrickcollison.com/dispatches/paris": "2026-07-05T09:58:47.573Z",
     "https://patrickcollison.com/dispatches/new-aesthetics": "2026-07-05T09:58:47.573Z",
     "https://patrickcollison.com/dispatches/detroit-impressions": "2026-07-05T09:58:47.573Z",
