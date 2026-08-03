@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T00:15:51.041Z",
+  "generatedAt": "2026-08-03T18:09:37.128Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Your Book Review: The Epic Of Gilgamesh",
-        "url": "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
-        "published": "2026-07-31T23:58:42.000Z",
-        "firstSeen": "2026-08-01T00:14:53.619Z"
+        "title": "Open Thread 445",
+        "url": "https://www.astralcodexten.com/p/open-thread-445",
+        "published": "2026-08-03T16:25:28.000Z",
+        "firstSeen": "2026-08-03T18:09:37.128Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "condense-json 1.0",
-        "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
-        "published": "2026-08-02T22:19:59.000Z",
-        "firstSeen": "2026-08-03T00:15:51.041Z"
+        "title": "Quoting David Crawshaw's prompt",
+        "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+        "published": "2026-08-03T16:15:27.000Z",
+        "firstSeen": "2026-08-03T18:09:37.128Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/open-thread-445": "2026-08-03T18:09:37.128Z",
     "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh": "2026-08-01T00:14:53.619Z",
     "https://www.astralcodexten.com/p/links-for-july-2026-part-2": "2026-07-30T22:28:49.542Z",
     "https://www.astralcodexten.com/p/highlights-from-the-discourse-on": "2026-07-30T03:32:27.468Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/breakdown-in-pakistan": "2026-07-24T15:48:40.855Z",
     "https://www.astralcodexten.com/p/the-hugging-face-incident": "2026-07-24T06:41:01.640Z",
     "https://www.astralcodexten.com/p/links-for-july-2026-part-1": "2026-07-22T16:50:04.052Z",
-    "https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness": "2026-07-21T14:26:07.851Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -196,6 +196,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything": "2026-08-03T18:09:37.128Z",
+    "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything": "2026-08-03T18:09:37.128Z",
     "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything": "2026-08-03T00:15:51.041Z",
     "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything": "2026-08-02T06:47:10.762Z",
     "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything": "2026-08-02T06:47:10.762Z",
@@ -204,8 +206,6 @@
     "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything": "2026-08-01T21:11:09.172Z",
     "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything": "2026-08-01T00:14:53.619Z",
     "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything": "2026-07-31T23:17:07.216Z",
-    "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything": "2026-08-01T03:55:40.866Z",
-    "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything": "2026-07-31T23:17:07.216Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
