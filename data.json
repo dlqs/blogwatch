@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T18:09:37.128Z",
+  "generatedAt": "2026-08-03T21:31:57.746Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Bits and Bobs 7/27/26",
-        "url": "https://groups.google.com/g/komoroske-updates/c/8XeLudSpZII",
+        "title": "Bits and Bobs 8/3/26",
+        "url": "https://groups.google.com/g/komoroske-updates/c/R2U7EFFNjvU",
         "published": null,
-        "firstSeen": "2026-07-27T20:45:29.700Z"
+        "firstSeen": "2026-08-03T21:31:57.746Z"
       }
     },
     {
@@ -249,6 +249,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://groups.google.com/g/komoroske-updates/c/R2U7EFFNjvU": "2026-08-03T21:31:57.746Z",
     "https://groups.google.com/g/komoroske-updates/c/8XeLudSpZII": "2026-07-27T20:45:29.700Z",
     "https://groups.google.com/g/komoroske-updates/c/TCyd2v-p9yI": "2026-07-20T16:02:45.662Z",
     "https://groups.google.com/g/komoroske-updates/c/XCsrD-g6f2g": "2026-07-06T19:07:55.677Z",
@@ -278,7 +279,6 @@
     "https://groups.google.com/g/komoroske-updates/c/FgQ3bWxwVGA": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/Qe6yiknk61c": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/irsjqMgE-Pk": "2026-07-05T15:35:44.955Z",
-    "https://groups.google.com/g/komoroske-updates/c/cZKArC-7yC0": "2026-07-05T15:35:44.955Z",
     "https://www.paulgraham.com/earn.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/winc.html": "2026-07-05T09:48:58.014Z",
     "https://www.paulgraham.com/brandage.html": "2026-07-05T09:48:58.014Z",
