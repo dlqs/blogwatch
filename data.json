@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T21:31:57.746Z",
+  "generatedAt": "2026-08-03T23:28:46.664Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 445",
-        "url": "https://www.astralcodexten.com/p/open-thread-445",
-        "published": "2026-08-03T16:25:28.000Z",
-        "firstSeen": "2026-08-03T18:09:37.128Z"
+        "title": "Does Forecasting Have Room At The Top?",
+        "url": "https://www.astralcodexten.com/p/does-forecasting-have-room-at-the",
+        "published": "2026-08-03T22:36:17.000Z",
+        "firstSeen": "2026-08-03T23:28:46.664Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/does-forecasting-have-room-at-the": "2026-08-03T23:28:46.664Z",
     "https://www.astralcodexten.com/p/open-thread-445": "2026-08-03T18:09:37.128Z",
     "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh": "2026-08-01T00:14:53.619Z",
     "https://www.astralcodexten.com/p/links-for-july-2026-part-2": "2026-07-30T22:28:49.542Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/open-thread-444": "2026-07-27T15:16:12.762Z",
     "https://www.astralcodexten.com/p/breakdown-in-pakistan": "2026-07-24T15:48:40.855Z",
     "https://www.astralcodexten.com/p/the-hugging-face-incident": "2026-07-24T06:41:01.640Z",
-    "https://www.astralcodexten.com/p/links-for-july-2026-part-1": "2026-07-22T16:50:04.052Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
