@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T23:28:46.664Z",
+  "generatedAt": "2026-08-04T03:41:20.858Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting David Crawshaw's prompt",
-        "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
-        "published": "2026-08-03T16:15:27.000Z",
-        "firstSeen": "2026-08-03T18:09:37.128Z"
+        "title": "Quoting Steve Yegge",
+        "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+        "published": "2026-08-04T00:42:45.000Z",
+        "firstSeen": "2026-08-04T03:41:20.858Z"
       }
     },
     {
@@ -196,6 +196,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything": "2026-08-04T03:41:20.858Z",
+    "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything": "2026-08-04T03:41:20.858Z",
     "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything": "2026-08-03T18:09:37.128Z",
     "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything": "2026-08-03T18:09:37.128Z",
     "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything": "2026-08-03T00:15:51.041Z",
@@ -204,8 +206,6 @@
     "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything": "2026-08-01T23:13:53.631Z",
     "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything": "2026-08-01T22:13:00.510Z",
     "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything": "2026-08-01T21:11:09.172Z",
-    "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything": "2026-08-01T00:14:53.619Z",
-    "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything": "2026-07-31T23:17:07.216Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
