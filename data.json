@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T03:41:20.858Z",
+  "generatedAt": "2026-08-04T19:59:09.323Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Steve Yegge",
-        "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
-        "published": "2026-08-04T00:42:45.000Z",
-        "firstSeen": "2026-08-04T03:41:20.858Z"
+        "title": "PipeNetwork/minimax-h3-mlx",
+        "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+        "published": "2026-08-04T19:10:09.000Z",
+        "firstSeen": "2026-08-04T19:59:09.323Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything": "2026-08-04T19:59:09.323Z",
     "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything": "2026-08-04T03:41:20.858Z",
     "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything": "2026-08-04T03:41:20.858Z",
     "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything": "2026-08-03T18:09:37.128Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything": "2026-08-02T06:47:10.762Z",
     "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything": "2026-08-01T23:13:53.631Z",
     "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything": "2026-08-01T22:13:00.510Z",
-    "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything": "2026-08-01T21:11:09.172Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
