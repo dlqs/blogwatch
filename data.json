@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:38:38.990Z",
+  "generatedAt": "2026-08-05T03:36:11.795Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "PipeNetwork/minimax-h3-mlx",
-        "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
-        "published": "2026-08-04T19:10:09.000Z",
-        "firstSeen": "2026-08-04T19:59:09.323Z"
+        "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+        "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+        "published": "2026-08-04T23:58:24.000Z",
+        "firstSeen": "2026-08-05T03:36:11.795Z"
       }
     },
     {
@@ -196,16 +196,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything": "2026-08-05T03:36:11.795Z",
+    "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything": "2026-08-05T03:36:11.795Z",
     "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything": "2026-08-04T19:59:09.323Z",
+    "https://simonwillison.net/2026/Aug/4/llm/#atom-everything": "2026-08-05T03:36:11.795Z",
     "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything": "2026-08-04T03:41:20.858Z",
     "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything": "2026-08-04T03:41:20.858Z",
     "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything": "2026-08-03T18:09:37.128Z",
     "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything": "2026-08-03T18:09:37.128Z",
+    "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything": "2026-08-05T03:36:11.795Z",
     "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything": "2026-08-03T00:15:51.041Z",
-    "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything": "2026-08-02T06:47:10.762Z",
-    "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything": "2026-08-02T06:47:10.762Z",
-    "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything": "2026-08-01T23:13:53.631Z",
-    "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything": "2026-08-01T22:13:00.510Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
