@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T19:57:10.859Z",
+  "generatedAt": "2026-08-06T03:42:09.272Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The Beauty Of Settled Science",
-        "url": "https://www.astralcodexten.com/p/the-beauty-of-settled-science",
-        "published": "2026-08-04T21:32:18.000Z",
-        "firstSeen": "2026-08-04T21:38:38.990Z"
+        "title": "Hidden Open Thread 445.5",
+        "url": "https://www.astralcodexten.com/p/hidden-open-thread-4455",
+        "published": "2026-08-06T02:52:07.000Z",
+        "firstSeen": "2026-08-06T03:42:09.272Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
-        "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
-        "published": "2026-08-05T19:42:38.000Z",
-        "firstSeen": "2026-08-05T19:57:10.859Z"
+        "title": "An AI model from Meta also hacked another company during testing",
+        "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+        "published": "2026-08-06T00:25:27.000Z",
+        "firstSeen": "2026-08-06T03:42:09.272Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/hidden-open-thread-4455": "2026-08-06T03:42:09.272Z",
     "https://www.astralcodexten.com/p/the-beauty-of-settled-science": "2026-08-04T21:38:38.990Z",
     "https://www.astralcodexten.com/p/does-forecasting-have-room-at-the": "2026-08-03T23:28:46.664Z",
     "https://www.astralcodexten.com/p/open-thread-445": "2026-08-03T18:09:37.128Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/hidden-open-thread-4445": "2026-07-30T03:32:27.468Z",
     "https://www.astralcodexten.com/p/psychology-research-is-mostly-fine": "2026-07-28T12:15:34.416Z",
     "https://www.astralcodexten.com/p/open-thread-444": "2026-07-27T15:16:12.762Z",
-    "https://www.astralcodexten.com/p/breakdown-in-pakistan": "2026-07-24T15:48:40.855Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -196,16 +196,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything": "2026-08-06T03:42:09.272Z",
+    "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything": "2026-08-06T03:42:09.272Z",
+    "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything": "2026-08-06T03:42:09.272Z",
+    "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything": "2026-08-06T03:42:09.272Z",
     "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything": "2026-08-05T19:57:10.859Z",
     "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything": "2026-08-05T03:36:11.795Z",
     "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything": "2026-08-05T03:36:11.795Z",
     "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything": "2026-08-04T19:59:09.323Z",
     "https://simonwillison.net/2026/Aug/4/llm/#atom-everything": "2026-08-05T03:36:11.795Z",
     "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything": "2026-08-04T03:41:20.858Z",
-    "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything": "2026-08-04T03:41:20.858Z",
-    "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything": "2026-08-03T18:09:37.128Z",
-    "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything": "2026-08-03T18:09:37.128Z",
-    "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything": "2026-08-05T03:36:11.795Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
