@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T03:42:09.272Z",
+  "generatedAt": "2026-08-06T06:48:10.170Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Hidden Open Thread 445.5",
-        "url": "https://www.astralcodexten.com/p/hidden-open-thread-4455",
-        "published": "2026-08-06T02:52:07.000Z",
-        "firstSeen": "2026-08-06T03:42:09.272Z"
+        "title": "Open Questions On Open Weights",
+        "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
+        "published": "2026-08-06T03:56:29.000Z",
+        "firstSeen": "2026-08-06T06:48:10.170Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/open-questions-on-open-weights": "2026-08-06T06:48:10.170Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4455": "2026-08-06T03:42:09.272Z",
     "https://www.astralcodexten.com/p/the-beauty-of-settled-science": "2026-08-04T21:38:38.990Z",
     "https://www.astralcodexten.com/p/does-forecasting-have-room-at-the": "2026-08-03T23:28:46.664Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/highlights-from-the-discourse-on": "2026-07-30T03:32:27.468Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4445": "2026-07-30T03:32:27.468Z",
     "https://www.astralcodexten.com/p/psychology-research-is-mostly-fine": "2026-07-28T12:15:34.416Z",
-    "https://www.astralcodexten.com/p/open-thread-444": "2026-07-27T15:16:12.762Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
