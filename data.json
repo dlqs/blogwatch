@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T06:48:10.170Z",
+  "generatedAt": "2026-08-07T00:17:04.813Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "An AI model from Meta also hacked another company during testing",
-        "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
-        "published": "2026-08-06T00:25:27.000Z",
-        "firstSeen": "2026-08-06T03:42:09.272Z"
+        "title": "datasette 1.0a38",
+        "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+        "published": "2026-08-06T18:24:34.000Z",
+        "firstSeen": "2026-08-07T00:17:04.813Z"
       }
     },
     {
@@ -196,6 +196,9 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything": "2026-08-07T00:17:04.813Z",
+    "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything": "2026-08-07T00:17:04.813Z",
+    "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything": "2026-08-07T00:17:04.813Z",
     "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything": "2026-08-06T03:42:09.272Z",
     "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything": "2026-08-06T03:42:09.272Z",
     "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything": "2026-08-06T03:42:09.272Z",
@@ -203,9 +206,6 @@
     "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything": "2026-08-05T19:57:10.859Z",
     "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything": "2026-08-05T03:36:11.795Z",
     "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything": "2026-08-05T03:36:11.795Z",
-    "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything": "2026-08-04T19:59:09.323Z",
-    "https://simonwillison.net/2026/Aug/4/llm/#atom-everything": "2026-08-05T03:36:11.795Z",
-    "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything": "2026-08-04T03:41:20.858Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
