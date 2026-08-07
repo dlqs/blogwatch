@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T00:17:04.813Z",
+  "generatedAt": "2026-08-07T05:52:11.010Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Questions On Open Weights",
-        "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
-        "published": "2026-08-06T03:56:29.000Z",
-        "firstSeen": "2026-08-06T06:48:10.170Z"
+        "title": "MacGregor The Bridge Builder",
+        "url": "https://www.astralcodexten.com/p/macgregor-the-bridge-builder",
+        "published": "2026-08-07T04:44:32.000Z",
+        "firstSeen": "2026-08-07T05:52:11.010Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/macgregor-the-bridge-builder": "2026-08-07T05:52:11.010Z",
     "https://www.astralcodexten.com/p/open-questions-on-open-weights": "2026-08-06T06:48:10.170Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4455": "2026-08-06T03:42:09.272Z",
     "https://www.astralcodexten.com/p/the-beauty-of-settled-science": "2026-08-04T21:38:38.990Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/links-for-july-2026-part-2": "2026-07-30T22:28:49.542Z",
     "https://www.astralcodexten.com/p/highlights-from-the-discourse-on": "2026-07-30T03:32:27.468Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4445": "2026-07-30T03:32:27.468Z",
-    "https://www.astralcodexten.com/p/psychology-research-is-mostly-fine": "2026-07-28T12:15:34.416Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
