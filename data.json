@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:23:31.700Z",
+  "generatedAt": "2026-08-08T14:51:08.171Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting John Gruber",
-        "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
-        "published": "2026-08-08T00:10:40.000Z",
-        "firstSeen": "2026-08-08T02:23:31.700Z"
+        "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+        "published": "2026-08-08T14:06:41.000Z",
+        "firstSeen": "2026-08-08T14:51:08.171Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything": "2026-08-08T14:51:08.171Z",
     "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything": "2026-08-08T02:23:31.700Z",
     "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything": "2026-08-08T02:23:31.700Z",
     "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything": "2026-08-07T21:01:34.476Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything": "2026-08-07T00:17:04.813Z",
     "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything": "2026-08-06T03:42:09.272Z",
     "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything": "2026-08-06T03:42:09.272Z",
-    "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything": "2026-08-06T03:42:09.272Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
