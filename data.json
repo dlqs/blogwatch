@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:49:36.338Z",
+  "generatedAt": "2026-08-09T22:52:20.505Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-        "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
-        "published": "2026-08-08T22:36:03.000Z",
-        "firstSeen": "2026-08-08T22:49:36.338Z"
+        "title": "SQLite compressed text-history prototypes",
+        "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+        "published": "2026-08-09T22:05:00.000Z",
+        "firstSeen": "2026-08-09T22:52:20.505Z"
       }
     },
     {
@@ -196,16 +196,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything": "2026-08-09T22:52:20.505Z",
     "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything": "2026-08-08T22:49:36.338Z",
     "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything": "2026-08-08T14:51:08.171Z",
     "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything": "2026-08-08T02:23:31.700Z",
     "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything": "2026-08-08T02:23:31.700Z",
     "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything": "2026-08-07T21:01:34.476Z",
     "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything": "2026-08-07T17:10:19.905Z",
+    "https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/#atom-everything": "2026-08-09T22:52:20.505Z",
     "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything": "2026-08-07T00:17:04.813Z",
     "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything": "2026-08-07T00:17:04.813Z",
-    "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything": "2026-08-07T00:17:04.813Z",
-    "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything": "2026-08-06T03:42:09.272Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
