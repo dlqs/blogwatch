@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T03:01:17.502Z",
+  "generatedAt": "2026-08-13T05:09:32.504Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 446",
-        "url": "https://www.astralcodexten.com/p/open-thread-446",
-        "published": "2026-08-10T16:17:33.000Z",
-        "firstSeen": "2026-08-10T17:11:12.090Z"
+        "title": "The Quest For Caffeine You Can Have At Night",
+        "url": "https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
+        "published": "2026-08-13T04:09:15.000Z",
+        "firstSeen": "2026-08-13T05:09:32.504Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/cruise-report/": "2026-08-12T23:03:52.307Z",
+    "https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have": "2026-08-13T05:09:32.504Z",
     "https://www.astralcodexten.com/p/open-thread-446": "2026-08-10T17:11:12.090Z",
     "https://www.astralcodexten.com/p/macgregor-the-bridge-builder": "2026-08-07T05:52:11.010Z",
     "https://www.astralcodexten.com/p/open-questions-on-open-weights": "2026-08-06T06:48:10.170Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/open-thread-445": "2026-08-03T18:09:37.128Z",
     "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh": "2026-08-01T00:14:53.619Z",
     "https://www.astralcodexten.com/p/links-for-july-2026-part-2": "2026-07-30T22:28:49.542Z",
-    "https://www.astralcodexten.com/p/highlights-from-the-discourse-on": "2026-07-30T03:32:27.468Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -197,6 +197,7 @@
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
     "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/": "2026-08-13T03:01:17.502Z",
+    "https://simonwillison.net/2026/Aug/12/alchemy-utils/": "2026-08-13T05:09:32.504Z",
     "https://simonwillison.net/2026/Aug/12/florian-herrengt/": "2026-08-12T22:05:07.463Z",
     "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/": "2026-08-12T22:05:07.463Z",
     "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/": "2026-08-12T22:05:07.463Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Aug/10/openclaw/": "2026-08-12T22:05:07.463Z",
     "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/": "2026-08-12T22:05:07.463Z",
     "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/": "2026-08-12T22:05:07.463Z",
-    "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/": "2026-08-12T22:05:07.463Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
