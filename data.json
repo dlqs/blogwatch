@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T10:29:42.142Z",
+  "generatedAt": "2026-08-13T12:01:27.268Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "How do programming languages impact token efficiency and correctness?",
-        "url": "https://danluu.com/pl-tokens/",
-        "published": "2026-08-09T00:00:00.000Z",
-        "firstSeen": "2026-08-13T10:29:42.142Z"
+        "title": "Exercises in benchmarking and evals, part 7: DeepSWE, Senior SWE-Bench, napkin math, and winter tires",
+        "url": "https://danluu.com/exercise-7/",
+        "published": "2026-07-23T00:00:00.000Z",
+        "firstSeen": "2026-07-28T00:12:36.410Z"
       }
     },
     {
@@ -146,7 +146,6 @@
     }
   ],
   "seen": {
-    "https://danluu.com/pl-tokens/": "2026-08-13T10:29:42.142Z",
     "https://danluu.com/exercise-7/": "2026-07-28T00:12:36.410Z",
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
@@ -156,6 +155,7 @@
     "https://danluu.com/slow-device/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
+    "https://danluu.com/cruise-report/": "2026-08-13T12:01:27.268Z",
     "https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have": "2026-08-13T05:09:32.504Z",
     "https://www.astralcodexten.com/p/open-thread-446": "2026-08-10T17:11:12.090Z",
     "https://www.astralcodexten.com/p/macgregor-the-bridge-builder": "2026-08-07T05:52:11.010Z",
