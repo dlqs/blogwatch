@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:05:55.323Z",
+  "generatedAt": "2026-08-14T22:42:43.630Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The Foothills Of Bay Area House Party",
-        "url": "https://www.astralcodexten.com/p/the-foothills-of-bay-area-house-party",
-        "published": "2026-08-13T23:54:32.000Z",
-        "firstSeen": "2026-08-14T00:01:06.792Z"
+        "title": "Your Book Review: The Escape Artist",
+        "url": "https://www.astralcodexten.com/p/your-book-review-the-escape-artist",
+        "published": "2026-08-14T22:21:13.000Z",
+        "firstSeen": "2026-08-14T22:42:43.630Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "sqlite-utils 4.2.1",
-        "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
-        "published": "2026-08-13T23:53:47.000Z",
-        "firstSeen": "2026-08-14T02:48:20.094Z"
+        "title": "Don't classify. Hallucinate!",
+        "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+        "published": "2026-08-14T21:54:35.000Z",
+        "firstSeen": "2026-08-14T22:42:43.630Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/slow-device/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/your-book-review-the-escape-artist": "2026-08-14T22:42:43.630Z",
     "https://www.astralcodexten.com/p/the-foothills-of-bay-area-house-party": "2026-08-14T00:01:06.792Z",
     "https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have": "2026-08-13T05:09:32.504Z",
     "https://www.astralcodexten.com/p/open-thread-446": "2026-08-10T17:11:12.090Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/the-beauty-of-settled-science": "2026-08-04T21:38:38.990Z",
     "https://www.astralcodexten.com/p/does-forecasting-have-room-at-the": "2026-08-03T23:28:46.664Z",
     "https://www.astralcodexten.com/p/open-thread-445": "2026-08-03T18:09:37.128Z",
-    "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh": "2026-08-01T00:14:53.619Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/": "2026-08-14T22:42:43.630Z",
     "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/": "2026-08-14T02:48:20.094Z",
     "https://simonwillison.net/2026/Aug/13/sqlite-utils/": "2026-08-14T02:48:20.094Z",
     "https://simonwillison.net/2026/Aug/13/llm-gemini/": "2026-08-14T02:48:20.094Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Aug/12/florian-herrengt/": "2026-08-12T22:05:07.463Z",
     "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/": "2026-08-12T22:05:07.463Z",
     "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/": "2026-08-12T22:05:07.463Z",
-    "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/": "2026-08-12T22:05:07.463Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
