@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T01:58:36.261Z",
+  "generatedAt": "2026-08-16T15:38:48.520Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "CORS Chat",
-        "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
-        "published": "2026-08-15T14:49:54.000Z",
-        "firstSeen": "2026-08-16T01:58:36.261Z"
+        "title": "Quoting Dario Amodei",
+        "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+        "published": "2026-08-16T15:05:36.000Z",
+        "firstSeen": "2026-08-16T15:38:48.520Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/16/dario-amodei/": "2026-08-16T15:38:48.520Z",
     "https://simonwillison.net/2026/Aug/15/cors-chat/": "2026-08-16T01:58:36.261Z",
     "https://simonwillison.net/2026/Aug/15/sighting-391300422/": "2026-08-15T03:56:08.315Z",
     "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/": "2026-08-14T22:42:43.630Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Aug/13/alchemy-utils/": "2026-08-13T23:04:45.880Z",
     "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/": "2026-08-13T03:01:17.502Z",
     "https://simonwillison.net/2026/Aug/12/alchemy-utils/": "2026-08-13T05:09:32.504Z",
-    "https://simonwillison.net/2026/Aug/12/florian-herrengt/": "2026-08-12T22:05:07.463Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
