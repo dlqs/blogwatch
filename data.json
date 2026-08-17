@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:59:48.495Z",
+  "generatedAt": "2026-08-17T20:45:52.837Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Your Book Review: The Escape Artist",
-        "url": "https://www.astralcodexten.com/p/your-book-review-the-escape-artist",
-        "published": "2026-08-14T22:21:13.000Z",
-        "firstSeen": "2026-08-14T22:42:43.630Z"
+        "title": "Open Thread 447",
+        "url": "https://www.astralcodexten.com/p/open-thread-447",
+        "published": "2026-08-17T19:52:17.000Z",
+        "firstSeen": "2026-08-17T20:45:52.837Z"
       }
     },
     {
@@ -156,6 +156,7 @@
     "https://danluu.com/slow-device/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/open-thread-447": "2026-08-17T20:45:52.837Z",
     "https://www.astralcodexten.com/p/your-book-review-the-escape-artist": "2026-08-14T22:42:43.630Z",
     "https://www.astralcodexten.com/p/the-foothills-of-bay-area-house-party": "2026-08-14T00:01:06.792Z",
     "https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have": "2026-08-13T05:09:32.504Z",
@@ -165,7 +166,6 @@
     "https://www.astralcodexten.com/p/hidden-open-thread-4455": "2026-08-06T03:42:09.272Z",
     "https://www.astralcodexten.com/p/the-beauty-of-settled-science": "2026-08-04T21:38:38.990Z",
     "https://www.astralcodexten.com/p/does-forecasting-have-room-at-the": "2026-08-03T23:28:46.664Z",
-    "https://www.astralcodexten.com/p/open-thread-445": "2026-08-03T18:09:37.128Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
