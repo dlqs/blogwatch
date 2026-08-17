@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T01:56:33.159Z",
+  "generatedAt": "2026-08-17T15:42:55.867Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Markdown SVG upgrades",
-        "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
-        "published": "2026-08-16T23:59:37.000Z",
-        "firstSeen": "2026-08-17T01:56:33.159Z"
+        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+        "published": "2026-08-17T15:21:29.000Z",
+        "firstSeen": "2026-08-17T15:42:55.867Z"
       }
     },
     {
@@ -196,6 +196,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/": "2026-08-17T15:42:55.867Z",
     "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/": "2026-08-17T01:56:33.159Z",
     "https://simonwillison.net/2026/Aug/16/qwen-38-27b/": "2026-08-16T22:39:33.909Z",
     "https://simonwillison.net/2026/Aug/16/dario-amodei/": "2026-08-16T15:38:48.520Z",
@@ -205,7 +206,6 @@
     "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/": "2026-08-14T02:48:20.094Z",
     "https://simonwillison.net/2026/Aug/13/sqlite-utils/": "2026-08-14T02:48:20.094Z",
     "https://simonwillison.net/2026/Aug/13/llm-gemini/": "2026-08-14T02:48:20.094Z",
-    "https://simonwillison.net/2026/Aug/13/alchemy-utils/": "2026-08-13T23:04:45.880Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
