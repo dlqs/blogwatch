@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T01:52:33.649Z",
+  "generatedAt": "2026-08-18T14:54:02.375Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -116,6 +116,19 @@
         "url": "https://www.bitsaboutmoney.com/archive/nonprofit-indicted-bank-fraud/",
         "published": "2026-05-01T07:23:53.000Z",
         "firstSeen": "2026-07-05T15:35:44.955Z"
+      }
+    },
+    {
+      "name": "Stratechery",
+      "url": "https://stratechery.com/",
+      "icon": "icons/stratechery.com.png",
+      "ok": true,
+      "error": null,
+      "latest": {
+        "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
+        "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+        "published": "2026-08-18T10:00:00.000Z",
+        "firstSeen": "2026-08-18T14:54:02.375Z"
       }
     },
     {
@@ -249,6 +262,16 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/": "2026-08-18T14:54:02.375Z",
+    "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/": "2026-08-18T14:54:02.375Z",
+    "https://stratechery.com/2026/the-capex-train-keeps-rolling/": "2026-08-18T14:54:02.375Z",
+    "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/": "2026-08-18T14:54:02.375Z",
+    "https://stratechery.com/2026/nvidias-risky-business/": "2026-08-18T14:54:02.375Z",
+    "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/": "2026-08-18T14:54:02.375Z",
+    "https://stratechery.com/2026/earnings-and-learnings/": "2026-08-18T14:54:02.375Z",
+    "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/": "2026-08-18T14:54:02.375Z",
+    "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/": "2026-08-18T14:54:02.375Z",
+    "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/": "2026-08-18T14:54:02.375Z",
     "https://groups.google.com/g/komoroske-updates/c/CXCHYQFAr6Q": "2026-08-17T18:59:48.495Z",
     "https://groups.google.com/g/komoroske-updates/c/-gKkpmPMJ8o": "2026-08-10T18:05:20.004Z",
     "https://groups.google.com/g/komoroske-updates/c/R2U7EFFNjvU": "2026-08-03T21:31:57.746Z",
