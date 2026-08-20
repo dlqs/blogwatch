@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T14:57:18.036Z",
+  "generatedAt": "2026-08-20T20:48:50.790Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Why I'm Staying Out Of The Substack Religion Debate",
-        "url": "https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
-        "published": "2026-08-19T05:24:22.000Z",
-        "firstSeen": "2026-08-19T05:48:13.758Z"
+        "title": "College EA Meetups Everywhere: Call For Organizers",
+        "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
+        "published": "2026-08-20T19:55:39.000Z",
+        "firstSeen": "2026-08-20T20:48:50.790Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/slow-device/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/diseconomies-scale/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/impossible-agree/": "2026-08-20T14:57:18.036Z",
+    "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call": "2026-08-20T20:48:50.790Z",
     "https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack": "2026-08-19T05:48:13.758Z",
     "https://www.astralcodexten.com/p/open-thread-447": "2026-08-17T20:45:52.837Z",
     "https://www.astralcodexten.com/p/your-book-review-the-escape-artist": "2026-08-14T22:42:43.630Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/macgregor-the-bridge-builder": "2026-08-07T05:52:11.010Z",
     "https://www.astralcodexten.com/p/open-questions-on-open-weights": "2026-08-06T06:48:10.170Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4455": "2026-08-06T03:42:09.272Z",
-    "https://www.astralcodexten.com/p/the-beauty-of-settled-science": "2026-08-04T21:38:38.990Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
