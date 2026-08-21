@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:42:44.488Z",
+  "generatedAt": "2026-08-21T01:59:25.050Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
-        "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-        "published": "2026-08-20T15:37:00.000Z",
-        "firstSeen": "2026-08-20T23:42:44.488Z"
+        "title": "ChatGPT search now uses the site:operator at scale",
+        "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+        "published": "2026-08-20T23:57:32.000Z",
+        "firstSeen": "2026-08-21T01:59:25.050Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/": "2026-08-21T01:59:25.050Z",
     "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/": "2026-08-20T23:42:44.488Z",
     "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/": "2026-08-19T23:40:27.467Z",
     "https://simonwillison.net/2026/Aug/19/jeremy-morrell/": "2026-08-19T23:40:27.467Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/": "2026-08-17T15:42:55.867Z",
     "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/": "2026-08-17T01:56:33.159Z",
     "https://simonwillison.net/2026/Aug/16/qwen-38-27b/": "2026-08-16T22:39:33.909Z",
-    "https://simonwillison.net/2026/Aug/16/dario-amodei/": "2026-08-16T15:38:48.520Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
