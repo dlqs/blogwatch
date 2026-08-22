@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:47:36.724Z",
+  "generatedAt": "2026-08-22T08:50:05.697Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,9 +8,9 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "There's no reason for software to be slow anymore",
-        "url": "https://danluu.com/perf-opt/",
-        "published": "2026-08-21T00:00:00.000Z",
+        "title": "The benchmarkpocalypse",
+        "url": "https://danluu.com/benchpocalypse/",
+        "published": "2026-08-17T00:00:00.000Z",
         "firstSeen": "2026-08-22T07:47:36.724Z"
       }
     },
@@ -159,7 +159,6 @@
     }
   ],
   "seen": {
-    "https://danluu.com/perf-opt/": "2026-08-22T07:47:36.724Z",
     "https://danluu.com/benchpocalypse/": "2026-08-22T07:47:36.724Z",
     "https://danluu.com/pl-tokens/": "2026-08-14T00:01:06.792Z",
     "https://danluu.com/exercise-7/": "2026-07-28T00:12:36.410Z",
@@ -169,6 +168,7 @@
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ftc-google-antitrust/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/slow-device/": "2026-07-05T09:48:58.014Z",
+    "https://danluu.com/diseconomies-scale/": "2026-08-22T08:50:05.697Z",
     "https://www.astralcodexten.com/p/your-book-review-a-residence-of-21": "2026-08-21T17:48:04.979Z",
     "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call": "2026-08-20T20:48:50.790Z",
     "https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack": "2026-08-19T05:48:13.758Z",
