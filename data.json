@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T13:45:49.286Z",
+  "generatedAt": "2026-08-22T16:42:36.705Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "llm 0.32.1",
-        "url": "https://simonwillison.net/2026/Aug/21/llm/",
-        "published": "2026-08-21T17:16:13.000Z",
-        "firstSeen": "2026-08-21T21:42:07.188Z"
+        "title": "More than just code review",
+        "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+        "published": "2026-08-22T15:56:54.000Z",
+        "firstSeen": "2026-08-22T16:42:36.705Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/": "2026-08-22T16:42:36.705Z",
     "https://simonwillison.net/2026/Aug/21/llm/": "2026-08-21T21:42:07.188Z",
     "https://simonwillison.net/2026/Aug/21/llm-openrouter/": "2026-08-21T21:42:07.188Z",
     "https://simonwillison.net/2026/Aug/21/stop-making-tuis/": "2026-08-21T16:53:27.880Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/": "2026-08-19T23:40:27.467Z",
     "https://simonwillison.net/2026/Aug/19/jeremy-morrell/": "2026-08-19T23:40:27.467Z",
     "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/": "2026-08-19T23:40:27.467Z",
-    "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/": "2026-08-18T22:43:40.086Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
