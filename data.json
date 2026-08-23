@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:50:03.962Z",
+  "generatedAt": "2026-08-23T19:38:43.802Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The benchmarkpocalypse",
-        "url": "https://danluu.com/benchpocalypse/",
-        "published": "2026-08-17T00:00:00.000Z",
-        "firstSeen": "2026-08-23T18:50:03.962Z"
+        "title": "What's the best programming language for coding agents?",
+        "url": "https://danluu.com/pl-tokens/",
+        "published": "2026-08-09T00:00:00.000Z",
+        "firstSeen": "2026-08-14T00:01:06.792Z"
       }
     },
     {
@@ -47,10 +47,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Software Factories, Light and Dark",
-        "url": "https://addyosmani.com/blog/software-factories/",
-        "published": "2026-07-20T00:00:00.000Z",
-        "firstSeen": "2026-07-21T03:49:03.444Z"
+        "title": "Human judgment doesn't leave the software factory. It relocates.",
+        "url": "https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/",
+        "published": "2026-08-21T00:00:00.000Z",
+        "firstSeen": "2026-08-23T19:38:43.802Z"
       }
     },
     {
@@ -159,7 +159,6 @@
     }
   ],
   "seen": {
-    "https://danluu.com/benchpocalypse/": "2026-08-23T18:50:03.962Z",
     "https://danluu.com/pl-tokens/": "2026-08-14T00:01:06.792Z",
     "https://danluu.com/exercise-7/": "2026-07-28T00:12:36.410Z",
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
@@ -169,6 +168,7 @@
     "https://danluu.com/ftc-google-antitrust/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/slow-device/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/diseconomies-scale/": "2026-08-23T11:38:02.234Z",
+    "https://danluu.com/impossible-agree/": "2026-08-23T19:38:43.802Z",
     "https://www.astralcodexten.com/p/your-book-review-a-residence-of-21": "2026-08-21T17:48:04.979Z",
     "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call": "2026-08-20T20:48:50.790Z",
     "https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack": "2026-08-19T05:48:13.758Z",
@@ -189,6 +189,9 @@
     "https://scholars-stage.org/the-eight-tribes-of-trump-and-china/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-the-euro-american-split-i-dread-possibility/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/observations-from-india/": "2026-07-05T09:48:58.014Z",
+    "https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/": "2026-08-23T19:38:43.802Z",
+    "https://addyosmani.com/blog/practical-loop-engineering/": "2026-08-23T19:38:43.802Z",
+    "https://addyosmani.com/blog/agentic-code-quality/": "2026-08-23T19:38:43.802Z",
     "https://addyosmani.com/blog/software-factories/": "2026-07-21T03:49:03.444Z",
     "https://addyosmani.com/blog/own-the-outer-loop/": "2026-07-16T06:33:22.613Z",
     "https://addyosmani.com/blog/earning-judgment/": "2026-07-16T06:33:22.613Z",
@@ -196,9 +199,6 @@
     "https://addyosmani.com/blog/agentic-autonomy-levels/": "2026-07-06T21:06:26.845Z",
     "https://addyosmani.com/blog/new-sdlc-vibe-coding/": "2026-07-05T09:48:58.014Z",
     "https://addyosmani.com/blog/agentic-code-review/": "2026-07-05T09:48:58.014Z",
-    "https://addyosmani.com/blog/loop-engineering/": "2026-07-05T09:48:58.014Z",
-    "https://addyosmani.com/blog/intent-debt/": "2026-07-05T09:48:58.014Z",
-    "https://addyosmani.com/blog/orchestration-tax/": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/2279512": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/sora-update-number-1": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/sora-2": "2026-07-05T09:48:58.014Z",
