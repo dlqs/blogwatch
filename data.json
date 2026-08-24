@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:55:49.238Z",
+  "generatedAt": "2026-08-24T11:45:36.900Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-        "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-        "published": "2026-08-23T20:24:52.000Z",
-        "firstSeen": "2026-08-23T20:41:29.821Z"
+        "title": "Your executable is a SQLite database",
+        "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+        "published": "2026-08-24T11:38:15.000Z",
+        "firstSeen": "2026-08-24T11:45:36.900Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": "2026-08-24T11:45:36.900Z",
     "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": "2026-08-23T20:41:29.821Z",
     "https://simonwillison.net/2026/Aug/23/drew-breunig/": "2026-08-23T20:41:29.821Z",
     "https://simonwillison.net/2026/Aug/22/linus-torvalds/": "2026-08-22T21:38:53.025Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Aug/21/llm-openrouter/": "2026-08-21T21:42:07.188Z",
     "https://simonwillison.net/2026/Aug/21/stop-making-tuis/": "2026-08-21T16:53:27.880Z",
     "https://simonwillison.net/2026/Aug/21/matt-webb/": "2026-08-21T15:49:46.300Z",
-    "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/": "2026-08-21T01:59:25.050Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
