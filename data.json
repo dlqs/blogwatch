@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:57:41.089Z",
+  "generatedAt": "2026-08-24T16:57:09.391Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -138,10 +138,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Bits and Bobs 8/17/26",
-        "url": "https://groups.google.com/g/komoroske-updates/c/CXCHYQFAr6Q",
+        "title": "Bits and Bobs 8/24/26",
+        "url": "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0",
         "published": null,
-        "firstSeen": "2026-08-17T18:59:48.495Z"
+        "firstSeen": "2026-08-24T16:57:09.391Z"
       }
     },
     {
@@ -272,6 +272,7 @@
     "https://stratechery.com/2026/nvidias-risky-business/": "2026-08-18T14:54:02.375Z",
     "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/": "2026-08-18T14:54:02.375Z",
     "https://stratechery.com/2026/earnings-and-learnings/": "2026-08-18T14:54:02.375Z",
+    "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0": "2026-08-24T16:57:09.391Z",
     "https://groups.google.com/g/komoroske-updates/c/CXCHYQFAr6Q": "2026-08-17T18:59:48.495Z",
     "https://groups.google.com/g/komoroske-updates/c/-gKkpmPMJ8o": "2026-08-10T18:05:20.004Z",
     "https://groups.google.com/g/komoroske-updates/c/R2U7EFFNjvU": "2026-08-03T21:31:57.746Z",
@@ -301,7 +302,6 @@
     "https://groups.google.com/g/komoroske-updates/c/_0kkdicK9T4": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/1lYBJyp_Jls": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/ikBbfX7zaVU": "2026-07-05T15:35:44.955Z",
-    "https://groups.google.com/g/komoroske-updates/c/FgQ3bWxwVGA": "2026-07-05T15:35:44.955Z",
     "https://www.paulgraham.com/earn.html": "2026-08-15T19:37:20.880Z",
     "https://www.paulgraham.com/winc.html": "2026-08-24T03:18:17.474Z",
     "https://www.paulgraham.com/brandage.html": "2026-08-24T03:18:17.474Z",
