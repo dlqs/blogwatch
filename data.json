@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T09:01:53.054Z",
+  "generatedAt": "2026-08-25T10:51:44.680Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Autonomy and Innovation",
-        "url": "https://stratechery.com/2026/autonomy-and-innovation/",
-        "published": "2026-08-24T10:00:00.000Z",
-        "firstSeen": "2026-08-24T10:06:26.782Z"
+        "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
+        "url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
+        "published": "2026-08-25T10:00:00.000Z",
+        "firstSeen": "2026-08-25T10:51:44.680Z"
       }
     },
     {
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": "2026-08-25T10:51:44.680Z",
     "https://stratechery.com/2026/autonomy-and-innovation/": "2026-08-24T10:06:26.782Z",
     "https://stratechery.com/2026/app-snore/": "2026-08-21T17:48:04.979Z",
     "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/": "2026-08-19T10:47:49.358Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/": "2026-08-18T14:54:02.375Z",
     "https://stratechery.com/2026/nvidias-risky-business/": "2026-08-18T14:54:02.375Z",
     "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/": "2026-08-18T14:54:02.375Z",
-    "https://stratechery.com/2026/earnings-and-learnings/": "2026-08-18T14:54:02.375Z",
     "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0": "2026-08-24T16:57:09.391Z",
     "https://groups.google.com/g/komoroske-updates/c/CXCHYQFAr6Q": "2026-08-17T18:59:48.495Z",
     "https://groups.google.com/g/komoroske-updates/c/-gKkpmPMJ8o": "2026-08-10T18:05:20.004Z",
