@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T09:59:31.748Z",
+  "generatedAt": "2026-08-26T10:53:07.352Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "What's the best programming language for coding agents?",
-        "url": "https://danluu.com/pl-tokens/",
-        "published": "2026-08-09T00:00:00.000Z",
-        "firstSeen": "2026-08-14T00:01:06.792Z"
+        "title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "published": "2026-08-21T00:00:00.000Z",
+        "firstSeen": "2026-08-26T10:53:07.352Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
-        "url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
-        "published": "2026-08-25T10:00:00.000Z",
-        "firstSeen": "2026-08-25T10:51:44.680Z"
+        "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+        "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
+        "published": "2026-08-26T10:00:00.000Z",
+        "firstSeen": "2026-08-26T10:53:07.352Z"
       }
     },
     {
@@ -159,6 +159,8 @@
     }
   ],
   "seen": {
+    "https://danluu.com/perf-opt/": "2026-08-26T10:53:07.352Z",
+    "https://danluu.com/benchpocalypse/": "2026-08-26T10:53:07.352Z",
     "https://danluu.com/pl-tokens/": "2026-08-14T00:01:06.792Z",
     "https://danluu.com/exercise-7/": "2026-07-28T00:12:36.410Z",
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
@@ -167,8 +169,6 @@
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ftc-google-antitrust/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/slow-device/": "2026-07-05T09:48:58.014Z",
-    "https://danluu.com/diseconomies-scale/": "2026-08-26T09:59:31.748Z",
-    "https://danluu.com/impossible-agree/": "2026-08-26T09:59:31.748Z",
     "https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491": "2026-08-25T16:57:58.666Z",
     "https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness": "2026-08-25T01:54:17.844Z",
     "https://www.astralcodexten.com/p/open-thread-448": "2026-08-24T03:18:17.474Z",
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/": "2026-08-26T10:53:07.352Z",
     "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": "2026-08-25T10:51:44.680Z",
     "https://stratechery.com/2026/autonomy-and-innovation/": "2026-08-24T10:06:26.782Z",
     "https://stratechery.com/2026/app-snore/": "2026-08-21T17:48:04.979Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/the-capex-train-keeps-rolling/": "2026-08-18T14:54:02.375Z",
     "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/": "2026-08-18T14:54:02.375Z",
     "https://stratechery.com/2026/nvidias-risky-business/": "2026-08-18T14:54:02.375Z",
-    "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/": "2026-08-18T14:54:02.375Z",
     "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0": "2026-08-24T16:57:09.391Z",
     "https://groups.google.com/g/komoroske-updates/c/CXCHYQFAr6Q": "2026-08-17T18:59:48.495Z",
     "https://groups.google.com/g/komoroske-updates/c/-gKkpmPMJ8o": "2026-08-10T18:05:20.004Z",
