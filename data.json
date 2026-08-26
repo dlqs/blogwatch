@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T07:10:38.414Z",
+  "generatedAt": "2026-08-26T09:04:38.072Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The benchmarkpocalypse",
-        "url": "https://danluu.com/benchpocalypse/",
-        "published": "2026-08-17T00:00:00.000Z",
-        "firstSeen": "2026-08-26T07:10:38.414Z"
+        "title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "published": "2026-08-21T00:00:00.000Z",
+        "firstSeen": "2026-08-26T09:04:38.072Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "EVE Online: The Move to Python 3 Begins!",
-        "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
-        "published": "2026-08-25T22:59:30.000Z",
-        "firstSeen": "2026-08-25T23:40:48.683Z"
+        "title": "Quoting Paul Dix",
+        "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+        "published": "2026-08-26T08:07:55.000Z",
+        "firstSeen": "2026-08-26T09:04:38.072Z"
       }
     },
     {
@@ -159,6 +159,7 @@
     }
   ],
   "seen": {
+    "https://danluu.com/perf-opt/": "2026-08-26T09:04:38.072Z",
     "https://danluu.com/benchpocalypse/": "2026-08-26T07:10:38.414Z",
     "https://danluu.com/pl-tokens/": "2026-08-14T00:01:06.792Z",
     "https://danluu.com/exercise-7/": "2026-07-28T00:12:36.410Z",
@@ -168,7 +169,6 @@
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ftc-google-antitrust/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/slow-device/": "2026-07-05T09:48:58.014Z",
-    "https://danluu.com/diseconomies-scale/": "2026-08-26T05:51:53.456Z",
     "https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491": "2026-08-25T16:57:58.666Z",
     "https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness": "2026-08-25T01:54:17.844Z",
     "https://www.astralcodexten.com/p/open-thread-448": "2026-08-24T03:18:17.474Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/26/paul-dix/": "2026-08-26T09:04:38.072Z",
     "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": "2026-08-25T23:40:48.683Z",
     "https://simonwillison.net/2026/Aug/24/llm-anthropic/": "2026-08-24T19:47:00.501Z",
     "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": "2026-08-24T11:45:36.900Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Aug/22/llm/": "2026-08-22T18:50:46.802Z",
     "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/": "2026-08-22T16:42:36.705Z",
     "https://simonwillison.net/2026/Aug/21/llm/": "2026-08-21T21:42:07.188Z",
-    "https://simonwillison.net/2026/Aug/21/llm-openrouter/": "2026-08-21T21:42:07.188Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
