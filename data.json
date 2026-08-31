@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T00:23:30.310Z",
+  "generatedAt": "2026-08-31T05:41:51.665Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Introducing Hy4 Preview",
-        "url": "https://simonwillison.net/2026/Aug/29/hy4/",
-        "published": "2026-08-29T23:53:13.000Z",
-        "firstSeen": "2026-08-30T00:23:30.310Z"
+        "title": "Understanding ChatGPT Work",
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+        "published": "2026-08-30T23:59:47.000Z",
+        "firstSeen": "2026-08-31T05:41:51.665Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/": "2026-08-31T05:41:51.665Z",
     "https://simonwillison.net/2026/Aug/29/hy4/": "2026-08-30T00:23:30.310Z",
     "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/": "2026-08-29T02:14:37.925Z",
     "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/": "2026-08-28T05:26:39.614Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Aug/24/llm-anthropic/": "2026-08-24T19:47:00.501Z",
     "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": "2026-08-24T11:45:36.900Z",
     "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": "2026-08-23T20:41:29.821Z",
-    "https://simonwillison.net/2026/Aug/23/drew-breunig/": "2026-08-23T20:41:29.821Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
