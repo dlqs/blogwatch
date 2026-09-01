@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:08:42.529Z",
+  "generatedAt": "2026-09-01T05:15:18.111Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Understanding ChatGPT Work",
-        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-        "published": "2026-08-30T23:59:47.000Z",
-        "firstSeen": "2026-08-31T05:41:51.665Z"
+        "title": "Introducing wrapture",
+        "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+        "published": "2026-08-31T23:59:36.000Z",
+        "firstSeen": "2026-09-01T05:15:18.111Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Aug/31/introducing-wrapture/": "2026-09-01T05:15:18.111Z",
+    "https://simonwillison.net/2026/Aug/31/andrew-digby/": "2026-09-01T05:15:18.111Z",
     "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/": "2026-08-31T05:41:51.665Z",
     "https://simonwillison.net/2026/Aug/29/hy4/": "2026-08-30T00:23:30.310Z",
     "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/": "2026-08-29T02:14:37.925Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Aug/26/paul-dix/": "2026-08-26T09:04:38.072Z",
     "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": "2026-08-25T23:40:48.683Z",
     "https://simonwillison.net/2026/Aug/24/llm-anthropic/": "2026-08-24T19:47:00.501Z",
-    "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": "2026-08-24T11:45:36.900Z",
-    "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": "2026-08-23T20:41:29.821Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
