@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T05:51:57.818Z",
+  "generatedAt": "2026-09-02T11:23:52.558Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Nicholas Decker In Hell",
-        "url": "https://www.astralcodexten.com/p/nicholas-decker-in-hell",
-        "published": "2026-09-01T07:37:05.000Z",
-        "firstSeen": "2026-09-01T10:12:40.387Z"
+        "title": "Absurd Adventure And Amygdalectomy Advocacy",
+        "url": "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy",
+        "published": "2026-09-02T05:51:22.000Z",
+        "firstSeen": "2026-09-02T11:23:52.558Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Claude Fable 5.1 made me a really nice animated pelican",
-        "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-        "published": "2026-09-01T23:57:28.000Z",
-        "firstSeen": "2026-09-02T00:17:38.359Z"
+        "title": "Quoting Rick Brewster",
+        "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+        "published": "2026-09-02T05:50:57.000Z",
+        "firstSeen": "2026-09-02T11:23:52.558Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
-        "url": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
-        "published": "2026-09-01T10:00:00.000Z",
-        "firstSeen": "2026-09-01T10:12:40.387Z"
+        "title": "Fable 5.1, Enterprise Frontier Safeguards",
+        "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
+        "published": "2026-09-02T10:00:00.000Z",
+        "firstSeen": "2026-09-02T11:23:52.558Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ftc-google-antitrust/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/slow-device/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy": "2026-09-02T11:23:52.558Z",
     "https://www.astralcodexten.com/p/nicholas-decker-in-hell": "2026-09-01T10:12:40.387Z",
     "https://www.astralcodexten.com/p/open-thread-449": "2026-08-31T13:58:16.939Z",
     "https://www.astralcodexten.com/p/your-book-review-thomas-urquharts": "2026-08-28T18:46:21.805Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness": "2026-08-25T01:54:17.844Z",
     "https://www.astralcodexten.com/p/open-thread-448": "2026-08-24T03:18:17.474Z",
     "https://www.astralcodexten.com/p/your-book-review-a-residence-of-21": "2026-08-21T17:48:04.979Z",
-    "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call": "2026-08-20T20:48:50.790Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/2/rick-brewster/": "2026-09-02T11:23:52.558Z",
     "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": "2026-09-02T00:17:38.359Z",
     "https://simonwillison.net/2026/Sep/1/codex-libreoffice/": "2026-09-01T21:49:11.763Z",
     "https://simonwillison.net/2026/Sep/1/geojson/": "2026-09-02T00:17:38.359Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Aug/31/introducing-wrapture/": "2026-09-01T05:15:18.111Z",
     "https://simonwillison.net/2026/Aug/31/andrew-digby/": "2026-09-01T05:15:18.111Z",
     "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/": "2026-08-31T05:41:51.665Z",
-    "https://simonwillison.net/2026/Aug/29/hy4/": "2026-08-30T00:23:30.310Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/": "2026-09-02T11:23:52.558Z",
     "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/": "2026-09-01T10:12:40.387Z",
     "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/": "2026-08-31T13:58:16.939Z",
     "https://stratechery.com/2026/internet-hype-and-real-world-change/": "2026-08-28T18:46:21.805Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/app-snore/": "2026-08-21T17:48:04.979Z",
     "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/": "2026-08-19T10:47:49.358Z",
     "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/": "2026-08-18T14:54:02.375Z",
-    "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/": "2026-08-18T14:54:02.375Z",
     "https://groups.google.com/g/komoroske-updates/c/bsYSWheBXrw": "2026-08-31T20:08:42.529Z",
     "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0": "2026-08-24T16:57:09.391Z",
     "https://groups.google.com/g/komoroske-updates/c/CXCHYQFAr6Q": "2026-08-17T18:59:48.495Z",
