@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T11:23:52.558Z",
+  "generatedAt": "2026-09-02T16:37:54.257Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Rick Brewster",
-        "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
-        "published": "2026-09-02T05:50:57.000Z",
-        "firstSeen": "2026-09-02T11:23:52.558Z"
+        "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+        "published": "2026-09-02T14:16:42.000Z",
+        "firstSeen": "2026-09-02T16:37:54.257Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": "2026-09-02T16:37:54.257Z",
     "https://simonwillison.net/2026/Sep/2/rick-brewster/": "2026-09-02T11:23:52.558Z",
     "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": "2026-09-02T00:17:38.359Z",
     "https://simonwillison.net/2026/Sep/1/codex-libreoffice/": "2026-09-01T21:49:11.763Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/1/python-315-rc-2/": "2026-09-01T18:35:03.088Z",
     "https://simonwillison.net/2026/Aug/31/introducing-wrapture/": "2026-09-01T05:15:18.111Z",
     "https://simonwillison.net/2026/Aug/31/andrew-digby/": "2026-09-01T05:15:18.111Z",
-    "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/": "2026-08-31T05:41:51.665Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
