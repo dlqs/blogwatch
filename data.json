@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T19:49:10.955Z",
+  "generatedAt": "2026-09-03T11:20:19.857Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Absurd Adventure And Amygdalectomy Advocacy",
-        "url": "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy",
-        "published": "2026-09-02T05:51:22.000Z",
-        "firstSeen": "2026-09-02T11:23:52.558Z"
+        "title": "College EA Meetups Everywhere: Times & Places",
+        "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
+        "published": "2026-09-03T08:10:42.000Z",
+        "firstSeen": "2026-09-03T11:20:19.857Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ftc-google-antitrust/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/slow-device/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times": "2026-09-03T11:20:19.857Z",
     "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy": "2026-09-02T11:23:52.558Z",
     "https://www.astralcodexten.com/p/nicholas-decker-in-hell": "2026-09-01T10:12:40.387Z",
     "https://www.astralcodexten.com/p/open-thread-449": "2026-08-31T13:58:16.939Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491": "2026-08-25T16:57:58.666Z",
     "https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness": "2026-08-25T01:54:17.844Z",
     "https://www.astralcodexten.com/p/open-thread-448": "2026-08-24T03:18:17.474Z",
-    "https://www.astralcodexten.com/p/your-book-review-a-residence-of-21": "2026-08-21T17:48:04.979Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
