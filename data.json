@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T11:26:22.577Z",
+  "generatedAt": "2026-09-04T19:38:58.222Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "College EA Meetups Everywhere: Times & Places",
-        "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
-        "published": "2026-09-03T08:10:42.000Z",
-        "firstSeen": "2026-09-03T11:20:19.857Z"
+        "title": "Your Book Review: The Tale Of Genji",
+        "url": "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji",
+        "published": "2026-09-04T19:34:24.000Z",
+        "firstSeen": "2026-09-04T19:38:58.222Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "August newsletter is out",
-        "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
-        "published": "2026-09-04T05:54:40.000Z",
-        "firstSeen": "2026-09-04T06:04:32.047Z"
+        "title": "OpenAI's rogue agents were caught communicating via public wikis",
+        "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+        "published": "2026-09-04T17:38:48.000Z",
+        "firstSeen": "2026-09-04T19:38:58.222Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
-        "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
-        "published": "2026-09-04T10:00:00.000Z",
-        "firstSeen": "2026-09-04T11:26:22.577Z"
+        "title": "2026.36: Friction and Feedback",
+        "url": "https://stratechery.com/2026/friction-and-feedback/",
+        "published": "2026-09-04T17:55:39.000Z",
+        "firstSeen": "2026-09-04T19:38:58.222Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji": "2026-09-04T19:38:58.222Z",
     "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times": "2026-09-03T11:20:19.857Z",
     "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy": "2026-09-02T11:23:52.558Z",
     "https://www.astralcodexten.com/p/nicholas-decker-in-hell": "2026-09-01T10:12:40.387Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/take-the-2026-acx-survey": "2026-08-27T09:54:44.199Z",
     "https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491": "2026-08-25T16:57:58.666Z",
     "https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness": "2026-08-25T01:54:17.844Z",
-    "https://www.astralcodexten.com/p/open-thread-448": "2026-08-24T03:18:17.474Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/": "2026-09-04T19:38:58.222Z",
     "https://simonwillison.net/2026/Sep/4/august-newsletter/": "2026-09-04T06:04:32.047Z",
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": "2026-09-03T22:41:15.450Z",
     "https://simonwillison.net/2026/Sep/2/llm-gemini/": "2026-09-02T19:49:10.955Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/1/codex-libreoffice/": "2026-09-01T21:49:11.763Z",
     "https://simonwillison.net/2026/Sep/1/geojson/": "2026-09-02T00:17:38.359Z",
     "https://simonwillison.net/2026/Sep/1/tarn-adams/": "2026-09-01T18:35:03.088Z",
-    "https://simonwillison.net/2026/Sep/1/datasette-mcp/": "2026-09-02T05:51:57.818Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/friction-and-feedback/": "2026-09-04T19:38:58.222Z",
     "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/": "2026-09-04T11:26:22.577Z",
     "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/": "2026-09-02T11:23:52.558Z",
     "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/": "2026-09-01T10:12:40.387Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": "2026-08-25T10:51:44.680Z",
     "https://stratechery.com/2026/autonomy-and-innovation/": "2026-08-24T10:06:26.782Z",
     "https://stratechery.com/2026/app-snore/": "2026-08-21T17:48:04.979Z",
-    "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/": "2026-08-19T10:47:49.358Z",
     "https://groups.google.com/g/komoroske-updates/c/bsYSWheBXrw": "2026-08-31T20:08:42.529Z",
     "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0": "2026-08-24T16:57:09.391Z",
     "https://groups.google.com/g/komoroske-updates/c/CXCHYQFAr6Q": "2026-08-17T18:59:48.495Z",
