@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:41:15.450Z",
+  "generatedAt": "2026-09-04T01:01:27.697Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Bug blindness",
-        "url": "https://danluu.com/bug-blind/",
-        "published": "2026-08-30T00:00:00.000Z",
-        "firstSeen": "2026-09-03T22:41:15.450Z"
+        "title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "published": "2026-08-21T00:00:00.000Z",
+        "firstSeen": "2026-08-26T17:50:48.644Z"
       }
     },
     {
@@ -159,7 +159,6 @@
     }
   ],
   "seen": {
-    "https://danluu.com/bug-blind/": "2026-09-03T22:41:15.450Z",
     "https://danluu.com/perf-opt/": "2026-08-26T17:50:48.644Z",
     "https://danluu.com/benchpocalypse/": "2026-08-26T17:50:48.644Z",
     "https://danluu.com/pl-tokens/": "2026-08-14T00:01:06.792Z",
@@ -169,6 +168,7 @@
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ftc-google-antitrust/": "2026-07-05T09:48:58.014Z",
+    "https://danluu.com/slow-device/": "2026-09-04T01:01:27.697Z",
     "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times": "2026-09-03T11:20:19.857Z",
     "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy": "2026-09-02T11:23:52.558Z",
     "https://www.astralcodexten.com/p/nicholas-decker-in-hell": "2026-09-01T10:12:40.387Z",
