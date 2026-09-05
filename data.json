@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T19:38:58.222Z",
+  "generatedAt": "2026-09-05T01:00:54.897Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "OpenAI's rogue agents were caught communicating via public wikis",
-        "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-        "published": "2026-09-04T17:38:48.000Z",
-        "firstSeen": "2026-09-04T19:38:58.222Z"
+        "title": "The Pelican comparison grid for Astra is pretty interesting",
+        "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+        "published": "2026-09-04T23:59:05.000Z",
+        "firstSeen": "2026-09-05T01:00:54.897Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/4/astra-pelicans/": "2026-09-05T01:00:54.897Z",
     "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/": "2026-09-04T19:38:58.222Z",
     "https://simonwillison.net/2026/Sep/4/august-newsletter/": "2026-09-04T06:04:32.047Z",
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": "2026-09-03T22:41:15.450Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": "2026-09-02T00:17:38.359Z",
     "https://simonwillison.net/2026/Sep/1/codex-libreoffice/": "2026-09-01T21:49:11.763Z",
     "https://simonwillison.net/2026/Sep/1/geojson/": "2026-09-02T00:17:38.359Z",
-    "https://simonwillison.net/2026/Sep/1/tarn-adams/": "2026-09-01T18:35:03.088Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
