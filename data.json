@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:28:31.080Z",
+  "generatedAt": "2026-09-06T17:06:24.461Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Zach Kehs",
-        "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-        "published": "2026-09-06T08:42:49.000Z",
-        "firstSeen": "2026-09-06T09:28:31.080Z"
+        "title": "The purpose of DNS is to spread scams",
+        "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+        "published": "2026-09-06T14:40:07.000Z",
+        "firstSeen": "2026-09-06T17:06:24.461Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/": "2026-09-06T17:06:24.461Z",
     "https://simonwillison.net/2026/Sep/6/zach-kehs/": "2026-09-06T09:28:31.080Z",
     "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/": "2026-09-05T23:56:05.708Z",
     "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/": "2026-09-05T16:50:48.617Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": "2026-09-03T22:41:15.450Z",
     "https://simonwillison.net/2026/Sep/2/llm-gemini/": "2026-09-02T19:49:10.955Z",
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": "2026-09-02T16:37:54.257Z",
-    "https://simonwillison.net/2026/Sep/2/rick-brewster/": "2026-09-02T11:23:52.558Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
