@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:47:56.573Z",
+  "generatedAt": "2026-09-07T10:24:16.471Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Your Book Review: The Tale Of Genji",
-        "url": "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji",
-        "published": "2026-09-04T19:34:24.000Z",
-        "firstSeen": "2026-09-04T19:38:58.222Z"
+        "title": "Open Thread 450",
+        "url": "https://www.astralcodexten.com/p/open-thread-450",
+        "published": "2026-09-07T07:04:17.000Z",
+        "firstSeen": "2026-09-07T10:24:16.471Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/open-thread-450": "2026-09-07T10:24:16.471Z",
     "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji": "2026-09-04T19:38:58.222Z",
     "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times": "2026-09-03T11:20:19.857Z",
     "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy": "2026-09-02T11:23:52.558Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/hidden-open-thread-4485": "2026-08-28T05:26:39.614Z",
     "https://www.astralcodexten.com/p/take-the-2026-acx-survey": "2026-08-27T09:54:44.199Z",
     "https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491": "2026-08-25T16:57:58.666Z",
-    "https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness": "2026-08-25T01:54:17.844Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
