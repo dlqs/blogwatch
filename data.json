@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T19:14:17.236Z",
+  "generatedAt": "2026-09-07T04:47:56.573Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The purpose of DNS is to spread scams",
-        "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-        "published": "2026-09-06T14:40:07.000Z",
-        "firstSeen": "2026-09-06T17:06:24.461Z"
+        "title": "Research acceleration: The view inside OpenAI",
+        "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+        "published": "2026-09-06T23:57:40.000Z",
+        "firstSeen": "2026-09-07T04:47:56.573Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/": "2026-09-07T04:47:56.573Z",
     "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/": "2026-09-06T17:06:24.461Z",
     "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/": "2026-09-06T19:14:17.236Z",
     "https://simonwillison.net/2026/Sep/6/zach-kehs/": "2026-09-06T09:28:31.080Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/": "2026-09-04T19:38:58.222Z",
     "https://simonwillison.net/2026/Sep/4/august-newsletter/": "2026-09-04T06:04:32.047Z",
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": "2026-09-03T22:41:15.450Z",
-    "https://simonwillison.net/2026/Sep/2/llm-gemini/": "2026-09-02T19:49:10.955Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
