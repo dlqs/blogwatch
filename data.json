@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:24:16.471Z",
+  "generatedAt": "2026-09-07T20:36:36.392Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -138,10 +138,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Bits and Bobs 8/31/26",
-        "url": "https://groups.google.com/g/komoroske-updates/c/bsYSWheBXrw",
+        "title": "Bits and Bobs 9/7/26",
+        "url": "https://groups.google.com/g/komoroske-updates/c/ZgyS0f0Y3cQ",
         "published": null,
-        "firstSeen": "2026-08-31T20:08:42.529Z"
+        "firstSeen": "2026-09-07T20:36:36.392Z"
       }
     },
     {
@@ -272,6 +272,7 @@
     "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": "2026-08-25T10:51:44.680Z",
     "https://stratechery.com/2026/autonomy-and-innovation/": "2026-08-24T10:06:26.782Z",
     "https://stratechery.com/2026/app-snore/": "2026-08-21T17:48:04.979Z",
+    "https://groups.google.com/g/komoroske-updates/c/ZgyS0f0Y3cQ": "2026-09-07T20:36:36.392Z",
     "https://groups.google.com/g/komoroske-updates/c/bsYSWheBXrw": "2026-08-31T20:08:42.529Z",
     "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0": "2026-08-24T16:57:09.391Z",
     "https://groups.google.com/g/komoroske-updates/c/CXCHYQFAr6Q": "2026-08-17T18:59:48.495Z",
@@ -301,7 +302,6 @@
     "https://groups.google.com/g/komoroske-updates/c/F04BdKnmNMY": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/sMyda8PVLy8": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/_0kkdicK9T4": "2026-07-05T15:35:44.955Z",
-    "https://groups.google.com/g/komoroske-updates/c/1lYBJyp_Jls": "2026-07-05T15:35:44.955Z",
     "https://www.paulgraham.com/prepare.html": "2026-08-25T01:54:17.844Z",
     "https://www.paulgraham.com/earn.html": "2026-09-06T09:28:31.080Z",
     "https://www.paulgraham.com/winc.html": "2026-09-06T09:28:31.080Z",
