@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T23:32:24.339Z",
+  "generatedAt": "2026-09-08T04:43:39.047Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Creepy crawlies",
-        "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
-        "published": "2026-09-07T23:08:58.000Z",
-        "firstSeen": "2026-09-07T23:32:24.339Z"
+        "title": "llm 0.35",
+        "url": "https://simonwillison.net/2026/Sep/7/llm/",
+        "published": "2026-09-07T23:54:54.000Z",
+        "firstSeen": "2026-09-08T04:43:39.047Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/7/llm/": "2026-09-08T04:43:39.047Z",
     "https://simonwillison.net/2026/Sep/7/creepy-crawlies/": "2026-09-07T23:32:24.339Z",
     "https://simonwillison.net/2026/Sep/7/jakub-pachocki/": "2026-09-07T23:32:24.339Z",
     "https://simonwillison.net/2026/Sep/7/video-compressor/": "2026-09-07T23:32:24.339Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/": "2026-09-06T19:14:17.236Z",
     "https://simonwillison.net/2026/Sep/6/zach-kehs/": "2026-09-06T09:28:31.080Z",
     "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/": "2026-09-05T23:56:05.708Z",
-    "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/": "2026-09-05T16:50:48.617Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
