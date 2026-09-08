@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T04:43:39.047Z",
+  "generatedAt": "2026-09-08T14:36:00.537Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 450",
-        "url": "https://www.astralcodexten.com/p/open-thread-450",
-        "published": "2026-09-07T07:04:17.000Z",
-        "firstSeen": "2026-09-07T10:24:16.471Z"
+        "title": "God Help Us, Let’s Try To Learn About Mechanistic Interpretability Techniques",
+        "url": "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about",
+        "published": "2026-09-08T12:04:21.000Z",
+        "firstSeen": "2026-09-08T14:36:00.537Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "2026.36: Friction and Feedback",
-        "url": "https://stratechery.com/2026/friction-and-feedback/",
-        "published": "2026-09-04T17:55:39.000Z",
-        "firstSeen": "2026-09-04T19:38:58.222Z"
+        "title": "Write Things Down",
+        "url": "https://stratechery.com/2026/write-things-down/",
+        "published": "2026-09-08T10:00:00.000Z",
+        "firstSeen": "2026-09-08T14:36:00.537Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about": "2026-09-08T14:36:00.537Z",
     "https://www.astralcodexten.com/p/open-thread-450": "2026-09-07T10:24:16.471Z",
     "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji": "2026-09-04T19:38:58.222Z",
     "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times": "2026-09-03T11:20:19.857Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/your-book-review-thomas-urquharts": "2026-08-28T18:46:21.805Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4485": "2026-08-28T05:26:39.614Z",
     "https://www.astralcodexten.com/p/take-the-2026-acx-survey": "2026-08-27T09:54:44.199Z",
-    "https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491": "2026-08-25T16:57:58.666Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/write-things-down/": "2026-09-08T14:36:00.537Z",
     "https://stratechery.com/2026/friction-and-feedback/": "2026-09-04T19:38:58.222Z",
     "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/": "2026-09-04T11:26:22.577Z",
     "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/": "2026-09-02T11:23:52.558Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/": "2026-08-26T10:53:07.352Z",
     "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": "2026-08-25T10:51:44.680Z",
     "https://stratechery.com/2026/autonomy-and-innovation/": "2026-08-24T10:06:26.782Z",
-    "https://stratechery.com/2026/app-snore/": "2026-08-21T17:48:04.979Z",
     "https://groups.google.com/g/komoroske-updates/c/ZgyS0f0Y3cQ": "2026-09-07T20:36:36.392Z",
     "https://groups.google.com/g/komoroske-updates/c/bsYSWheBXrw": "2026-08-31T20:08:42.529Z",
     "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0": "2026-08-24T16:57:09.391Z",
