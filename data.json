@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:01:30.168Z",
+  "generatedAt": "2026-09-09T11:29:11.809Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Write Things Down",
-        "url": "https://stratechery.com/2026/write-things-down/",
-        "published": "2026-09-08T10:00:00.000Z",
-        "firstSeen": "2026-09-08T14:36:00.537Z"
+        "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+        "url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+        "published": "2026-09-09T10:00:00.000Z",
+        "firstSeen": "2026-09-09T11:29:11.809Z"
       }
     },
     {
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/": "2026-09-09T11:29:11.809Z",
     "https://stratechery.com/2026/write-things-down/": "2026-09-08T14:36:00.537Z",
     "https://stratechery.com/2026/friction-and-feedback/": "2026-09-04T19:38:58.222Z",
     "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/": "2026-09-04T11:26:22.577Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/internet-hype-and-real-world-change/": "2026-08-28T18:46:21.805Z",
     "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/": "2026-08-26T10:53:07.352Z",
     "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": "2026-08-25T10:51:44.680Z",
-    "https://stratechery.com/2026/autonomy-and-innovation/": "2026-08-24T10:06:26.782Z",
     "https://groups.google.com/g/komoroske-updates/c/ZgyS0f0Y3cQ": "2026-09-07T20:36:36.392Z",
     "https://groups.google.com/g/komoroske-updates/c/bsYSWheBXrw": "2026-08-31T20:08:42.529Z",
     "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0": "2026-08-24T16:57:09.391Z",
