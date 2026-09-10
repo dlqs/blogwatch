@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T01:07:09.929Z",
+  "generatedAt": "2026-09-10T11:25:41.958Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "God Help Us, Let’s Try To Learn About Mechanistic Interpretability Techniques",
-        "url": "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about",
-        "published": "2026-09-08T12:04:21.000Z",
-        "firstSeen": "2026-09-08T14:36:00.537Z"
+        "title": "Royce On San Francisco",
+        "url": "https://www.astralcodexten.com/p/royce-on-san-francisco",
+        "published": "2026-09-10T11:10:18.000Z",
+        "firstSeen": "2026-09-10T11:25:41.958Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
-        "url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
-        "published": "2026-09-09T10:00:00.000Z",
-        "firstSeen": "2026-09-09T11:29:11.809Z"
+        "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+        "url": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
+        "published": "2026-09-10T10:00:00.000Z",
+        "firstSeen": "2026-09-10T11:25:41.958Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/royce-on-san-francisco": "2026-09-10T11:25:41.958Z",
     "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about": "2026-09-08T14:36:00.537Z",
     "https://www.astralcodexten.com/p/open-thread-450": "2026-09-07T10:24:16.471Z",
     "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji": "2026-09-04T19:38:58.222Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/open-thread-449": "2026-08-31T13:58:16.939Z",
     "https://www.astralcodexten.com/p/your-book-review-thomas-urquharts": "2026-08-28T18:46:21.805Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4485": "2026-08-28T05:26:39.614Z",
-    "https://www.astralcodexten.com/p/take-the-2026-acx-survey": "2026-08-27T09:54:44.199Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/": "2026-09-10T11:25:41.958Z",
     "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/": "2026-09-09T11:29:11.809Z",
     "https://stratechery.com/2026/write-things-down/": "2026-09-08T14:36:00.537Z",
     "https://stratechery.com/2026/friction-and-feedback/": "2026-09-04T19:38:58.222Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/": "2026-08-31T13:58:16.939Z",
     "https://stratechery.com/2026/internet-hype-and-real-world-change/": "2026-08-28T18:46:21.805Z",
     "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/": "2026-08-26T10:53:07.352Z",
-    "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": "2026-08-25T10:51:44.680Z",
     "https://groups.google.com/g/komoroske-updates/c/ZgyS0f0Y3cQ": "2026-09-07T20:36:36.392Z",
     "https://groups.google.com/g/komoroske-updates/c/bsYSWheBXrw": "2026-08-31T20:08:42.529Z",
     "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0": "2026-08-24T16:57:09.391Z",
