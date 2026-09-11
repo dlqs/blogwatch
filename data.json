@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T01:08:55.114Z",
+  "generatedAt": "2026-09-11T06:03:48.369Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Any Nix package, live in your browser",
-        "url": "https://simonwillison.net/2026/Sep/10/trynix/",
-        "published": "2026-09-10T23:44:15.000Z",
-        "firstSeen": "2026-09-11T01:08:55.114Z"
+        "title": "Datasette 1.0a39 and 0.65.4 security releases",
+        "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+        "published": "2026-09-11T03:27:16.000Z",
+        "firstSeen": "2026-09-11T06:03:48.369Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/11/datasette-security/": "2026-09-11T06:03:48.369Z",
     "https://simonwillison.net/2026/Sep/10/trynix/": "2026-09-11T01:08:55.114Z",
     "https://simonwillison.net/2026/Sep/10/shopify-react-native/": "2026-09-10T22:38:08.535Z",
     "https://simonwillison.net/2026/Sep/10/calif-research/": "2026-09-10T01:07:09.929Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/": "2026-09-09T00:18:07.210Z",
     "https://simonwillison.net/2026/Sep/7/llm/": "2026-09-08T04:43:39.047Z",
     "https://simonwillison.net/2026/Sep/7/creepy-crawlies/": "2026-09-07T23:32:24.339Z",
-    "https://simonwillison.net/2026/Sep/7/jakub-pachocki/": "2026-09-07T23:32:24.339Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
