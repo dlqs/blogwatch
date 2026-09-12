@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T01:10:39.699Z",
+  "generatedAt": "2026-09-12T14:11:19.034Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-        "url": "https://danluu.com/zitron/",
-        "published": "2026-09-01T00:00:00.000Z",
-        "firstSeen": "2026-09-04T06:04:32.047Z"
+        "title": "How well do agents use test/verification techniques?",
+        "url": "https://danluu.com/agentic-testing/",
+        "published": "2026-09-07T00:00:00.000Z",
+        "firstSeen": "2026-09-12T14:11:19.034Z"
       }
     },
     {
@@ -159,6 +159,7 @@
     }
   ],
   "seen": {
+    "https://danluu.com/agentic-testing/": "2026-09-12T14:11:19.034Z",
     "https://danluu.com/zitron/": "2026-09-04T06:04:32.047Z",
     "https://danluu.com/bug-blind/": "2026-09-04T06:04:32.047Z",
     "https://danluu.com/perf-opt/": "2026-08-26T17:50:48.644Z",
@@ -168,7 +169,6 @@
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
-    "https://danluu.com/ai-bias/": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/royce-on-san-francisco": "2026-09-10T11:25:41.958Z",
     "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about": "2026-09-08T14:36:00.537Z",
     "https://www.astralcodexten.com/p/open-thread-450": "2026-09-07T10:24:16.471Z",
