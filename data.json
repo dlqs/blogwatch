@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:37:40.564Z",
+  "generatedAt": "2026-09-12T01:10:39.699Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Boris Cherny",
-        "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-        "published": "2026-09-11T17:47:11.000Z",
-        "firstSeen": "2026-09-11T19:45:55.402Z"
+        "title": "OpenAI agents attacked RubyGems back in May",
+        "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+        "published": "2026-09-12T00:42:25.000Z",
+        "firstSeen": "2026-09-12T01:10:39.699Z"
       }
     },
     {
@@ -209,16 +209,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/": "2026-09-12T01:10:39.699Z",
+    "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": "2026-09-12T01:10:39.699Z",
     "https://simonwillison.net/2026/Sep/11/boris-cherny/": "2026-09-11T19:45:55.402Z",
     "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/": "2026-09-11T22:37:40.564Z",
     "https://simonwillison.net/2026/Sep/11/hugging-face-security/": "2026-09-11T16:32:10.494Z",
     "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/": "2026-09-11T16:32:10.494Z",
     "https://simonwillison.net/2026/Sep/11/wrapture/": "2026-09-11T16:32:10.494Z",
     "https://simonwillison.net/2026/Sep/11/datasette-security/": "2026-09-11T06:03:48.369Z",
-    "https://simonwillison.net/2026/Sep/10/trynix/": "2026-09-11T01:08:55.114Z",
-    "https://simonwillison.net/2026/Sep/10/shopify-react-native/": "2026-09-10T22:38:08.535Z",
-    "https://simonwillison.net/2026/Sep/10/calif-research/": "2026-09-10T01:07:09.929Z",
-    "https://simonwillison.net/2026/Sep/9/blender-viewer/": "2026-09-10T01:07:09.929Z",
+    "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/": "2026-09-12T01:10:39.699Z",
+    "https://simonwillison.net/2026/Sep/11/github-to-sqlite/": "2026-09-12T01:10:39.699Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
