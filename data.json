@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T19:25:55.412Z",
+  "generatedAt": "2026-09-13T01:03:54.343Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Paul Ford",
-        "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-        "published": "2026-09-12T18:00:21.000Z",
-        "firstSeen": "2026-09-12T19:25:55.412Z"
+        "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+        "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+        "published": "2026-09-12T23:56:42.000Z",
+        "firstSeen": "2026-09-13T01:03:54.343Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/12/astra-running-routes/": "2026-09-13T01:03:54.343Z",
+    "https://simonwillison.net/2026/Sep/12/sighting-399708714/": "2026-09-13T01:03:54.343Z",
     "https://simonwillison.net/2026/Sep/12/paul-ford/": "2026-09-12T19:25:55.412Z",
     "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/": "2026-09-12T01:10:39.699Z",
     "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": "2026-09-12T01:10:39.699Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Sep/11/hugging-face-security/": "2026-09-11T16:32:10.494Z",
     "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/": "2026-09-11T16:32:10.494Z",
     "https://simonwillison.net/2026/Sep/11/wrapture/": "2026-09-11T16:32:10.494Z",
-    "https://simonwillison.net/2026/Sep/11/datasette-security/": "2026-09-11T06:03:48.369Z",
-    "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/": "2026-09-12T01:10:39.699Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
