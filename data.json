@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T19:25:32.361Z",
+  "generatedAt": "2026-09-14T23:10:07.537Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Laurie Voss",
-        "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-        "published": "2026-09-14T14:34:29.000Z",
-        "firstSeen": "2026-09-14T19:25:32.361Z"
+        "title": "The contagion of fear",
+        "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+        "published": "2026-09-14T21:18:13.000Z",
+        "firstSeen": "2026-09-14T23:10:07.537Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/": "2026-09-14T23:10:07.537Z",
+    "https://simonwillison.net/2026/Sep/14/influences/": "2026-09-14T23:10:07.537Z",
     "https://simonwillison.net/2026/Sep/14/laurie-voss/": "2026-09-14T19:25:32.361Z",
     "https://simonwillison.net/2026/Sep/14/commit-rewriter/": "2026-09-14T01:10:21.151Z",
     "https://simonwillison.net/2026/Sep/13/shot-scraper/": "2026-09-14T01:10:21.151Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Sep/12/paul-ford/": "2026-09-12T19:25:55.412Z",
     "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/": "2026-09-12T01:10:39.699Z",
     "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": "2026-09-12T01:10:39.699Z",
-    "https://simonwillison.net/2026/Sep/11/boris-cherny/": "2026-09-11T19:45:55.402Z",
-    "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/": "2026-09-11T22:37:40.564Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
