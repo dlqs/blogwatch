@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T14:08:44.804Z",
+  "generatedAt": "2026-09-14T19:25:32.361Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "commit-rewriter 0.1",
-        "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-        "published": "2026-09-14T00:28:10.000Z",
-        "firstSeen": "2026-09-14T01:10:21.151Z"
+        "title": "Quoting Laurie Voss",
+        "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+        "published": "2026-09-14T14:34:29.000Z",
+        "firstSeen": "2026-09-14T19:25:32.361Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/14/laurie-voss/": "2026-09-14T19:25:32.361Z",
     "https://simonwillison.net/2026/Sep/14/commit-rewriter/": "2026-09-14T01:10:21.151Z",
     "https://simonwillison.net/2026/Sep/13/shot-scraper/": "2026-09-14T01:10:21.151Z",
     "https://simonwillison.net/2026/Sep/12/astra-running-routes/": "2026-09-13T01:03:54.343Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": "2026-09-12T01:10:39.699Z",
     "https://simonwillison.net/2026/Sep/11/boris-cherny/": "2026-09-11T19:45:55.402Z",
     "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/": "2026-09-11T22:37:40.564Z",
-    "https://simonwillison.net/2026/Sep/11/hugging-face-security/": "2026-09-11T16:32:10.494Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
