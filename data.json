@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T01:10:21.151Z",
+  "generatedAt": "2026-09-14T14:08:44.804Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,7 +8,7 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "How well do agents use test/verification techniques?",
+        "title": "How well do agents use test and verification techniques?",
         "url": "https://danluu.com/agentic-testing/",
         "published": "2026-09-07T00:00:00.000Z",
         "firstSeen": "2026-09-12T14:11:19.034Z"
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "2026.37: Duo Threats",
-        "url": "https://stratechery.com/2026/duo-threats/",
-        "published": "2026-09-11T17:00:00.000Z",
-        "firstSeen": "2026-09-11T19:45:55.402Z"
+        "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
+        "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
+        "published": "2026-09-14T10:00:00.000Z",
+        "firstSeen": "2026-09-14T14:08:44.804Z"
       }
     },
     {
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/": "2026-09-14T14:08:44.804Z",
     "https://stratechery.com/2026/duo-threats/": "2026-09-11T19:45:55.402Z",
     "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/": "2026-09-10T11:25:41.958Z",
     "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/": "2026-09-09T11:29:11.809Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/": "2026-09-02T11:23:52.558Z",
     "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/": "2026-09-01T10:12:40.387Z",
     "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/": "2026-08-31T13:58:16.939Z",
-    "https://stratechery.com/2026/internet-hype-and-real-world-change/": "2026-08-28T18:46:21.805Z",
     "https://groups.google.com/g/komoroske-updates/c/ZgyS0f0Y3cQ": "2026-09-07T20:36:36.392Z",
     "https://groups.google.com/g/komoroske-updates/c/bsYSWheBXrw": "2026-08-31T20:08:42.529Z",
     "https://groups.google.com/g/komoroske-updates/c/vASlzzYn4z0": "2026-08-24T16:57:09.391Z",
