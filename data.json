@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T23:10:07.537Z",
+  "generatedAt": "2026-09-15T01:31:40.948Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 451",
-        "url": "https://www.astralcodexten.com/p/open-thread-451",
-        "published": "2026-09-13T23:12:52.000Z",
-        "firstSeen": "2026-09-14T01:10:21.151Z"
+        "title": "King Ludd",
+        "url": "https://www.astralcodexten.com/p/king-ludd",
+        "published": "2026-09-14T23:56:40.000Z",
+        "firstSeen": "2026-09-15T01:31:40.948Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/king-ludd": "2026-09-15T01:31:40.948Z",
     "https://www.astralcodexten.com/p/open-thread-451": "2026-09-14T01:10:21.151Z",
     "https://www.astralcodexten.com/p/royce-on-san-francisco": "2026-09-10T11:25:41.958Z",
     "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about": "2026-09-08T14:36:00.537Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy": "2026-09-02T11:23:52.558Z",
     "https://www.astralcodexten.com/p/nicholas-decker-in-hell": "2026-09-01T10:12:40.387Z",
     "https://www.astralcodexten.com/p/open-thread-449": "2026-08-31T13:58:16.939Z",
-    "https://www.astralcodexten.com/p/your-book-review-thomas-urquharts": "2026-08-28T18:46:21.805Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
