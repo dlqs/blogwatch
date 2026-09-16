@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:25:23.259Z",
+  "generatedAt": "2026-09-16T11:42:15.156Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
-        "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
-        "published": "2026-09-15T10:00:00.000Z",
-        "firstSeen": "2026-09-15T13:36:54.440Z"
+        "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
+        "url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
+        "published": "2026-09-16T10:18:04.000Z",
+        "firstSeen": "2026-09-16T11:42:15.156Z"
       }
     },
     {
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/": "2026-09-16T11:42:15.156Z",
     "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/": "2026-09-15T13:36:54.440Z",
     "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/": "2026-09-14T14:08:44.804Z",
     "https://stratechery.com/2026/duo-threats/": "2026-09-11T19:45:55.402Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/friction-and-feedback/": "2026-09-04T19:38:58.222Z",
     "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/": "2026-09-04T11:26:22.577Z",
     "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/": "2026-09-02T11:23:52.558Z",
-    "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/": "2026-09-01T10:12:40.387Z",
     "https://groups.google.com/g/komoroske-updates/c/9ej6AT3q7OI": "2026-09-15T13:36:54.440Z",
     "https://groups.google.com/g/komoroske-updates/c/ZgyS0f0Y3cQ": "2026-09-07T20:36:36.392Z",
     "https://groups.google.com/g/komoroske-updates/c/bsYSWheBXrw": "2026-08-31T20:08:42.529Z",
