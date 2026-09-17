@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T01:28:40.506Z",
+  "generatedAt": "2026-09-17T13:31:41.336Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
-        "url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
-        "published": "2026-09-16T10:18:04.000Z",
-        "firstSeen": "2026-09-16T11:42:15.156Z"
+        "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+        "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+        "published": "2026-09-17T10:00:00.000Z",
+        "firstSeen": "2026-09-17T13:31:41.336Z"
       }
     },
     {
@@ -138,10 +138,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Bits and Bobs 9/15/26",
-        "url": "https://groups.google.com/g/komoroske-updates/c/9ej6AT3q7OI",
+        "title": "Common Fabric: Inverting the physics of trust",
+        "url": "https://groups.google.com/g/komoroske-updates/c/jcvjVlKb0Vk",
         "published": null,
-        "firstSeen": "2026-09-15T13:36:54.440Z"
+        "firstSeen": "2026-09-17T13:31:41.336Z"
       }
     },
     {
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/": "2026-09-17T13:31:41.336Z",
     "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/": "2026-09-16T11:42:15.156Z",
     "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/": "2026-09-15T13:36:54.440Z",
     "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/": "2026-09-14T14:08:44.804Z",
@@ -271,7 +272,7 @@
     "https://stratechery.com/2026/write-things-down/": "2026-09-08T14:36:00.537Z",
     "https://stratechery.com/2026/friction-and-feedback/": "2026-09-04T19:38:58.222Z",
     "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/": "2026-09-04T11:26:22.577Z",
-    "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/": "2026-09-02T11:23:52.558Z",
+    "https://groups.google.com/g/komoroske-updates/c/jcvjVlKb0Vk": "2026-09-17T13:31:41.336Z",
     "https://groups.google.com/g/komoroske-updates/c/9ej6AT3q7OI": "2026-09-15T13:36:54.440Z",
     "https://groups.google.com/g/komoroske-updates/c/ZgyS0f0Y3cQ": "2026-09-07T20:36:36.392Z",
     "https://groups.google.com/g/komoroske-updates/c/bsYSWheBXrw": "2026-08-31T20:08:42.529Z",
@@ -301,7 +302,6 @@
     "https://groups.google.com/g/komoroske-updates/c/fU0PPgE-8zk": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/ii1XZMN_pSs": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/F04BdKnmNMY": "2026-07-05T15:35:44.955Z",
-    "https://groups.google.com/g/komoroske-updates/c/sMyda8PVLy8": "2026-07-05T15:35:44.955Z",
     "https://www.paulgraham.com/powerful.html": "2026-09-13T16:22:50.809Z",
     "https://www.paulgraham.com/prepare.html": "2026-08-25T01:54:17.844Z",
     "https://www.paulgraham.com/earn.html": "2026-09-06T09:28:31.080Z",
