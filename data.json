@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T20:11:43.586Z",
+  "generatedAt": "2026-09-17T01:28:40.506Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "King Ludd",
-        "url": "https://www.astralcodexten.com/p/king-ludd",
-        "published": "2026-09-14T23:56:40.000Z",
-        "firstSeen": "2026-09-15T01:31:40.948Z"
+        "title": "AI Superforecasting Should Transform The FDA",
+        "url": "https://www.astralcodexten.com/p/ai-superforecasting-should-transform",
+        "published": "2026-09-16T23:33:42.000Z",
+        "firstSeen": "2026-09-17T01:28:40.506Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Claude Cowork and chat are now one Claude",
-        "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
-        "published": "2026-09-16T18:09:49.000Z",
-        "firstSeen": "2026-09-16T20:11:43.586Z"
+        "title": "datasette 1.0a40",
+        "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+        "published": "2026-09-16T23:51:43.000Z",
+        "firstSeen": "2026-09-17T01:28:40.506Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/ai-superforecasting-should-transform": "2026-09-17T01:28:40.506Z",
     "https://www.astralcodexten.com/p/king-ludd": "2026-09-15T01:31:40.948Z",
     "https://www.astralcodexten.com/p/open-thread-451": "2026-09-14T01:10:21.151Z",
     "https://www.astralcodexten.com/p/royce-on-san-francisco": "2026-09-10T11:25:41.958Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times": "2026-09-03T11:20:19.857Z",
     "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy": "2026-09-02T11:23:52.558Z",
     "https://www.astralcodexten.com/p/nicholas-decker-in-hell": "2026-09-01T10:12:40.387Z",
-    "https://www.astralcodexten.com/p/open-thread-449": "2026-08-31T13:58:16.939Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/16/datasette/": "2026-09-17T01:28:40.506Z",
+    "https://simonwillison.net/2026/Sep/16/datasette-2/": "2026-09-17T01:28:40.506Z",
     "https://simonwillison.net/2026/Sep/16/one-claude/": "2026-09-16T20:11:43.586Z",
     "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/": "2026-09-16T17:03:25.931Z",
     "https://simonwillison.net/2026/Sep/15/gemini-live/": "2026-09-16T00:25:23.259Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Sep/14/laurie-voss/": "2026-09-14T19:25:32.361Z",
     "https://simonwillison.net/2026/Sep/14/commit-rewriter/": "2026-09-14T01:10:21.151Z",
     "https://simonwillison.net/2026/Sep/13/shot-scraper/": "2026-09-14T01:10:21.151Z",
-    "https://simonwillison.net/2026/Sep/12/astra-running-routes/": "2026-09-13T01:03:54.343Z",
-    "https://simonwillison.net/2026/Sep/12/sighting-399708714/": "2026-09-13T01:03:54.343Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
