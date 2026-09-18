@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:40:22.566Z",
+  "generatedAt": "2026-09-18T22:37:04.633Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "AI Superforecasting Should Transform The FDA",
-        "url": "https://www.astralcodexten.com/p/ai-superforecasting-should-transform",
-        "published": "2026-09-16T23:33:42.000Z",
-        "firstSeen": "2026-09-17T01:28:40.506Z"
+        "title": "Your Book Review: This Is Going To Hurt",
+        "url": "https://www.astralcodexten.com/p/your-book-review-this-is-going-to",
+        "published": "2026-09-18T20:53:58.000Z",
+        "firstSeen": "2026-09-18T22:37:04.633Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/your-book-review-this-is-going-to": "2026-09-18T22:37:04.633Z",
     "https://www.astralcodexten.com/p/ai-superforecasting-should-transform": "2026-09-17T01:28:40.506Z",
     "https://www.astralcodexten.com/p/king-ludd": "2026-09-15T01:31:40.948Z",
     "https://www.astralcodexten.com/p/open-thread-451": "2026-09-14T01:10:21.151Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji": "2026-09-04T19:38:58.222Z",
     "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times": "2026-09-03T11:20:19.857Z",
     "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy": "2026-09-02T11:23:52.558Z",
-    "https://www.astralcodexten.com/p/nicholas-decker-in-hell": "2026-09-01T10:12:40.387Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
