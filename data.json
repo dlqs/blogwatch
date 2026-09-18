@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T16:28:20.173Z",
+  "generatedAt": "2026-09-18T19:40:22.566Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The Creative Spirit of Who Framed Roger Rabbit",
-        "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-        "published": "2026-09-18T14:36:41.000Z",
-        "firstSeen": "2026-09-18T16:28:20.173Z"
+        "title": "Note on 18th September 2026",
+        "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+        "published": "2026-09-18T19:21:32.000Z",
+        "firstSeen": "2026-09-18T19:40:22.566Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
-        "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
-        "published": "2026-09-17T10:00:00.000Z",
-        "firstSeen": "2026-09-17T13:31:41.336Z"
+        "title": "2026.38: Doomforce",
+        "url": "https://stratechery.com/2026/doomforce/",
+        "published": "2026-09-18T17:00:00.000Z",
+        "firstSeen": "2026-09-18T19:40:22.566Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/": "2026-09-18T19:40:22.566Z",
+    "https://simonwillison.net/2026/Sep/18/thariq-shihipar/": "2026-09-18T19:40:22.566Z",
     "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/": "2026-09-18T16:28:20.173Z",
     "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/": "2026-09-18T00:25:17.808Z",
     "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/": "2026-09-18T00:25:17.808Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Sep/16/datasette-2/": "2026-09-17T01:28:40.506Z",
     "https://simonwillison.net/2026/Sep/16/one-claude/": "2026-09-16T20:11:43.586Z",
     "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/": "2026-09-16T17:03:25.931Z",
-    "https://simonwillison.net/2026/Sep/15/gemini-live/": "2026-09-16T00:25:23.259Z",
-    "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/": "2026-09-14T23:10:07.537Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/doomforce/": "2026-09-18T19:40:22.566Z",
     "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/": "2026-09-17T13:31:41.336Z",
     "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/": "2026-09-16T11:42:15.156Z",
     "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/": "2026-09-15T13:36:54.440Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/": "2026-09-09T11:29:11.809Z",
     "https://stratechery.com/2026/write-things-down/": "2026-09-08T14:36:00.537Z",
     "https://stratechery.com/2026/friction-and-feedback/": "2026-09-04T19:38:58.222Z",
-    "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/": "2026-09-04T11:26:22.577Z",
     "https://groups.google.com/g/komoroske-updates/c/jcvjVlKb0Vk": "2026-09-17T13:31:41.336Z",
     "https://groups.google.com/g/komoroske-updates/c/9ej6AT3q7OI": "2026-09-15T13:36:54.440Z",
     "https://groups.google.com/g/komoroske-updates/c/ZgyS0f0Y3cQ": "2026-09-07T20:36:36.392Z",
