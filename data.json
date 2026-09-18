@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:25:17.808Z",
+  "generatedAt": "2026-09-18T16:28:20.173Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Be alert: targeted attacks on prominent Rustaceans",
-        "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-        "published": "2026-09-17T23:59:19.000Z",
-        "firstSeen": "2026-09-18T00:25:17.808Z"
+        "title": "The Creative Spirit of Who Framed Roger Rabbit",
+        "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+        "published": "2026-09-18T14:36:41.000Z",
+        "firstSeen": "2026-09-18T16:28:20.173Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/": "2026-09-18T16:28:20.173Z",
     "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/": "2026-09-18T00:25:17.808Z",
     "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/": "2026-09-18T00:25:17.808Z",
     "https://simonwillison.net/2026/Sep/17/compaction-summaries/": "2026-09-17T22:13:16.480Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/": "2026-09-16T17:03:25.931Z",
     "https://simonwillison.net/2026/Sep/15/gemini-live/": "2026-09-16T00:25:23.259Z",
     "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/": "2026-09-14T23:10:07.537Z",
-    "https://simonwillison.net/2026/Sep/14/influences/": "2026-09-14T23:10:07.537Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
