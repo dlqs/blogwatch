@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T22:37:04.633Z",
+  "generatedAt": "2026-09-19T01:13:29.769Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Note on 18th September 2026",
-        "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-        "published": "2026-09-18T19:21:32.000Z",
-        "firstSeen": "2026-09-18T19:40:22.566Z"
+        "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+        "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+        "published": "2026-09-18T23:57:57.000Z",
+        "firstSeen": "2026-09-19T01:13:29.769Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": "2026-09-19T01:13:29.769Z",
     "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/": "2026-09-18T19:40:22.566Z",
     "https://simonwillison.net/2026/Sep/18/thariq-shihipar/": "2026-09-18T19:40:22.566Z",
     "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/": "2026-09-18T16:28:20.173Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/16/datasette/": "2026-09-17T01:28:40.506Z",
     "https://simonwillison.net/2026/Sep/16/datasette-2/": "2026-09-17T01:28:40.506Z",
     "https://simonwillison.net/2026/Sep/16/one-claude/": "2026-09-16T20:11:43.586Z",
-    "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/": "2026-09-16T17:03:25.931Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
