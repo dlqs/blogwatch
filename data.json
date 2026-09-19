@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:04:03.056Z",
+  "generatedAt": "2026-09-19T23:10:27.589Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "California Sea Lion, Brandt's Cormorant",
-        "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
-        "published": "2026-09-19T17:10:08.000Z",
-        "firstSeen": "2026-09-19T18:04:03.056Z"
+        "title": "datasette-auth-github 1.0",
+        "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+        "published": "2026-09-19T19:52:02.000Z",
+        "firstSeen": "2026-09-19T23:10:27.589Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/19/datasette-auth-github/": "2026-09-19T23:10:27.589Z",
     "https://simonwillison.net/2026/Sep/19/sighting-401567341/": "2026-09-19T18:04:03.056Z",
     "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": "2026-09-19T01:13:29.769Z",
     "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/": "2026-09-18T19:40:22.566Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/": "2026-09-18T00:25:17.808Z",
     "https://simonwillison.net/2026/Sep/17/compaction-summaries/": "2026-09-17T22:13:16.480Z",
     "https://simonwillison.net/2026/Sep/16/datasette/": "2026-09-17T01:28:40.506Z",
-    "https://simonwillison.net/2026/Sep/16/datasette-2/": "2026-09-17T01:28:40.506Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
