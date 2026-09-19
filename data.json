@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T01:13:29.769Z",
+  "generatedAt": "2026-09-19T05:58:38.671Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -34,10 +34,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "China and the Future of Science",
-        "url": "https://scholars-stage.org/china-and-the-future-of-science/",
-        "published": "2026-03-21T21:13:55.000Z",
-        "firstSeen": "2026-07-05T09:48:58.014Z"
+        "title": "The Cure for Cancer Is Not a Pure Math Benchmark",
+        "url": "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/",
+        "published": "2026-09-19T03:38:58.000Z",
+        "firstSeen": "2026-09-19T05:58:38.671Z"
       }
     },
     {
@@ -179,6 +179,7 @@
     "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji": "2026-09-04T19:38:58.222Z",
     "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times": "2026-09-03T11:20:19.857Z",
     "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy": "2026-09-02T11:23:52.558Z",
+    "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/35-theses-on-the-wasps/": "2026-07-05T09:48:58.014Z",
@@ -188,7 +189,6 @@
     "https://scholars-stage.org/book-notes-stoner-1965/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/the-eight-tribes-of-trump-and-china/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-the-euro-american-split-i-dread-possibility/": "2026-07-05T09:48:58.014Z",
-    "https://scholars-stage.org/observations-from-india/": "2026-07-05T09:48:58.014Z",
     "https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/": "2026-08-23T19:38:43.802Z",
     "https://addyosmani.com/blog/practical-loop-engineering/": "2026-08-23T19:38:43.802Z",
     "https://addyosmani.com/blog/agentic-code-quality/": "2026-08-23T19:38:43.802Z",
