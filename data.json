@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:29:51.266Z",
+  "generatedAt": "2026-09-20T22:29:29.777Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "datasette-auth-github 1.0",
-        "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-        "published": "2026-09-19T19:52:02.000Z",
-        "firstSeen": "2026-09-19T23:10:27.589Z"
+        "title": "Quoting voxium",
+        "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+        "published": "2026-09-20T21:06:43.000Z",
+        "firstSeen": "2026-09-20T22:29:29.777Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/20/voxium/": "2026-09-20T22:29:29.777Z",
+    "https://simonwillison.net/2026/Sep/20/llm-keys-ui/": "2026-09-20T22:29:29.777Z",
     "https://simonwillison.net/2026/Sep/19/datasette-auth-github/": "2026-09-19T23:10:27.589Z",
     "https://simonwillison.net/2026/Sep/19/sighting-401567341/": "2026-09-19T18:04:03.056Z",
     "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": "2026-09-19T01:13:29.769Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/": "2026-09-18T16:28:20.173Z",
     "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/": "2026-09-18T00:25:17.808Z",
     "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/": "2026-09-18T00:25:17.808Z",
-    "https://simonwillison.net/2026/Sep/17/compaction-summaries/": "2026-09-17T22:13:16.480Z",
-    "https://simonwillison.net/2026/Sep/16/datasette/": "2026-09-17T01:28:40.506Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
