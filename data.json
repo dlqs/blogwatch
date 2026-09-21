@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T19:33:24.469Z",
+  "generatedAt": "2026-09-21T23:19:57.905Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Your Book Review: This Is Going To Hurt",
-        "url": "https://www.astralcodexten.com/p/your-book-review-this-is-going-to",
-        "published": "2026-09-18T20:53:58.000Z",
-        "firstSeen": "2026-09-18T22:37:04.633Z"
+        "title": "Open Thread 452",
+        "url": "https://www.astralcodexten.com/p/open-thread-452",
+        "published": "2026-09-21T22:05:59.000Z",
+        "firstSeen": "2026-09-21T23:19:57.905Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting voxium",
-        "url": "https://simonwillison.net/2026/Sep/20/voxium/",
-        "published": "2026-09-20T21:06:43.000Z",
-        "firstSeen": "2026-09-20T22:29:29.777Z"
+        "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+        "url": "https://simonwillison.net/2026/Sep/21/jev/",
+        "published": "2026-09-21T23:09:20.000Z",
+        "firstSeen": "2026-09-21T23:19:57.905Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/open-thread-452": "2026-09-21T23:19:57.905Z",
     "https://www.astralcodexten.com/p/your-book-review-this-is-going-to": "2026-09-18T22:37:04.633Z",
     "https://www.astralcodexten.com/p/ai-superforecasting-should-transform": "2026-09-17T01:28:40.506Z",
     "https://www.astralcodexten.com/p/king-ludd": "2026-09-15T01:31:40.948Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/open-thread-450": "2026-09-07T10:24:16.471Z",
     "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji": "2026-09-04T19:38:58.222Z",
     "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times": "2026-09-03T11:20:19.857Z",
-    "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy": "2026-09-02T11:23:52.558Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/21/jev/": "2026-09-21T23:19:57.905Z",
+    "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": "2026-09-21T23:19:57.905Z",
     "https://simonwillison.net/2026/Sep/20/voxium/": "2026-09-20T22:29:29.777Z",
     "https://simonwillison.net/2026/Sep/20/hn-49779718/": "2026-09-21T19:33:24.469Z",
     "https://simonwillison.net/2026/Sep/20/llm-keys-ui/": "2026-09-20T22:29:29.777Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Sep/19/sighting-401567341/": "2026-09-19T18:04:03.056Z",
     "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": "2026-09-19T01:13:29.769Z",
     "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/": "2026-09-18T19:40:22.566Z",
-    "https://simonwillison.net/2026/Sep/18/thariq-shihipar/": "2026-09-18T19:40:22.566Z",
-    "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/": "2026-09-18T16:28:20.173Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
