@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T23:19:57.905Z",
+  "generatedAt": "2026-09-22T10:02:18.016Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Frontier Overhangs",
-        "url": "https://stratechery.com/2026/frontier-overhangs/",
-        "published": "2026-09-21T10:00:00.000Z",
-        "firstSeen": "2026-09-21T14:14:49.009Z"
+        "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+        "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+        "published": "2026-09-22T10:00:00.000Z",
+        "firstSeen": "2026-09-22T10:02:18.016Z"
       }
     },
     {
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/": "2026-09-22T10:02:18.016Z",
     "https://stratechery.com/2026/frontier-overhangs/": "2026-09-21T14:14:49.009Z",
     "https://stratechery.com/2026/doomforce/": "2026-09-18T19:40:22.566Z",
     "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/": "2026-09-17T13:31:41.336Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/duo-threats/": "2026-09-11T19:45:55.402Z",
     "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/": "2026-09-10T11:25:41.958Z",
     "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/": "2026-09-09T11:29:11.809Z",
-    "https://stratechery.com/2026/write-things-down/": "2026-09-08T14:36:00.537Z",
     "https://groups.google.com/g/komoroske-updates/c/NnOfsTzQeOQ": "2026-09-21T19:33:24.469Z",
     "https://groups.google.com/g/komoroske-updates/c/jcvjVlKb0Vk": "2026-09-17T13:31:41.336Z",
     "https://groups.google.com/g/komoroske-updates/c/9ej6AT3q7OI": "2026-09-15T13:36:54.440Z",
