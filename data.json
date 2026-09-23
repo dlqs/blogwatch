@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T06:01:53.369Z",
+  "generatedAt": "2026-09-23T11:43:49.773Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Mysteries Of AI Generalization",
-        "url": "https://www.astralcodexten.com/p/mysteries-of-ai-generalization",
-        "published": "2026-09-23T01:07:40.000Z",
-        "firstSeen": "2026-09-23T06:01:53.369Z"
+        "title": "Hidden Open Thread 452.5",
+        "url": "https://www.astralcodexten.com/p/hidden-open-thread-4525",
+        "published": "2026-09-23T08:46:31.000Z",
+        "firstSeen": "2026-09-23T11:43:49.773Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
-        "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
-        "published": "2026-09-22T10:00:00.000Z",
-        "firstSeen": "2026-09-22T10:02:18.016Z"
+        "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+        "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+        "published": "2026-09-23T10:00:00.000Z",
+        "firstSeen": "2026-09-23T11:43:49.773Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/hidden-open-thread-4525": "2026-09-23T11:43:49.773Z",
     "https://www.astralcodexten.com/p/mysteries-of-ai-generalization": "2026-09-23T06:01:53.369Z",
     "https://www.astralcodexten.com/p/open-thread-452": "2026-09-21T23:19:57.905Z",
     "https://www.astralcodexten.com/p/your-book-review-this-is-going-to": "2026-09-18T22:37:04.633Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/royce-on-san-francisco": "2026-09-10T11:25:41.958Z",
     "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about": "2026-09-08T14:36:00.537Z",
     "https://www.astralcodexten.com/p/open-thread-450": "2026-09-07T10:24:16.471Z",
-    "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji": "2026-09-04T19:38:58.222Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/": "2026-09-23T11:43:49.773Z",
     "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/": "2026-09-22T10:02:18.016Z",
     "https://stratechery.com/2026/frontier-overhangs/": "2026-09-21T14:14:49.009Z",
     "https://stratechery.com/2026/doomforce/": "2026-09-18T19:40:22.566Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/": "2026-09-14T14:08:44.804Z",
     "https://stratechery.com/2026/duo-threats/": "2026-09-11T19:45:55.402Z",
     "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/": "2026-09-10T11:25:41.958Z",
-    "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/": "2026-09-09T11:29:11.809Z",
     "https://groups.google.com/g/komoroske-updates/c/NnOfsTzQeOQ": "2026-09-21T19:33:24.469Z",
     "https://groups.google.com/g/komoroske-updates/c/jcvjVlKb0Vk": "2026-09-17T13:31:41.336Z",
     "https://groups.google.com/g/komoroske-updates/c/9ej6AT3q7OI": "2026-09-15T13:36:54.440Z",
