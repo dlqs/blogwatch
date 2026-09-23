@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T20:26:20.256Z",
+  "generatedAt": "2026-09-23T23:44:43.721Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Shadow roots, explained with live examples",
-        "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
-        "published": "2026-09-23T16:37:18.000Z",
-        "firstSeen": "2026-09-23T20:26:20.256Z"
+        "title": "Gemini 3.8 TTS Playground",
+        "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+        "published": "2026-09-23T17:12:27.000Z",
+        "firstSeen": "2026-09-23T23:44:43.721Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/": "2026-09-23T23:44:43.721Z",
     "https://simonwillison.net/2026/Sep/23/shadow-roots/": "2026-09-23T20:26:20.256Z",
     "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/": "2026-09-23T06:01:53.369Z",
     "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/": "2026-09-23T00:39:59.018Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/22/llm-typesafe/": "2026-09-22T18:57:29.172Z",
     "https://simonwillison.net/2026/Sep/21/jev/": "2026-09-21T23:19:57.905Z",
     "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": "2026-09-21T23:19:57.905Z",
-    "https://simonwillison.net/2026/Sep/20/voxium/": "2026-09-20T22:29:29.777Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
