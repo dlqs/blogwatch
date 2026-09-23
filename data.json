@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:43:49.773Z",
+  "generatedAt": "2026-09-23T20:26:20.256Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-        "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-        "published": "2026-09-23T02:53:19.000Z",
-        "firstSeen": "2026-09-23T06:01:53.369Z"
+        "title": "Shadow roots, explained with live examples",
+        "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+        "published": "2026-09-23T16:37:18.000Z",
+        "firstSeen": "2026-09-23T20:26:20.256Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/23/shadow-roots/": "2026-09-23T20:26:20.256Z",
     "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/": "2026-09-23T06:01:53.369Z",
     "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/": "2026-09-23T00:39:59.018Z",
     "https://simonwillison.net/2026/Sep/22/llm/": "2026-09-23T00:39:59.018Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/21/jev/": "2026-09-21T23:19:57.905Z",
     "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": "2026-09-21T23:19:57.905Z",
     "https://simonwillison.net/2026/Sep/20/voxium/": "2026-09-20T22:29:29.777Z",
-    "https://simonwillison.net/2026/Sep/20/hn-49779718/": "2026-09-21T19:33:24.469Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
