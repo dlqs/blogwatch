@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:57:29.172Z",
+  "generatedAt": "2026-09-23T00:39:59.018Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting @therealcornpop",
-        "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-        "published": "2026-09-22T18:03:21.000Z",
-        "firstSeen": "2026-09-22T18:57:29.172Z"
+        "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+        "published": "2026-09-22T23:46:41.000Z",
+        "firstSeen": "2026-09-23T00:39:59.018Z"
       }
     },
     {
@@ -209,16 +209,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/": "2026-09-23T00:39:59.018Z",
+    "https://simonwillison.net/2026/Sep/22/llm/": "2026-09-23T00:39:59.018Z",
     "https://simonwillison.net/2026/Sep/22/therealcornpop/": "2026-09-22T18:57:29.172Z",
+    "https://simonwillison.net/2026/Sep/22/llm-anthropic/": "2026-09-23T00:39:59.018Z",
     "https://simonwillison.net/2026/Sep/22/llm-typesafe/": "2026-09-22T18:57:29.172Z",
     "https://simonwillison.net/2026/Sep/21/jev/": "2026-09-21T23:19:57.905Z",
     "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": "2026-09-21T23:19:57.905Z",
     "https://simonwillison.net/2026/Sep/20/voxium/": "2026-09-20T22:29:29.777Z",
     "https://simonwillison.net/2026/Sep/20/hn-49779718/": "2026-09-21T19:33:24.469Z",
     "https://simonwillison.net/2026/Sep/20/llm-keys-ui/": "2026-09-20T22:29:29.777Z",
-    "https://simonwillison.net/2026/Sep/20/datasette-explain/": "2026-09-21T01:09:53.519Z",
-    "https://simonwillison.net/2026/Sep/19/datasette-auth-github/": "2026-09-19T23:10:27.589Z",
-    "https://simonwillison.net/2026/Sep/19/sighting-401567341/": "2026-09-19T18:04:03.056Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
