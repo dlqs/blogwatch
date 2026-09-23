@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T00:39:59.018Z",
+  "generatedAt": "2026-09-23T06:01:53.369Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 452",
-        "url": "https://www.astralcodexten.com/p/open-thread-452",
-        "published": "2026-09-21T22:05:59.000Z",
-        "firstSeen": "2026-09-21T23:19:57.905Z"
+        "title": "Mysteries Of AI Generalization",
+        "url": "https://www.astralcodexten.com/p/mysteries-of-ai-generalization",
+        "published": "2026-09-23T01:07:40.000Z",
+        "firstSeen": "2026-09-23T06:01:53.369Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-        "published": "2026-09-22T23:46:41.000Z",
-        "firstSeen": "2026-09-23T00:39:59.018Z"
+        "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+        "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+        "published": "2026-09-23T02:53:19.000Z",
+        "firstSeen": "2026-09-23T06:01:53.369Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/mysteries-of-ai-generalization": "2026-09-23T06:01:53.369Z",
     "https://www.astralcodexten.com/p/open-thread-452": "2026-09-21T23:19:57.905Z",
     "https://www.astralcodexten.com/p/your-book-review-this-is-going-to": "2026-09-18T22:37:04.633Z",
     "https://www.astralcodexten.com/p/ai-superforecasting-should-transform": "2026-09-17T01:28:40.506Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about": "2026-09-08T14:36:00.537Z",
     "https://www.astralcodexten.com/p/open-thread-450": "2026-09-07T10:24:16.471Z",
     "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji": "2026-09-04T19:38:58.222Z",
-    "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times": "2026-09-03T11:20:19.857Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/": "2026-09-23T06:01:53.369Z",
     "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/": "2026-09-23T00:39:59.018Z",
     "https://simonwillison.net/2026/Sep/22/llm/": "2026-09-23T00:39:59.018Z",
     "https://simonwillison.net/2026/Sep/22/therealcornpop/": "2026-09-22T18:57:29.172Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": "2026-09-21T23:19:57.905Z",
     "https://simonwillison.net/2026/Sep/20/voxium/": "2026-09-20T22:29:29.777Z",
     "https://simonwillison.net/2026/Sep/20/hn-49779718/": "2026-09-21T19:33:24.469Z",
-    "https://simonwillison.net/2026/Sep/20/llm-keys-ui/": "2026-09-20T22:29:29.777Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
