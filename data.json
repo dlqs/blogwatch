@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T23:44:43.721Z",
+  "generatedAt": "2026-09-24T04:57:39.878Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Hidden Open Thread 452.5",
-        "url": "https://www.astralcodexten.com/p/hidden-open-thread-4525",
-        "published": "2026-09-23T08:46:31.000Z",
-        "firstSeen": "2026-09-23T11:43:49.773Z"
+        "title": "Does Georgism Work? Five Years Later",
+        "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+        "published": "2026-09-24T03:16:49.000Z",
+        "firstSeen": "2026-09-24T04:57:39.878Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/does-georgism-work-five-years-later": "2026-09-24T04:57:39.878Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4525": "2026-09-23T11:43:49.773Z",
     "https://www.astralcodexten.com/p/mysteries-of-ai-generalization": "2026-09-23T06:01:53.369Z",
     "https://www.astralcodexten.com/p/open-thread-452": "2026-09-21T23:19:57.905Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/open-thread-451": "2026-09-14T01:10:21.151Z",
     "https://www.astralcodexten.com/p/royce-on-san-francisco": "2026-09-10T11:25:41.958Z",
     "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about": "2026-09-08T14:36:00.537Z",
-    "https://www.astralcodexten.com/p/open-thread-450": "2026-09-07T10:24:16.471Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
