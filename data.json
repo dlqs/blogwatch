@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T04:57:39.878Z",
+  "generatedAt": "2026-09-24T10:05:32.788Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
-        "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
-        "published": "2026-09-23T10:00:00.000Z",
-        "firstSeen": "2026-09-23T11:43:49.773Z"
+        "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+        "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
+        "published": "2026-09-24T10:00:00.000Z",
+        "firstSeen": "2026-09-24T10:05:32.788Z"
       }
     },
     {
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/": "2026-09-24T10:05:32.788Z",
     "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/": "2026-09-23T11:43:49.773Z",
     "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/": "2026-09-22T10:02:18.016Z",
     "https://stratechery.com/2026/frontier-overhangs/": "2026-09-21T14:14:49.009Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/": "2026-09-15T13:36:54.440Z",
     "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/": "2026-09-14T14:08:44.804Z",
     "https://stratechery.com/2026/duo-threats/": "2026-09-11T19:45:55.402Z",
-    "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/": "2026-09-10T11:25:41.958Z",
     "https://groups.google.com/g/komoroske-updates/c/NnOfsTzQeOQ": "2026-09-21T19:33:24.469Z",
     "https://groups.google.com/g/komoroske-updates/c/jcvjVlKb0Vk": "2026-09-17T13:31:41.336Z",
     "https://groups.google.com/g/komoroske-updates/c/9ej6AT3q7OI": "2026-09-15T13:36:54.440Z",
