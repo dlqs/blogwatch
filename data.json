@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T22:28:49.386Z",
+  "generatedAt": "2026-09-25T07:53:47.595Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The Specter Of Neuralese",
-        "url": "https://www.astralcodexten.com/p/the-specter-of-neuralese",
-        "published": "2026-09-24T22:12:39.000Z",
-        "firstSeen": "2026-09-24T22:28:49.386Z"
+        "title": "Fall Meetups 2026 - Call For Meetup Organizers",
+        "url": "https://www.astralcodexten.com/p/fall-meetups-2026-call-for-meetup",
+        "published": "2026-09-25T06:06:18.000Z",
+        "firstSeen": "2026-09-25T07:53:47.595Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-09-24T19:13:47.396Z",
+    "https://www.astralcodexten.com/p/fall-meetups-2026-call-for-meetup": "2026-09-25T07:53:47.595Z",
     "https://www.astralcodexten.com/p/the-specter-of-neuralese": "2026-09-24T22:28:49.386Z",
     "https://www.astralcodexten.com/p/does-georgism-work-five-years-later": "2026-09-24T04:57:39.878Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4525": "2026-09-23T11:43:49.773Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/ai-superforecasting-should-transform": "2026-09-17T01:28:40.506Z",
     "https://www.astralcodexten.com/p/king-ludd": "2026-09-15T01:31:40.948Z",
     "https://www.astralcodexten.com/p/open-thread-451": "2026-09-14T01:10:21.151Z",
-    "https://www.astralcodexten.com/p/royce-on-san-francisco": "2026-09-10T11:25:41.958Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
