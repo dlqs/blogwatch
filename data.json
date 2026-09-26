@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:40:20.203Z",
+  "generatedAt": "2026-09-26T01:37:27.375Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Fall Meetups 2026 - Call For Meetup Organizers",
-        "url": "https://www.astralcodexten.com/p/fall-meetups-2026-call-for-meetup",
-        "published": "2026-09-25T06:06:18.000Z",
-        "firstSeen": "2026-09-25T07:53:47.595Z"
+        "title": "Your Book Review: Lee Kuan Yew's Memoirs",
+        "url": "https://www.astralcodexten.com/p/your-book-review-lee-kuan-yews-memoirs",
+        "published": "2026-09-25T22:26:10.000Z",
+        "firstSeen": "2026-09-26T01:37:27.375Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://danluu.com/codenames/": "2026-09-24T19:13:47.396Z",
+    "https://www.astralcodexten.com/p/your-book-review-lee-kuan-yews-memoirs": "2026-09-26T01:37:27.375Z",
     "https://www.astralcodexten.com/p/fall-meetups-2026-call-for-meetup": "2026-09-25T07:53:47.595Z",
     "https://www.astralcodexten.com/p/the-specter-of-neuralese": "2026-09-24T22:28:49.386Z",
     "https://www.astralcodexten.com/p/does-georgism-work-five-years-later": "2026-09-24T04:57:39.878Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/your-book-review-this-is-going-to": "2026-09-18T22:37:04.633Z",
     "https://www.astralcodexten.com/p/ai-superforecasting-should-transform": "2026-09-17T01:28:40.506Z",
     "https://www.astralcodexten.com/p/king-ludd": "2026-09-15T01:31:40.948Z",
-    "https://www.astralcodexten.com/p/open-thread-451": "2026-09-14T01:10:21.151Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
