@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T22:05:25.313Z",
+  "generatedAt": "2026-09-29T02:01:11.529Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting @joedaroo",
-        "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-        "published": "2026-09-28T19:11:42.000Z",
-        "firstSeen": "2026-09-28T22:05:25.313Z"
+        "title": "Claude Sonnet 5.5",
+        "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+        "published": "2026-09-28T22:07:38.000Z",
+        "firstSeen": "2026-09-29T02:01:11.529Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/": "2026-09-29T02:01:11.529Z",
     "https://simonwillison.net/2026/Sep/28/joedaroo/": "2026-09-28T22:05:25.313Z",
     "https://simonwillison.net/2026/Sep/28/muse-ai-agent/": "2026-09-28T06:59:44.095Z",
     "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/": "2026-09-28T00:53:19.780Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/25/john-gruber/": "2026-09-25T18:40:20.203Z",
     "https://simonwillison.net/2026/Sep/25/sighting-403293902/": "2026-09-25T18:40:20.203Z",
     "https://simonwillison.net/2026/Sep/24/harder/": "2026-09-25T18:40:20.203Z",
-    "https://simonwillison.net/2026/Sep/24/commit-rewriter/": "2026-09-24T22:28:49.386Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
