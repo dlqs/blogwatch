@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T19:25:08.919Z",
+  "generatedAt": "2026-09-30T23:54:23.780Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Anthropic Frontier Red Team",
-        "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-        "published": "2026-09-29T22:20:28.000Z",
-        "firstSeen": "2026-09-30T00:30:59.277Z"
+        "title": "He Built This City",
+        "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+        "published": "2026-09-30T21:54:19.000Z",
+        "firstSeen": "2026-09-30T23:54:23.780Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Sep/30/he-built-this-city/": "2026-09-30T23:54:23.780Z",
     "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/": "2026-09-30T00:30:59.277Z",
     "https://simonwillison.net/2026/Sep/29/hn-49898129/": "2026-09-30T00:30:59.277Z",
     "https://simonwillison.net/2026/Sep/29/photo-scrubber/": "2026-09-30T19:25:08.919Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/28/muse-ai-agent/": "2026-09-28T06:59:44.095Z",
     "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/": "2026-09-28T00:53:19.780Z",
     "https://simonwillison.net/2026/Sep/27/hn-49871741/": "2026-09-28T06:59:44.095Z",
-    "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/": "2026-09-28T06:59:44.095Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
