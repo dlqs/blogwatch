@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T23:54:23.780Z",
+  "generatedAt": "2026-10-01T13:24:30.806Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "He Built This City",
-        "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-        "published": "2026-09-30T21:54:19.000Z",
-        "firstSeen": "2026-09-30T23:54:23.780Z"
+        "title": "Quoting Matthew Green",
+        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+        "published": "2026-10-01T06:29:01.000Z",
+        "firstSeen": "2026-10-01T13:24:30.806Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT",
-        "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
-        "published": "2026-09-30T10:00:00.000Z",
-        "firstSeen": "2026-09-30T13:48:46.046Z"
+        "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
+        "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
+        "published": "2026-10-01T10:00:00.000Z",
+        "firstSeen": "2026-10-01T13:24:30.806Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/1/matthew-green/": "2026-10-01T13:24:30.806Z",
     "https://simonwillison.net/2026/Sep/30/he-built-this-city/": "2026-09-30T23:54:23.780Z",
     "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/": "2026-09-30T00:30:59.277Z",
     "https://simonwillison.net/2026/Sep/29/hn-49898129/": "2026-09-30T00:30:59.277Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/28/joedaroo/": "2026-09-28T22:05:25.313Z",
     "https://simonwillison.net/2026/Sep/28/muse-ai-agent/": "2026-09-28T06:59:44.095Z",
     "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/": "2026-09-28T00:53:19.780Z",
-    "https://simonwillison.net/2026/Sep/27/hn-49871741/": "2026-09-28T06:59:44.095Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/": "2026-10-01T13:24:30.806Z",
     "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/": "2026-09-30T13:48:46.046Z",
     "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/": "2026-09-29T15:56:09.801Z",
     "https://stratechery.com/2026/apps-agents-and-aggregation/": "2026-09-28T15:33:24.914Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/": "2026-09-26T22:54:56.170Z",
     "https://stratechery.com/2026/frontier-overhangs/": "2026-09-26T22:54:56.170Z",
     "https://stratechery.com/2026/doomforce/": "2026-09-26T22:54:56.170Z",
-    "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/": "2026-09-26T22:54:56.170Z",
     "https://groups.google.com/g/komoroske-updates/c/R6ZqHWToMEM": "2026-09-28T22:05:25.313Z",
     "https://groups.google.com/g/komoroske-updates/c/NnOfsTzQeOQ": "2026-09-21T19:33:24.469Z",
     "https://groups.google.com/g/komoroske-updates/c/jcvjVlKb0Vk": "2026-09-17T13:31:41.336Z",
