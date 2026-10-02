@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:45:20.723Z",
+  "generatedAt": "2026-10-02T18:27:47.200Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
-        "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
-        "published": "2026-10-01T10:00:00.000Z",
-        "firstSeen": "2026-10-01T13:24:30.806Z"
+        "title": "2026.40: Dots and Question Marks",
+        "url": "https://stratechery.com/2026/dots-and-question-marks/",
+        "published": "2026-10-02T17:00:00.000Z",
+        "firstSeen": "2026-10-02T18:27:47.200Z"
       }
     },
     {
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/dots-and-question-marks/": "2026-10-02T18:27:47.200Z",
     "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/": "2026-10-01T13:24:30.806Z",
     "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/": "2026-09-30T13:48:46.046Z",
     "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/": "2026-09-29T15:56:09.801Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/": "2026-09-26T22:54:56.170Z",
     "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/": "2026-09-26T22:54:56.170Z",
     "https://stratechery.com/2026/frontier-overhangs/": "2026-09-26T22:54:56.170Z",
-    "https://stratechery.com/2026/doomforce/": "2026-09-26T22:54:56.170Z",
     "https://groups.google.com/g/komoroske-updates/c/R6ZqHWToMEM": "2026-09-28T22:05:25.313Z",
     "https://groups.google.com/g/komoroske-updates/c/NnOfsTzQeOQ": "2026-09-21T19:33:24.469Z",
     "https://groups.google.com/g/komoroske-updates/c/jcvjVlKb0Vk": "2026-09-17T13:31:41.336Z",
