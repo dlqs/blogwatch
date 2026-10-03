@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T18:27:47.200Z",
+  "generatedAt": "2026-10-03T21:21:45.088Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Matthew Green",
-        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-        "published": "2026-10-01T06:29:01.000Z",
-        "firstSeen": "2026-10-01T13:24:30.806Z"
+        "title": "Rex's Dino Store",
+        "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+        "published": "2026-10-02T22:57:38.000Z",
+        "firstSeen": "2026-10-03T21:21:45.088Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": "2026-10-03T21:21:45.088Z",
     "https://simonwillison.net/2026/Oct/1/matthew-green/": "2026-10-01T13:24:30.806Z",
     "https://simonwillison.net/2026/Sep/30/he-built-this-city/": "2026-09-30T23:54:23.780Z",
     "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/": "2026-09-30T00:30:59.277Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/": "2026-09-29T02:01:11.529Z",
     "https://simonwillison.net/2026/Sep/28/joedaroo/": "2026-09-28T22:05:25.313Z",
     "https://simonwillison.net/2026/Sep/28/muse-ai-agent/": "2026-09-28T06:59:44.095Z",
-    "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/": "2026-09-28T00:53:19.780Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
