@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T00:41:31.192Z",
+  "generatedAt": "2026-10-05T16:05:51.852Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Our AI Midwife",
-        "url": "https://www.astralcodexten.com/p/our-ai-midwife",
-        "published": "2026-10-02T01:08:13.000Z",
-        "firstSeen": "2026-10-02T05:45:20.723Z"
+        "title": "Open Thread 454",
+        "url": "https://www.astralcodexten.com/p/open-thread-454",
+        "published": "2026-10-05T11:09:46.000Z",
+        "firstSeen": "2026-10-05T16:05:51.852Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "2026.40: Dots and Question Marks",
-        "url": "https://stratechery.com/2026/dots-and-question-marks/",
-        "published": "2026-10-02T17:00:00.000Z",
-        "firstSeen": "2026-10-02T18:27:47.200Z"
+        "title": "Apple and a Hacker’s Future",
+        "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+        "published": "2026-10-05T10:00:00.000Z",
+        "firstSeen": "2026-10-05T16:05:51.852Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/exercise-7/": "2026-07-28T00:12:36.410Z",
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/open-thread-454": "2026-10-05T16:05:51.852Z",
     "https://www.astralcodexten.com/p/our-ai-midwife": "2026-10-02T05:45:20.723Z",
     "https://www.astralcodexten.com/p/open-thread-453": "2026-09-28T22:05:25.313Z",
     "https://www.astralcodexten.com/p/your-book-review-lee-kuan-yews-memoirs": "2026-09-26T01:37:27.375Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/hidden-open-thread-4525": "2026-09-23T11:43:49.773Z",
     "https://www.astralcodexten.com/p/mysteries-of-ai-generalization": "2026-09-23T06:01:53.369Z",
     "https://www.astralcodexten.com/p/open-thread-452": "2026-09-21T23:19:57.905Z",
-    "https://www.astralcodexten.com/p/your-book-review-this-is-going-to": "2026-09-18T22:37:04.633Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/apple-and-a-hackers-future/": "2026-10-05T16:05:51.852Z",
     "https://stratechery.com/2026/dots-and-question-marks/": "2026-10-02T18:27:47.200Z",
     "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/": "2026-10-01T13:24:30.806Z",
     "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/": "2026-09-30T13:48:46.046Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/": "2026-09-26T22:54:56.170Z",
     "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/": "2026-09-26T22:54:56.170Z",
     "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/": "2026-09-26T22:54:56.170Z",
-    "https://stratechery.com/2026/frontier-overhangs/": "2026-09-26T22:54:56.170Z",
     "https://groups.google.com/g/komoroske-updates/c/R6ZqHWToMEM": "2026-09-28T22:05:25.313Z",
     "https://groups.google.com/g/komoroske-updates/c/NnOfsTzQeOQ": "2026-09-21T19:33:24.469Z",
     "https://groups.google.com/g/komoroske-updates/c/jcvjVlKb0Vk": "2026-09-17T13:31:41.336Z",
