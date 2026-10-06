@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:25:16.614Z",
+  "generatedAt": "2026-10-06T17:14:21.268Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Felix Rieseberg",
-        "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-        "published": "2026-10-05T23:56:47.000Z",
-        "firstSeen": "2026-10-06T03:02:36.086Z"
+        "title": "Scrimshaw Jukebox",
+        "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+        "published": "2026-10-06T15:17:39.000Z",
+        "firstSeen": "2026-10-06T17:14:21.268Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/": "2026-10-06T17:14:21.268Z",
     "https://simonwillison.net/2026/Oct/5/felix-rieseberg/": "2026-10-06T03:02:36.086Z",
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/": "2026-10-05T22:41:46.528Z",
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": "2026-10-04T00:41:31.192Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/1/matthew-green/": "2026-10-01T13:24:30.806Z",
     "https://simonwillison.net/2026/Sep/30/he-built-this-city/": "2026-09-30T23:54:23.780Z",
     "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/": "2026-09-30T00:30:59.277Z",
-    "https://simonwillison.net/2026/Sep/29/hn-49898129/": "2026-09-30T00:30:59.277Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
