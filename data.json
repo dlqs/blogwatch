@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T16:34:33.486Z",
+  "generatedAt": "2026-10-07T22:01:41.653Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "An Open Letter To Steven Pinker On AI",
-        "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
-        "published": "2026-10-06T21:23:06.000Z",
-        "firstSeen": "2026-10-06T21:41:41.938Z"
+        "title": "Top Forecasters On The Plague",
+        "url": "https://www.astralcodexten.com/p/top-forecasters-on-the-plague",
+        "published": "2026-10-07T21:13:16.000Z",
+        "firstSeen": "2026-10-07T22:01:41.653Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Anti-Patterns in Software Blogging",
-        "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-        "published": "2026-10-07T14:53:51.000Z",
-        "firstSeen": "2026-10-07T16:34:33.486Z"
+        "title": "Claude Haiku 5.5",
+        "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+        "published": "2026-10-07T20:56:21.000Z",
+        "firstSeen": "2026-10-07T22:01:41.653Z"
       }
     },
     {
@@ -169,6 +169,8 @@
     "https://danluu.com/exercise-7/": "2026-07-28T00:12:36.410Z",
     "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
     "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
+    "https://www.astralcodexten.com/p/top-forecasters-on-the-plague": "2026-10-07T22:01:41.653Z",
+    "https://www.astralcodexten.com/p/hidden-open-thread-4545": "2026-10-07T22:01:41.653Z",
     "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on": "2026-10-06T21:41:41.938Z",
     "https://www.astralcodexten.com/p/open-thread-454": "2026-10-05T16:05:51.852Z",
     "https://www.astralcodexten.com/p/our-ai-midwife": "2026-10-02T05:45:20.723Z",
@@ -177,8 +179,6 @@
     "https://www.astralcodexten.com/p/fall-meetups-2026-call-for-meetup": "2026-09-25T07:53:47.595Z",
     "https://www.astralcodexten.com/p/the-specter-of-neuralese": "2026-09-24T22:28:49.386Z",
     "https://www.astralcodexten.com/p/does-georgism-work-five-years-later": "2026-09-24T04:57:39.878Z",
-    "https://www.astralcodexten.com/p/hidden-open-thread-4525": "2026-09-23T11:43:49.773Z",
-    "https://www.astralcodexten.com/p/mysteries-of-ai-generalization": "2026-09-23T06:01:53.369Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/": "2026-10-07T22:01:41.653Z",
     "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/": "2026-10-07T16:34:33.486Z",
     "https://simonwillison.net/2026/Oct/7/jake-boggan/": "2026-10-07T08:44:54.546Z",
     "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/": "2026-10-07T01:35:56.546Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/6/hn-49983751/": "2026-10-06T21:41:41.938Z",
     "https://simonwillison.net/2026/Oct/6/le-chonk/": "2026-10-06T21:41:41.938Z",
     "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/": "2026-10-06T21:41:41.938Z",
-    "https://simonwillison.net/2026/Oct/6/hn-49982139/": "2026-10-06T21:41:41.938Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
