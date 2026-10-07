@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:35:56.546Z",
+  "generatedAt": "2026-10-07T08:44:54.546Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-        "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-        "published": "2026-10-07T00:16:45.000Z",
-        "firstSeen": "2026-10-07T01:35:56.546Z"
+        "title": "Quoting Jake Boggan",
+        "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+        "published": "2026-10-07T04:47:55.000Z",
+        "firstSeen": "2026-10-07T08:44:54.546Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/7/jake-boggan/": "2026-10-07T08:44:54.546Z",
     "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/": "2026-10-07T01:35:56.546Z",
     "https://simonwillison.net/2026/Oct/6/victoria-kim/": "2026-10-07T01:35:56.546Z",
     "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/": "2026-10-07T01:35:56.546Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/": "2026-10-06T21:41:41.938Z",
     "https://simonwillison.net/2026/Oct/6/hn-49982139/": "2026-10-06T21:41:41.938Z",
     "https://simonwillison.net/2026/Oct/6/datasette-atom/": "2026-10-06T21:41:41.938Z",
-    "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/": "2026-10-06T17:14:21.268Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
