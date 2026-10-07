@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T21:41:41.938Z",
+  "generatedAt": "2026-10-07T01:35:56.546Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "llm-mistral 0.16",
-        "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
-        "published": "2026-10-06T21:32:34.000Z",
-        "firstSeen": "2026-10-06T21:41:41.938Z"
+        "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+        "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+        "published": "2026-10-07T00:16:45.000Z",
+        "firstSeen": "2026-10-07T01:35:56.546Z"
       }
     },
     {
@@ -209,6 +209,9 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/": "2026-10-07T01:35:56.546Z",
+    "https://simonwillison.net/2026/Oct/6/victoria-kim/": "2026-10-07T01:35:56.546Z",
+    "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/": "2026-10-07T01:35:56.546Z",
     "https://simonwillison.net/2026/Oct/6/llm-mistral/": "2026-10-06T21:41:41.938Z",
     "https://simonwillison.net/2026/Oct/6/hn-49983751/": "2026-10-06T21:41:41.938Z",
     "https://simonwillison.net/2026/Oct/6/le-chonk/": "2026-10-06T21:41:41.938Z",
@@ -216,9 +219,6 @@
     "https://simonwillison.net/2026/Oct/6/hn-49982139/": "2026-10-06T21:41:41.938Z",
     "https://simonwillison.net/2026/Oct/6/datasette-atom/": "2026-10-06T21:41:41.938Z",
     "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/": "2026-10-06T17:14:21.268Z",
-    "https://simonwillison.net/2026/Oct/5/felix-rieseberg/": "2026-10-06T03:02:36.086Z",
-    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/": "2026-10-05T22:41:46.528Z",
-    "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": "2026-10-04T00:41:31.192Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
