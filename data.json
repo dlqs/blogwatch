@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:01:41.653Z",
+  "generatedAt": "2026-10-08T01:59:40.462Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Claude Haiku 5.5",
-        "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-        "published": "2026-10-07T20:56:21.000Z",
-        "firstSeen": "2026-10-07T22:01:41.653Z"
+        "title": "Quoting Ben Affleck",
+        "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+        "published": "2026-10-07T23:14:58.000Z",
+        "firstSeen": "2026-10-08T01:59:40.462Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/7/ben-affleck/": "2026-10-08T01:59:40.462Z",
     "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/": "2026-10-07T22:01:41.653Z",
     "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/": "2026-10-07T16:34:33.486Z",
     "https://simonwillison.net/2026/Oct/7/jake-boggan/": "2026-10-07T08:44:54.546Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/6/llm-mistral/": "2026-10-06T21:41:41.938Z",
     "https://simonwillison.net/2026/Oct/6/hn-49983751/": "2026-10-06T21:41:41.938Z",
     "https://simonwillison.net/2026/Oct/6/le-chonk/": "2026-10-06T21:41:41.938Z",
-    "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/": "2026-10-06T21:41:41.938Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
