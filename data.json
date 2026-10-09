@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T22:07:53.428Z",
+  "generatedAt": "2026-10-09T02:13:48.027Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Carson Gross",
-        "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-        "published": "2026-10-08T21:05:44.000Z",
-        "firstSeen": "2026-10-08T22:07:53.428Z"
+        "title": "ttok 0.4",
+        "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+        "published": "2026-10-08T23:34:28.000Z",
+        "firstSeen": "2026-10-09T02:13:48.027Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/8/ttok/": "2026-10-09T02:13:48.027Z",
     "https://simonwillison.net/2026/Oct/8/carson-gross/": "2026-10-08T22:07:53.428Z",
     "https://simonwillison.net/2026/Oct/7/ben-affleck/": "2026-10-08T01:59:40.462Z",
     "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/": "2026-10-07T22:01:41.653Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/6/victoria-kim/": "2026-10-07T01:35:56.546Z",
     "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/": "2026-10-07T01:35:56.546Z",
     "https://simonwillison.net/2026/Oct/6/llm-mistral/": "2026-10-06T21:41:41.938Z",
-    "https://simonwillison.net/2026/Oct/6/hn-49983751/": "2026-10-06T21:41:41.938Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
