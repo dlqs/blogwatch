@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:17:52.112Z",
+  "generatedAt": "2026-10-09T21:43:06.276Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
-        "url": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
-        "published": "2026-10-08T10:00:00.000Z",
-        "firstSeen": "2026-10-08T16:32:49.106Z"
+        "title": "2026.41: It’s Not You, It’s Me",
+        "url": "https://stratechery.com/2026/its-not-you-its-me/",
+        "published": "2026-10-09T17:00:00.000Z",
+        "firstSeen": "2026-10-09T21:43:06.276Z"
       }
     },
     {
@@ -262,6 +262,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/its-not-you-its-me/": "2026-10-09T21:43:06.276Z",
     "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/": "2026-10-08T16:32:49.106Z",
     "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/": "2026-10-07T16:34:33.486Z",
     "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/": "2026-10-06T10:25:16.614Z",
@@ -271,7 +272,6 @@
     "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/": "2026-09-30T13:48:46.046Z",
     "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/": "2026-09-29T15:56:09.801Z",
     "https://stratechery.com/2026/apps-agents-and-aggregation/": "2026-09-28T15:33:24.914Z",
-    "https://stratechery.com/2026/begun-the-aggregator-wars-have/": "2026-09-25T18:40:20.203Z",
     "https://groups.google.com/g/komoroske-updates/c/DxllqmePebE": "2026-10-05T22:41:46.528Z",
     "https://groups.google.com/g/komoroske-updates/c/R6ZqHWToMEM": "2026-09-28T22:05:25.313Z",
     "https://groups.google.com/g/komoroske-updates/c/NnOfsTzQeOQ": "2026-09-21T19:33:24.469Z",
