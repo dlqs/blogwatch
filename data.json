@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T09:13:06.124Z",
+  "generatedAt": "2026-10-09T16:17:52.112Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "ttok 1.0",
-        "url": "https://simonwillison.net/2026/Oct/9/ttok/",
-        "published": "2026-10-09T00:34:43.000Z",
-        "firstSeen": "2026-10-09T09:13:06.124Z"
+        "title": "Quoting Matthew Green",
+        "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+        "published": "2026-10-09T15:02:29.000Z",
+        "firstSeen": "2026-10-09T16:17:52.112Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/9/matthew-green/": "2026-10-09T16:17:52.112Z",
+    "https://simonwillison.net/2026/Oct/9/built-using-my-voice/": "2026-10-09T16:17:52.112Z",
     "https://simonwillison.net/2026/Oct/9/ttok/": "2026-10-09T09:13:06.124Z",
     "https://simonwillison.net/2026/Oct/8/ttok/": "2026-10-09T02:13:48.027Z",
     "https://simonwillison.net/2026/Oct/8/carson-gross/": "2026-10-08T22:07:53.428Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/": "2026-10-07T16:34:33.486Z",
     "https://simonwillison.net/2026/Oct/7/jake-boggan/": "2026-10-07T08:44:54.546Z",
     "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/": "2026-10-07T01:35:56.546Z",
-    "https://simonwillison.net/2026/Oct/6/victoria-kim/": "2026-10-07T01:35:56.546Z",
-    "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/": "2026-10-07T01:35:56.546Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
