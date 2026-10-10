@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:46:13.306Z",
+  "generatedAt": "2026-10-10T08:33:53.229Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Deno is joining Cloudflare",
-        "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-        "published": "2026-10-09T22:48:37.000Z",
-        "firstSeen": "2026-10-10T01:46:13.306Z"
+        "title": "Quoting The New York Times",
+        "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+        "published": "2026-10-10T02:04:12.000Z",
+        "firstSeen": "2026-10-10T08:33:53.229Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/10/the-new-york-times/": "2026-10-10T08:33:53.229Z",
     "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/": "2026-10-10T01:46:13.306Z",
     "https://simonwillison.net/2026/Oct/9/matthew-green/": "2026-10-09T16:17:52.112Z",
     "https://simonwillison.net/2026/Oct/9/built-using-my-voice/": "2026-10-09T16:17:52.112Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/7/ben-affleck/": "2026-10-08T01:59:40.462Z",
     "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/": "2026-10-07T22:01:41.653Z",
     "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/": "2026-10-07T16:34:33.486Z",
-    "https://simonwillison.net/2026/Oct/7/jake-boggan/": "2026-10-07T08:44:54.546Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
