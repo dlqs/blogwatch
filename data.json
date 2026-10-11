@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:24:44.207Z",
+  "generatedAt": "2026-10-11T05:53:31.327Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting The New York Times",
-        "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-        "published": "2026-10-10T02:04:12.000Z",
-        "firstSeen": "2026-10-10T08:33:53.229Z"
+        "title": "Dwarf Fortress uses version control now",
+        "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+        "published": "2026-10-11T00:52:37.000Z",
+        "firstSeen": "2026-10-11T05:53:31.327Z"
       }
     },
     {
@@ -99,10 +99,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Agentic Economy",
-        "url": "https://patrickcollison.com/dispatches/agentic-economy",
+        "title": "Brothers Karamazov",
+        "url": "https://patrickcollison.com/dispatches/on-karamazov",
         "published": null,
-        "firstSeen": "2026-10-10T15:24:44.207Z"
+        "firstSeen": "2026-10-11T05:53:31.327Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/11/dwarf-fortress/": "2026-10-11T05:53:31.327Z",
+    "https://simonwillison.net/2026/Oct/10/python-actions/": "2026-10-11T05:53:31.327Z",
     "https://simonwillison.net/2026/Oct/10/the-new-york-times/": "2026-10-10T08:33:53.229Z",
     "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/": "2026-10-10T01:46:13.306Z",
     "https://simonwillison.net/2026/Oct/9/matthew-green/": "2026-10-09T16:17:52.112Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Oct/8/ttok/": "2026-10-09T02:13:48.027Z",
     "https://simonwillison.net/2026/Oct/8/carson-gross/": "2026-10-08T22:07:53.428Z",
     "https://simonwillison.net/2026/Oct/7/ben-affleck/": "2026-10-08T01:59:40.462Z",
-    "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/": "2026-10-07T22:01:41.653Z",
-    "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/": "2026-10-07T16:34:33.486Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -229,6 +229,7 @@
     "https://www.neelnanda.io/blog/46-bets-v-outcomes": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/45-x-risk": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/44-agency": "2026-07-25T15:30:20.181Z",
+    "https://patrickcollison.com/dispatches/on-karamazov": "2026-10-11T05:53:31.327Z",
     "https://patrickcollison.com/dispatches/agentic-economy": "2026-10-10T15:24:44.207Z",
     "https://patrickcollison.com/dispatches/why-aesthetics": "2026-08-02T17:18:15.887Z",
     "https://patrickcollison.com/dispatches/paris": "2026-07-05T09:58:47.573Z",
