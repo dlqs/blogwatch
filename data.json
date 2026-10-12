@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:53:31.327Z",
+  "generatedAt": "2026-10-12T19:49:46.251Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Dwarf Fortress uses version control now",
-        "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-        "published": "2026-10-11T00:52:37.000Z",
-        "firstSeen": "2026-10-11T05:53:31.327Z"
+        "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+        "published": "2026-10-12T18:15:38.000Z",
+        "firstSeen": "2026-10-12T19:49:46.251Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "2026.41: It’s Not You, It’s Me",
-        "url": "https://stratechery.com/2026/its-not-you-its-me/",
-        "published": "2026-10-09T17:00:00.000Z",
-        "firstSeen": "2026-10-09T21:43:06.276Z"
+        "title": "Personal Day",
+        "url": "https://stratechery.com/2026/personal-day-4/",
+        "published": "2026-10-12T10:00:00.000Z",
+        "firstSeen": "2026-10-12T19:49:46.251Z"
       }
     },
     {
@@ -138,10 +138,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Bits and Bobs 10/5/26",
-        "url": "https://groups.google.com/g/komoroske-updates/c/DxllqmePebE",
+        "title": "Bits and Bobs 10/12/26",
+        "url": "https://groups.google.com/g/komoroske-updates/c/J17qmL8U_9Y",
         "published": null,
-        "firstSeen": "2026-10-05T22:41:46.528Z"
+        "firstSeen": "2026-10-12T19:49:46.251Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/12/python-3-15/": "2026-10-12T19:49:46.251Z",
+    "https://simonwillison.net/2026/Oct/12/datasette-ports/": "2026-10-12T19:49:46.251Z",
     "https://simonwillison.net/2026/Oct/11/dwarf-fortress/": "2026-10-11T05:53:31.327Z",
     "https://simonwillison.net/2026/Oct/10/python-actions/": "2026-10-11T05:53:31.327Z",
     "https://simonwillison.net/2026/Oct/10/the-new-york-times/": "2026-10-10T08:33:53.229Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Oct/9/built-using-my-voice/": "2026-10-09T16:17:52.112Z",
     "https://simonwillison.net/2026/Oct/9/ttok/": "2026-10-09T09:13:06.124Z",
     "https://simonwillison.net/2026/Oct/8/ttok/": "2026-10-09T02:13:48.027Z",
-    "https://simonwillison.net/2026/Oct/8/carson-gross/": "2026-10-08T22:07:53.428Z",
-    "https://simonwillison.net/2026/Oct/7/ben-affleck/": "2026-10-08T01:59:40.462Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -264,6 +264,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/personal-day-4/": "2026-10-12T19:49:46.251Z",
     "https://stratechery.com/2026/its-not-you-its-me/": "2026-10-09T21:43:06.276Z",
     "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/": "2026-10-08T16:32:49.106Z",
     "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/": "2026-10-07T16:34:33.486Z",
@@ -273,7 +274,7 @@
     "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/": "2026-10-01T13:24:30.806Z",
     "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/": "2026-09-30T13:48:46.046Z",
     "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/": "2026-09-29T15:56:09.801Z",
-    "https://stratechery.com/2026/apps-agents-and-aggregation/": "2026-09-28T15:33:24.914Z",
+    "https://groups.google.com/g/komoroske-updates/c/J17qmL8U_9Y": "2026-10-12T19:49:46.251Z",
     "https://groups.google.com/g/komoroske-updates/c/DxllqmePebE": "2026-10-05T22:41:46.528Z",
     "https://groups.google.com/g/komoroske-updates/c/R6ZqHWToMEM": "2026-09-28T22:05:25.313Z",
     "https://groups.google.com/g/komoroske-updates/c/NnOfsTzQeOQ": "2026-09-21T19:33:24.469Z",
@@ -303,7 +304,6 @@
     "https://groups.google.com/g/komoroske-updates/c/-EkFAIowrIY": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/UFjpVO2mVDk": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/y954MhQ09Kw": "2026-07-05T15:35:44.955Z",
-    "https://groups.google.com/g/komoroske-updates/c/MTxkeccpXDA": "2026-07-05T15:35:44.955Z",
     "https://www.paulgraham.com/powerful.html": "2026-09-13T16:22:50.809Z",
     "https://www.paulgraham.com/prepare.html": "2026-08-25T01:54:17.844Z",
     "https://www.paulgraham.com/earn.html": "2026-09-06T09:28:31.080Z",
