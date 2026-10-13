@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T02:03:21.433Z",
+  "generatedAt": "2026-10-13T17:37:11.148Z",
   "blogs": [
     {
       "name": "Dan Luu",
       "url": "https://danluu.com/",
       "icon": null,
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "fetch failed",
       "latest": {
         "title": "There's no point at which turning your brain off will work",
         "url": "https://danluu.com/brain-off/",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-        "published": "2026-10-12T18:15:38.000Z",
-        "firstSeen": "2026-10-12T19:49:46.251Z"
+        "title": "Quoting Geoffrey Huntley",
+        "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+        "published": "2026-10-13T13:32:00.000Z",
+        "firstSeen": "2026-10-13T17:37:11.148Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Personal Day",
-        "url": "https://stratechery.com/2026/personal-day-4/",
-        "published": "2026-10-12T10:00:00.000Z",
-        "firstSeen": "2026-10-12T19:49:46.251Z"
+        "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+        "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+        "published": "2026-10-13T10:00:00.000Z",
+        "firstSeen": "2026-10-13T17:37:11.148Z"
       }
     },
     {
@@ -160,15 +160,6 @@
   ],
   "seen": {
     "https://danluu.com/brain-off/": "2026-09-28T15:33:24.914Z",
-    "https://danluu.com/agentic-testing/": "2026-09-12T14:11:19.034Z",
-    "https://danluu.com/zitron/": "2026-09-04T06:04:32.047Z",
-    "https://danluu.com/bug-blind/": "2026-09-04T06:04:32.047Z",
-    "https://danluu.com/perf-opt/": "2026-08-26T17:50:48.644Z",
-    "https://danluu.com/benchpocalypse/": "2026-08-26T17:50:48.644Z",
-    "https://danluu.com/pl-tokens/": "2026-08-14T00:01:06.792Z",
-    "https://danluu.com/exercise-7/": "2026-07-28T00:12:36.410Z",
-    "https://danluu.com/ai-coding/": "2026-07-13T04:03:56.928Z",
-    "https://danluu.com/ballmer/": "2026-07-05T09:48:58.014Z",
     "https://www.astralcodexten.com/p/open-thread-455": "2026-10-13T02:03:21.433Z",
     "https://www.astralcodexten.com/p/your-book-review-we-present-television": "2026-10-10T01:46:13.306Z",
     "https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673": "2026-10-08T22:07:53.428Z",
@@ -209,6 +200,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/": "2026-10-13T17:37:11.148Z",
     "https://simonwillison.net/2026/Oct/12/python-3-15/": "2026-10-12T19:49:46.251Z",
     "https://simonwillison.net/2026/Oct/12/web-edit/": "2026-10-13T02:03:21.433Z",
     "https://simonwillison.net/2026/Oct/12/datasette-ports/": "2026-10-12T19:49:46.251Z",
@@ -218,7 +210,6 @@
     "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/": "2026-10-10T01:46:13.306Z",
     "https://simonwillison.net/2026/Oct/9/matthew-green/": "2026-10-09T16:17:52.112Z",
     "https://simonwillison.net/2026/Oct/9/built-using-my-voice/": "2026-10-09T16:17:52.112Z",
-    "https://simonwillison.net/2026/Oct/9/ttok/": "2026-10-09T09:13:06.124Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -264,6 +255,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/": "2026-10-13T17:37:11.148Z",
     "https://stratechery.com/2026/personal-day-4/": "2026-10-12T19:49:46.251Z",
     "https://stratechery.com/2026/its-not-you-its-me/": "2026-10-09T21:43:06.276Z",
     "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/": "2026-10-08T16:32:49.106Z",
@@ -273,7 +265,6 @@
     "https://stratechery.com/2026/dots-and-question-marks/": "2026-10-02T18:27:47.200Z",
     "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/": "2026-10-01T13:24:30.806Z",
     "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/": "2026-09-30T13:48:46.046Z",
-    "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/": "2026-09-29T15:56:09.801Z",
     "https://groups.google.com/g/komoroske-updates/c/J17qmL8U_9Y": "2026-10-12T19:49:46.251Z",
     "https://groups.google.com/g/komoroske-updates/c/DxllqmePebE": "2026-10-05T22:41:46.528Z",
     "https://groups.google.com/g/komoroske-updates/c/R6ZqHWToMEM": "2026-09-28T22:05:25.313Z",
