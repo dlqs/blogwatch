@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T18:39:49.268Z",
+  "generatedAt": "2026-10-15T01:31:03.928Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 455",
-        "url": "https://www.astralcodexten.com/p/open-thread-455",
-        "published": "2026-10-13T00:19:32.000Z",
-        "firstSeen": "2026-10-13T02:03:21.433Z"
+        "title": "AI Safety Is Not A Corporate Plot",
+        "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
+        "published": "2026-10-15T01:15:38.000Z",
+        "firstSeen": "2026-10-15T01:31:03.928Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "AI is mass decompiling games. That's both awesome and scary.",
-        "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-        "published": "2026-10-14T16:26:53.000Z",
-        "firstSeen": "2026-10-14T18:39:49.268Z"
+        "title": "Tree Appreciator",
+        "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+        "published": "2026-10-14T21:23:01.000Z",
+        "firstSeen": "2026-10-15T01:31:03.928Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ballmer/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot": "2026-10-15T01:31:03.928Z",
     "https://www.astralcodexten.com/p/open-thread-455": "2026-10-13T02:03:21.433Z",
     "https://www.astralcodexten.com/p/your-book-review-we-present-television": "2026-10-10T01:46:13.306Z",
     "https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673": "2026-10-08T22:07:53.428Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/open-thread-454": "2026-10-05T16:05:51.852Z",
     "https://www.astralcodexten.com/p/our-ai-midwife": "2026-10-02T05:45:20.723Z",
     "https://www.astralcodexten.com/p/open-thread-453": "2026-09-28T22:05:25.313Z",
-    "https://www.astralcodexten.com/p/your-book-review-lee-kuan-yews-memoirs": "2026-09-26T01:37:27.375Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/14/tree-appreciator/": "2026-10-15T01:31:03.928Z",
     "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/": "2026-10-14T18:39:49.268Z",
     "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/": "2026-10-14T01:56:16.991Z",
     "https://simonwillison.net/2026/Oct/13/llm-gemini/": "2026-10-14T01:56:16.991Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/12/python-3-15/": "2026-10-12T19:49:46.251Z",
     "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/": "2026-10-13T22:49:32.862Z",
     "https://simonwillison.net/2026/Oct/12/web-edit/": "2026-10-13T02:03:21.433Z",
-    "https://simonwillison.net/2026/Oct/12/datasette-ports/": "2026-10-12T19:49:46.251Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
