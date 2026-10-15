@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T13:28:41.234Z",
+  "generatedAt": "2026-10-15T22:23:36.485Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-        "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-        "published": "2026-10-15T13:04:03.000Z",
-        "firstSeen": "2026-10-15T13:28:41.234Z"
+        "title": "Chirp Pong",
+        "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+        "published": "2026-10-15T19:47:52.000Z",
+        "firstSeen": "2026-10-15T22:23:36.485Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/15/chirp-pong/": "2026-10-15T22:23:36.485Z",
     "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/": "2026-10-15T13:28:41.234Z",
     "https://simonwillison.net/2026/Oct/14/tree-appreciator/": "2026-10-15T01:31:03.928Z",
     "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/": "2026-10-14T18:39:49.268Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/13/web-edit/": "2026-10-14T01:56:16.991Z",
     "https://simonwillison.net/2026/Oct/12/llm-meta-ai/": "2026-10-13T22:49:32.862Z",
     "https://simonwillison.net/2026/Oct/12/python-3-15/": "2026-10-12T19:49:46.251Z",
-    "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/": "2026-10-13T22:49:32.862Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
