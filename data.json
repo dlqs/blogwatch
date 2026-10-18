@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T04:34:21.424Z",
+  "generatedAt": "2026-10-18T05:58:49.972Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-        "url": "https://simonwillison.net/2026/Oct/16/code-review/",
-        "published": "2026-10-16T22:06:37.000Z",
-        "firstSeen": "2026-10-16T23:40:45.457Z"
+        "title": "Inline rendering with document​.currentScript",
+        "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+        "published": "2026-10-17T21:11:12.000Z",
+        "firstSeen": "2026-10-18T05:58:49.972Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/17/document-currentscript/": "2026-10-18T05:58:49.972Z",
+    "https://simonwillison.net/2026/Oct/17/web-edit/": "2026-10-18T05:58:49.972Z",
     "https://simonwillison.net/2026/Oct/16/code-review/": "2026-10-16T23:40:45.457Z",
     "https://simonwillison.net/2026/Oct/15/chirp-pong/": "2026-10-15T22:23:36.485Z",
     "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/": "2026-10-15T13:28:41.234Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/": "2026-10-14T18:39:49.268Z",
     "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/": "2026-10-14T01:56:16.991Z",
     "https://simonwillison.net/2026/Oct/13/llm-gemini/": "2026-10-14T01:56:16.991Z",
-    "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/": "2026-10-13T17:37:11.148Z",
-    "https://simonwillison.net/2026/Oct/13/web-edit/": "2026-10-14T01:56:16.991Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
