@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:35:24.310Z",
+  "generatedAt": "2026-10-20T22:20:05.929Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 456",
-        "url": "https://www.astralcodexten.com/p/open-thread-456",
-        "published": "2026-10-19T17:51:46.000Z",
-        "firstSeen": "2026-10-19T22:24:08.347Z"
+        "title": "Against Against Handover",
+        "url": "https://www.astralcodexten.com/p/against-against-handover",
+        "published": "2026-10-20T20:32:59.000Z",
+        "firstSeen": "2026-10-20T22:20:05.929Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "My obituary for programming",
-        "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-        "published": "2026-10-19T23:58:25.000Z",
-        "firstSeen": "2026-10-20T01:52:01.091Z"
+        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+        "published": "2026-10-20T19:34:19.000Z",
+        "firstSeen": "2026-10-20T22:20:05.929Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ballmer/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/against-against-handover": "2026-10-20T22:20:05.929Z",
     "https://www.astralcodexten.com/p/open-thread-456": "2026-10-19T22:24:08.347Z",
     "https://www.astralcodexten.com/p/your-book-review-storm-of-steel": "2026-10-17T04:34:21.424Z",
     "https://www.astralcodexten.com/p/meetups-everywhere-2026-times-and": "2026-10-16T07:15:05.196Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673": "2026-10-08T22:07:53.428Z",
     "https://www.astralcodexten.com/p/top-forecasters-on-the-plague": "2026-10-07T22:01:41.653Z",
     "https://www.astralcodexten.com/p/hidden-open-thread-4545": "2026-10-07T22:01:41.653Z",
-    "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on": "2026-10-06T21:41:41.938Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/20/battledrones/": "2026-10-20T22:20:05.929Z",
     "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/": "2026-10-20T01:52:01.091Z",
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/": "2026-10-19T04:47:52.240Z",
     "https://simonwillison.net/2026/Oct/18/llm-echo/": "2026-10-19T04:47:52.240Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/15/chirp-pong/": "2026-10-15T22:23:36.485Z",
     "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/": "2026-10-15T13:28:41.234Z",
     "https://simonwillison.net/2026/Oct/15/latex/": "2026-10-16T23:40:45.457Z",
-    "https://simonwillison.net/2026/Oct/14/tree-appreciator/": "2026-10-15T01:31:03.928Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
