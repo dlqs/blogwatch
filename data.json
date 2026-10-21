@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:41:18.544Z",
+  "generatedAt": "2026-10-21T22:23:57.244Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Against Against Handover",
-        "url": "https://www.astralcodexten.com/p/against-against-handover",
-        "published": "2026-10-20T20:32:59.000Z",
-        "firstSeen": "2026-10-20T22:20:05.929Z"
+        "title": "Why Global Trepanation?",
+        "url": "https://www.astralcodexten.com/p/why-global-trepanation",
+        "published": "2026-10-21T21:53:11.000Z",
+        "firstSeen": "2026-10-21T22:23:57.244Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Panache — RTS Belle Époque pour mobile",
-        "url": "https://simonwillison.net/2026/Oct/21/panache/",
-        "published": "2026-10-21T16:25:16.000Z",
-        "firstSeen": "2026-10-21T18:41:18.544Z"
+        "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+        "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+        "published": "2026-10-21T18:41:53.000Z",
+        "firstSeen": "2026-10-21T22:23:57.244Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ballmer/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/why-global-trepanation": "2026-10-21T22:23:57.244Z",
     "https://www.astralcodexten.com/p/against-against-handover": "2026-10-20T22:20:05.929Z",
     "https://www.astralcodexten.com/p/open-thread-456": "2026-10-19T22:24:08.347Z",
     "https://www.astralcodexten.com/p/your-book-review-storm-of-steel": "2026-10-17T04:34:21.424Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/your-book-review-we-present-television": "2026-10-10T01:46:13.306Z",
     "https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673": "2026-10-08T22:07:53.428Z",
     "https://www.astralcodexten.com/p/top-forecasters-on-the-plague": "2026-10-07T22:01:41.653Z",
-    "https://www.astralcodexten.com/p/hidden-open-thread-4545": "2026-10-07T22:01:41.653Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/21/php-security-release/": "2026-10-21T22:23:57.244Z",
     "https://simonwillison.net/2026/Oct/21/panache/": "2026-10-21T18:41:18.544Z",
     "https://simonwillison.net/2026/Oct/20/emudhra-certificates/": "2026-10-21T01:38:29.673Z",
     "https://simonwillison.net/2026/Oct/20/battledrones/": "2026-10-20T22:20:05.929Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/17/document-currentscript/": "2026-10-18T05:58:49.972Z",
     "https://simonwillison.net/2026/Oct/17/web-edit/": "2026-10-18T05:58:49.972Z",
     "https://simonwillison.net/2026/Oct/16/code-review/": "2026-10-16T23:40:45.457Z",
-    "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/": "2026-10-21T18:41:18.544Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
