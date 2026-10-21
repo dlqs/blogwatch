@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:20:05.929Z",
+  "generatedAt": "2026-10-21T01:38:29.673Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-        "published": "2026-10-20T19:34:19.000Z",
-        "firstSeen": "2026-10-20T22:20:05.929Z"
+        "title": "eMudhra Intermediate CA Compromise",
+        "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+        "published": "2026-10-20T23:50:25.000Z",
+        "firstSeen": "2026-10-21T01:38:29.673Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/20/emudhra-certificates/": "2026-10-21T01:38:29.673Z",
     "https://simonwillison.net/2026/Oct/20/battledrones/": "2026-10-20T22:20:05.929Z",
     "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/": "2026-10-20T01:52:01.091Z",
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/": "2026-10-19T04:47:52.240Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/16/code-review/": "2026-10-16T23:40:45.457Z",
     "https://simonwillison.net/2026/Oct/15/chirp-pong/": "2026-10-15T22:23:36.485Z",
     "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/": "2026-10-15T13:28:41.234Z",
-    "https://simonwillison.net/2026/Oct/15/latex/": "2026-10-16T23:40:45.457Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
