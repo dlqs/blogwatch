@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:51:27.162Z",
+  "generatedAt": "2026-10-21T18:41:18.544Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "eMudhra Intermediate CA Compromise",
-        "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-        "published": "2026-10-20T23:50:25.000Z",
-        "firstSeen": "2026-10-21T01:38:29.673Z"
+        "title": "Panache — RTS Belle Époque pour mobile",
+        "url": "https://simonwillison.net/2026/Oct/21/panache/",
+        "published": "2026-10-21T16:25:16.000Z",
+        "firstSeen": "2026-10-21T18:41:18.544Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Netflix Earnings, Business or Franchise, Disney’s Deal",
-        "url": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
-        "published": "2026-10-21T10:00:00.000Z",
-        "firstSeen": "2026-10-21T13:51:27.162Z"
+        "title": "Presented by Stripe",
+        "url": "https://stratechery.com/2026/presented-by-stripe/",
+        "published": "2026-10-21T17:35:31.000Z",
+        "firstSeen": "2026-10-21T18:41:18.544Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/21/panache/": "2026-10-21T18:41:18.544Z",
     "https://simonwillison.net/2026/Oct/20/emudhra-certificates/": "2026-10-21T01:38:29.673Z",
     "https://simonwillison.net/2026/Oct/20/battledrones/": "2026-10-20T22:20:05.929Z",
     "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/": "2026-10-20T01:52:01.091Z",
@@ -217,8 +218,7 @@
     "https://simonwillison.net/2026/Oct/17/document-currentscript/": "2026-10-18T05:58:49.972Z",
     "https://simonwillison.net/2026/Oct/17/web-edit/": "2026-10-18T05:58:49.972Z",
     "https://simonwillison.net/2026/Oct/16/code-review/": "2026-10-16T23:40:45.457Z",
-    "https://simonwillison.net/2026/Oct/15/chirp-pong/": "2026-10-15T22:23:36.485Z",
-    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/": "2026-10-15T13:28:41.234Z",
+    "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/": "2026-10-21T18:41:18.544Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -264,6 +264,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/presented-by-stripe/": "2026-10-21T18:41:18.544Z",
     "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/": "2026-10-21T13:51:27.162Z",
     "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/": "2026-10-20T13:35:24.310Z",
     "https://stratechery.com/2026/do-you-trust-apple/": "2026-10-19T10:49:54.408Z",
@@ -273,7 +274,6 @@
     "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/": "2026-10-13T17:37:11.148Z",
     "https://stratechery.com/2026/its-not-you-its-me/": "2026-10-09T21:43:06.276Z",
     "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/": "2026-10-08T16:32:49.106Z",
-    "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/": "2026-10-07T16:34:33.486Z",
     "https://groups.google.com/g/komoroske-updates/c/pAraCnW1pRE": "2026-10-20T01:52:01.091Z",
     "https://groups.google.com/g/komoroske-updates/c/J17qmL8U_9Y": "2026-10-12T19:49:46.251Z",
     "https://groups.google.com/g/komoroske-updates/c/DxllqmePebE": "2026-10-05T22:41:46.528Z",
