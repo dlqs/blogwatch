@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:34:33.303Z",
+  "generatedAt": "2026-10-22T22:22:44.140Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Why Global Trepanation?",
-        "url": "https://www.astralcodexten.com/p/why-global-trepanation",
-        "published": "2026-10-21T21:53:11.000Z",
-        "firstSeen": "2026-10-21T22:23:57.244Z"
+        "title": "San Francisco Meetup This Saturday",
+        "url": "https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday",
+        "published": "2026-10-22T19:42:57.000Z",
+        "firstSeen": "2026-10-22T22:22:44.140Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Donating Agent Skills to the Agentic AI Foundation",
-        "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-        "published": "2026-10-22T18:09:56.000Z",
-        "firstSeen": "2026-10-22T18:34:33.303Z"
+        "title": "DE STAAT - FREEDOM (Official Music Video)",
+        "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+        "published": "2026-10-22T19:42:26.000Z",
+        "firstSeen": "2026-10-22T22:22:44.140Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ballmer/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday": "2026-10-22T22:22:44.140Z",
     "https://www.astralcodexten.com/p/why-global-trepanation": "2026-10-21T22:23:57.244Z",
     "https://www.astralcodexten.com/p/against-against-handover": "2026-10-20T22:20:05.929Z",
     "https://www.astralcodexten.com/p/open-thread-456": "2026-10-19T22:24:08.347Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/open-thread-455": "2026-10-13T02:03:21.433Z",
     "https://www.astralcodexten.com/p/your-book-review-we-present-television": "2026-10-10T01:46:13.306Z",
     "https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673": "2026-10-08T22:07:53.428Z",
-    "https://www.astralcodexten.com/p/top-forecasters-on-the-plague": "2026-10-07T22:01:41.653Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/22/de-staat-freedom/": "2026-10-22T22:22:44.140Z",
     "https://simonwillison.net/2026/Oct/22/donating-agent-skills/": "2026-10-22T18:34:33.303Z",
     "https://simonwillison.net/2026/Oct/22/armin-ronacher/": "2026-10-22T18:34:33.303Z",
     "https://simonwillison.net/2026/Oct/21/php-security-release/": "2026-10-21T22:23:57.244Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/": "2026-10-20T01:52:01.091Z",
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/": "2026-10-19T04:47:52.240Z",
     "https://simonwillison.net/2026/Oct/18/llm-echo/": "2026-10-19T04:47:52.240Z",
-    "https://simonwillison.net/2026/Oct/17/document-currentscript/": "2026-10-18T05:58:49.972Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
