@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:50:16.422Z",
+  "generatedAt": "2026-10-22T18:34:33.303Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-        "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-        "published": "2026-10-21T18:41:53.000Z",
-        "firstSeen": "2026-10-21T22:23:57.244Z"
+        "title": "Donating Agent Skills to the Agentic AI Foundation",
+        "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+        "published": "2026-10-22T18:09:56.000Z",
+        "firstSeen": "2026-10-22T18:34:33.303Z"
       }
     },
     {
@@ -138,10 +138,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Bits and Bobs 10/19/26",
-        "url": "https://groups.google.com/g/komoroske-updates/c/pAraCnW1pRE",
+        "title": "New Common Fabric lab: on why failing small lets you reach further",
+        "url": "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ",
         "published": null,
-        "firstSeen": "2026-10-20T01:52:01.091Z"
+        "firstSeen": "2026-10-22T18:34:33.303Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/22/donating-agent-skills/": "2026-10-22T18:34:33.303Z",
+    "https://simonwillison.net/2026/Oct/22/armin-ronacher/": "2026-10-22T18:34:33.303Z",
     "https://simonwillison.net/2026/Oct/21/php-security-release/": "2026-10-21T22:23:57.244Z",
     "https://simonwillison.net/2026/Oct/21/panache/": "2026-10-21T18:41:18.544Z",
     "https://simonwillison.net/2026/Oct/20/emudhra-certificates/": "2026-10-21T01:38:29.673Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/": "2026-10-19T04:47:52.240Z",
     "https://simonwillison.net/2026/Oct/18/llm-echo/": "2026-10-19T04:47:52.240Z",
     "https://simonwillison.net/2026/Oct/17/document-currentscript/": "2026-10-18T05:58:49.972Z",
-    "https://simonwillison.net/2026/Oct/17/web-edit/": "2026-10-18T05:58:49.972Z",
-    "https://simonwillison.net/2026/Oct/16/code-review/": "2026-10-16T23:40:45.457Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -274,6 +274,7 @@
     "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/": "2026-10-14T13:46:05.074Z",
     "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/": "2026-10-13T17:37:11.148Z",
     "https://stratechery.com/2026/its-not-you-its-me/": "2026-10-09T21:43:06.276Z",
+    "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
     "https://groups.google.com/g/komoroske-updates/c/pAraCnW1pRE": "2026-10-20T01:52:01.091Z",
     "https://groups.google.com/g/komoroske-updates/c/J17qmL8U_9Y": "2026-10-12T19:49:46.251Z",
     "https://groups.google.com/g/komoroske-updates/c/DxllqmePebE": "2026-10-05T22:41:46.528Z",
@@ -303,7 +304,6 @@
     "https://groups.google.com/g/komoroske-updates/c/OG9DE41WgAY": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/IujUVKtcxrQ": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/-EkFAIowrIY": "2026-07-05T15:35:44.955Z",
-    "https://groups.google.com/g/komoroske-updates/c/UFjpVO2mVDk": "2026-07-05T15:35:44.955Z",
     "https://www.paulgraham.com/powerful.html": "2026-09-13T16:22:50.809Z",
     "https://www.paulgraham.com/prepare.html": "2026-08-25T01:54:17.844Z",
     "https://www.paulgraham.com/earn.html": "2026-09-06T09:28:31.080Z",
