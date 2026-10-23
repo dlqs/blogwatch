@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:30:06.457Z",
+  "generatedAt": "2026-10-23T18:24:23.184Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses",
-        "url": "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/",
-        "published": "2026-10-23T10:00:00.000Z",
-        "firstSeen": "2026-10-23T13:30:06.457Z"
+        "title": "2026.43: A New Era",
+        "url": "https://stratechery.com/2026/a-new-era/",
+        "published": "2026-10-23T17:00:00.000Z",
+        "firstSeen": "2026-10-23T18:24:23.184Z"
       }
     },
     {
@@ -264,6 +264,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/a-new-era/": "2026-10-23T18:24:23.184Z",
     "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/": "2026-10-23T13:30:06.457Z",
     "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/": "2026-10-22T13:50:16.422Z",
     "https://stratechery.com/2026/presented-by-stripe/": "2026-10-21T18:41:18.544Z",
@@ -273,7 +274,6 @@
     "https://stratechery.com/2026/home-at-last/": "2026-10-16T21:15:35.188Z",
     "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/": "2026-10-15T13:28:41.234Z",
     "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/": "2026-10-14T13:46:05.074Z",
-    "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/": "2026-10-13T17:37:11.148Z",
     "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
     "https://groups.google.com/g/komoroske-updates/c/pAraCnW1pRE": "2026-10-20T01:52:01.091Z",
     "https://groups.google.com/g/komoroske-updates/c/J17qmL8U_9Y": "2026-10-12T19:49:46.251Z",
