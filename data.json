@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:35:47.507Z",
+  "generatedAt": "2026-10-25T09:51:18.103Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "There's no point at which turning your brain off will work",
-        "url": "https://danluu.com/brain-off/",
-        "published": "2026-09-18T00:00:00.000Z",
-        "firstSeen": "2026-09-28T15:33:24.914Z"
+        "title": "“We should be more ambitious with the software we build”",
+        "url": "https://danluu.com/ambitious/",
+        "published": "2026-10-24T00:00:00.000Z",
+        "firstSeen": "2026-10-25T09:51:18.103Z"
       }
     },
     {
@@ -159,16 +159,16 @@
     }
   ],
   "seen": {
+    "https://danluu.com/ambitious/": "2026-10-25T09:51:18.103Z",
     "https://danluu.com/brain-off/": "2026-09-28T15:33:24.914Z",
     "https://danluu.com/agentic-testing/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/zitron/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/bug-blind/": "2026-10-13T22:49:32.862Z",
-    "https://danluu.com/perf-opt/": "2026-10-13T22:49:32.862Z",
+    "https://danluu.com/no-slow/": "2026-10-25T09:51:18.103Z",
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
-    "https://danluu.com/ballmer/": "2026-10-13T22:49:32.862Z",
     "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my": "2026-10-24T00:47:54.194Z",
     "https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday": "2026-10-22T22:22:44.140Z",
     "https://www.astralcodexten.com/p/why-global-trepanation": "2026-10-21T22:23:57.244Z",
