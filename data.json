@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:51:18.103Z",
+  "generatedAt": "2026-10-26T06:19:18.101Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "battledrones v14: Compass Rose, a four player map",
-        "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-        "published": "2026-10-24T03:59:57.000Z",
-        "firstSeen": "2026-10-24T14:35:47.507Z"
+        "title": "Seam Cutter",
+        "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+        "published": "2026-10-25T15:10:19.000Z",
+        "firstSeen": "2026-10-26T06:19:18.101Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/25/seam-cutter/": "2026-10-26T06:19:18.101Z",
     "https://simonwillison.net/2026/Oct/24/battledrones/": "2026-10-24T14:35:47.507Z",
     "https://simonwillison.net/2026/Oct/23/quick-study-painter/": "2026-10-23T22:15:06.700Z",
     "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": "2026-10-23T22:15:06.700Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/21/php-security-release/": "2026-10-21T22:23:57.244Z",
     "https://simonwillison.net/2026/Oct/21/panache/": "2026-10-21T18:41:18.544Z",
     "https://simonwillison.net/2026/Oct/20/emudhra-certificates/": "2026-10-21T01:38:29.673Z",
-    "https://simonwillison.net/2026/Oct/20/battledrones/": "2026-10-20T22:20:05.929Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
