@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T14:20:08.828Z",
+  "generatedAt": "2026-10-26T20:32:23.592Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Your Book Review: The Ghost In My Brain",
-        "url": "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
-        "published": "2026-10-23T23:45:42.000Z",
-        "firstSeen": "2026-10-24T00:47:54.194Z"
+        "title": "Open Thread 457",
+        "url": "https://www.astralcodexten.com/p/open-thread-457",
+        "published": "2026-10-26T20:16:14.000Z",
+        "firstSeen": "2026-10-26T20:32:23.592Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Seam Cutter",
-        "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-        "published": "2026-10-25T15:10:19.000Z",
-        "firstSeen": "2026-10-26T06:19:18.101Z"
+        "title": "Quoting Jason Koebler",
+        "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+        "published": "2026-10-26T19:00:25.000Z",
+        "firstSeen": "2026-10-26T20:32:23.592Z"
       }
     },
     {
@@ -138,10 +138,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "New Common Fabric lab: on why failing small lets you reach further",
-        "url": "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ",
+        "title": "Bits and Bobs 10/26/26",
+        "url": "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8",
         "published": null,
-        "firstSeen": "2026-10-22T18:34:33.303Z"
+        "firstSeen": "2026-10-26T20:32:23.592Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/open-thread-457": "2026-10-26T20:32:23.592Z",
     "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my": "2026-10-24T00:47:54.194Z",
     "https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday": "2026-10-22T22:22:44.140Z",
     "https://www.astralcodexten.com/p/why-global-trepanation": "2026-10-21T22:23:57.244Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/meetups-everywhere-2026-times-and": "2026-10-16T07:15:05.196Z",
     "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot": "2026-10-15T01:31:03.928Z",
     "https://www.astralcodexten.com/p/open-thread-455": "2026-10-13T02:03:21.433Z",
-    "https://www.astralcodexten.com/p/your-book-review-we-present-television": "2026-10-10T01:46:13.306Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/26/jason-koebler/": "2026-10-26T20:32:23.592Z",
     "https://simonwillison.net/2026/Oct/25/seam-cutter/": "2026-10-26T06:19:18.101Z",
     "https://simonwillison.net/2026/Oct/24/battledrones/": "2026-10-24T14:35:47.507Z",
     "https://simonwillison.net/2026/Oct/23/quick-study-painter/": "2026-10-23T22:15:06.700Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/22/armin-ronacher/": "2026-10-22T18:34:33.303Z",
     "https://simonwillison.net/2026/Oct/21/php-security-release/": "2026-10-21T22:23:57.244Z",
     "https://simonwillison.net/2026/Oct/21/panache/": "2026-10-21T18:41:18.544Z",
-    "https://simonwillison.net/2026/Oct/20/emudhra-certificates/": "2026-10-21T01:38:29.673Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -274,6 +274,7 @@
     "https://stratechery.com/2026/do-you-trust-apple/": "2026-10-19T10:49:54.408Z",
     "https://stratechery.com/2026/home-at-last/": "2026-10-16T21:15:35.188Z",
     "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/": "2026-10-15T13:28:41.234Z",
+    "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
     "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
     "https://groups.google.com/g/komoroske-updates/c/pAraCnW1pRE": "2026-10-20T01:52:01.091Z",
     "https://groups.google.com/g/komoroske-updates/c/J17qmL8U_9Y": "2026-10-12T19:49:46.251Z",
@@ -303,7 +304,6 @@
     "https://groups.google.com/g/komoroske-updates/c/bVDMq3dOWhY": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/OG9DE41WgAY": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/IujUVKtcxrQ": "2026-07-05T15:35:44.955Z",
-    "https://groups.google.com/g/komoroske-updates/c/-EkFAIowrIY": "2026-07-05T15:35:44.955Z",
     "https://www.paulgraham.com/powerful.html": "2026-09-13T16:22:50.809Z",
     "https://www.paulgraham.com/prepare.html": "2026-08-25T01:54:17.844Z",
     "https://www.paulgraham.com/earn.html": "2026-09-06T09:28:31.080Z",
