@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T13:16:49.682Z",
+  "generatedAt": "2026-10-27T22:59:02.006Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "GPT-6.1 Terra",
-        "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-        "published": "2026-10-26T23:53:07.000Z",
-        "firstSeen": "2026-10-27T00:30:05.085Z"
+        "title": "Game Boy Color on My Conference Badge",
+        "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+        "published": "2026-10-27T19:34:18.000Z",
+        "firstSeen": "2026-10-27T22:59:02.006Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/": "2026-10-27T22:59:02.006Z",
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": "2026-10-27T00:30:05.085Z",
     "https://simonwillison.net/2026/Oct/26/jason-koebler/": "2026-10-26T20:32:23.592Z",
     "https://simonwillison.net/2026/Oct/26/webframe-evaluation/": "2026-10-27T00:30:05.085Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": "2026-10-23T22:15:06.700Z",
     "https://simonwillison.net/2026/Oct/22/de-staat-freedom/": "2026-10-22T22:22:44.140Z",
     "https://simonwillison.net/2026/Oct/22/donating-agent-skills/": "2026-10-22T18:34:33.303Z",
-    "https://simonwillison.net/2026/Oct/22/armin-ronacher/": "2026-10-22T18:34:33.303Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
