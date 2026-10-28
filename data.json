@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T16:41:11.216Z",
+  "generatedAt": "2026-10-28T21:41:42.528Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The October inflection point for vibe game development",
-        "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-        "published": "2026-10-28T13:55:15.000Z",
-        "firstSeen": "2026-10-28T16:41:11.216Z"
+        "title": "GitHub Octoverse 2026",
+        "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+        "published": "2026-10-28T16:45:23.000Z",
+        "firstSeen": "2026-10-28T21:41:42.528Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/": "2026-10-28T21:41:42.528Z",
     "https://simonwillison.net/2026/Oct/28/vibe-game-development/": "2026-10-28T16:41:11.216Z",
     "https://simonwillison.net/2026/Oct/28/terk-terkowitz/": "2026-10-28T16:41:11.216Z",
     "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/": "2026-10-27T22:59:02.006Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/25/seam-cutter/": "2026-10-26T06:19:18.101Z",
     "https://simonwillison.net/2026/Oct/24/battledrones/": "2026-10-24T14:35:47.507Z",
     "https://simonwillison.net/2026/Oct/23/quick-study-painter/": "2026-10-23T22:15:06.700Z",
-    "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": "2026-10-23T22:15:06.700Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
