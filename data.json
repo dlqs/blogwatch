@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T22:59:02.006Z",
+  "generatedAt": "2026-10-28T16:41:11.216Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 457",
-        "url": "https://www.astralcodexten.com/p/open-thread-457",
-        "published": "2026-10-26T20:16:14.000Z",
-        "firstSeen": "2026-10-26T20:32:23.592Z"
+        "title": "My California Ballot, 2026",
+        "url": "https://www.astralcodexten.com/p/my-california-ballot-2026",
+        "published": "2026-10-28T15:29:17.000Z",
+        "firstSeen": "2026-10-28T16:41:11.216Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Game Boy Color on My Conference Badge",
-        "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
-        "published": "2026-10-27T19:34:18.000Z",
-        "firstSeen": "2026-10-27T22:59:02.006Z"
+        "title": "The October inflection point for vibe game development",
+        "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+        "published": "2026-10-28T13:55:15.000Z",
+        "firstSeen": "2026-10-28T16:41:11.216Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
-        "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
-        "published": "2026-10-27T10:32:57.000Z",
-        "firstSeen": "2026-10-27T13:16:49.682Z"
+        "title": "Meta Earnings, Muse and the Frontier, Musebook",
+        "url": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
+        "published": "2026-10-28T10:06:13.000Z",
+        "firstSeen": "2026-10-28T16:41:11.216Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/my-california-ballot-2026": "2026-10-28T16:41:11.216Z",
     "https://www.astralcodexten.com/p/open-thread-457": "2026-10-26T20:32:23.592Z",
     "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my": "2026-10-24T00:47:54.194Z",
     "https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday": "2026-10-22T22:22:44.140Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/your-book-review-storm-of-steel": "2026-10-17T04:34:21.424Z",
     "https://www.astralcodexten.com/p/meetups-everywhere-2026-times-and": "2026-10-16T07:15:05.196Z",
     "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot": "2026-10-15T01:31:03.928Z",
-    "https://www.astralcodexten.com/p/open-thread-455": "2026-10-13T02:03:21.433Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/28/vibe-game-development/": "2026-10-28T16:41:11.216Z",
+    "https://simonwillison.net/2026/Oct/28/terk-terkowitz/": "2026-10-28T16:41:11.216Z",
     "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/": "2026-10-27T22:59:02.006Z",
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": "2026-10-27T00:30:05.085Z",
     "https://simonwillison.net/2026/Oct/26/jason-koebler/": "2026-10-26T20:32:23.592Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Oct/24/battledrones/": "2026-10-24T14:35:47.507Z",
     "https://simonwillison.net/2026/Oct/23/quick-study-painter/": "2026-10-23T22:15:06.700Z",
     "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": "2026-10-23T22:15:06.700Z",
-    "https://simonwillison.net/2026/Oct/22/de-staat-freedom/": "2026-10-22T22:22:44.140Z",
-    "https://simonwillison.net/2026/Oct/22/donating-agent-skills/": "2026-10-22T18:34:33.303Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -264,6 +264,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/": "2026-10-28T16:41:11.216Z",
     "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/": "2026-10-27T13:16:49.682Z",
     "https://stratechery.com/2026/the-end-of-the-internet/": "2026-10-26T14:20:08.828Z",
     "https://stratechery.com/2026/a-new-era/": "2026-10-23T18:24:23.184Z",
@@ -273,7 +274,6 @@
     "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/": "2026-10-21T13:51:27.162Z",
     "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/": "2026-10-20T13:35:24.310Z",
     "https://stratechery.com/2026/do-you-trust-apple/": "2026-10-19T10:49:54.408Z",
-    "https://stratechery.com/2026/home-at-last/": "2026-10-16T21:15:35.188Z",
     "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
     "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
     "https://groups.google.com/g/komoroske-updates/c/pAraCnW1pRE": "2026-10-20T01:52:01.091Z",
