@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:12:31.747Z",
+  "generatedAt": "2026-10-29T21:11:42.038Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "My California Ballot, 2026",
-        "url": "https://www.astralcodexten.com/p/my-california-ballot-2026",
-        "published": "2026-10-28T15:29:17.000Z",
-        "firstSeen": "2026-10-28T16:41:11.216Z"
+        "title": "Links For October 2026",
+        "url": "https://www.astralcodexten.com/p/links-for-october-2026",
+        "published": "2026-10-29T16:33:24.000Z",
+        "firstSeen": "2026-10-29T21:11:42.038Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Ben Hylak",
-        "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
-        "published": "2026-10-29T14:06:27.000Z",
-        "firstSeen": "2026-10-29T16:12:31.747Z"
+        "title": "Building a multiplayer game world with autonomous Fable-class models",
+        "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+        "published": "2026-10-29T17:00:26.000Z",
+        "firstSeen": "2026-10-29T21:11:42.038Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/links-for-october-2026": "2026-10-29T21:11:42.038Z",
     "https://www.astralcodexten.com/p/my-california-ballot-2026": "2026-10-28T16:41:11.216Z",
     "https://www.astralcodexten.com/p/open-thread-457": "2026-10-26T20:32:23.592Z",
     "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my": "2026-10-24T00:47:54.194Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/open-thread-456": "2026-10-19T22:24:08.347Z",
     "https://www.astralcodexten.com/p/your-book-review-storm-of-steel": "2026-10-17T04:34:21.424Z",
     "https://www.astralcodexten.com/p/meetups-everywhere-2026-times-and": "2026-10-16T07:15:05.196Z",
-    "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot": "2026-10-15T01:31:03.928Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/": "2026-10-29T21:11:42.038Z",
     "https://simonwillison.net/2026/Oct/29/ben-hylak/": "2026-10-29T16:12:31.747Z",
     "https://simonwillison.net/2026/Oct/28/ted-sanders/": "2026-10-29T01:50:45.751Z",
     "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/": "2026-10-28T21:41:42.528Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": "2026-10-27T00:30:05.085Z",
     "https://simonwillison.net/2026/Oct/26/jason-koebler/": "2026-10-26T20:32:23.592Z",
     "https://simonwillison.net/2026/Oct/26/webframe-evaluation/": "2026-10-27T00:30:05.085Z",
-    "https://simonwillison.net/2026/Oct/25/seam-cutter/": "2026-10-26T06:19:18.101Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
