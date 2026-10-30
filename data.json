@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T19:29:06.364Z",
+  "generatedAt": "2026-10-30T23:51:34.484Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "API credits benefit for eligible ChatGPT subscriptions",
-        "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-        "published": "2026-10-29T22:48:29.000Z",
-        "firstSeen": "2026-10-30T01:05:24.141Z"
+        "title": "dbreunig/nesformer",
+        "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+        "published": "2026-10-30T21:59:22.000Z",
+        "firstSeen": "2026-10-30T23:51:34.484Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/30/nesformer/": "2026-10-30T23:51:34.484Z",
     "https://simonwillison.net/2026/Oct/29/api-credits/": "2026-10-30T01:05:24.141Z",
     "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/": "2026-10-29T21:11:42.038Z",
     "https://simonwillison.net/2026/Oct/29/ben-hylak/": "2026-10-29T16:12:31.747Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/28/terk-terkowitz/": "2026-10-28T16:41:11.216Z",
     "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/": "2026-10-27T22:59:02.006Z",
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": "2026-10-27T00:30:05.085Z",
-    "https://simonwillison.net/2026/Oct/26/jason-koebler/": "2026-10-26T20:32:23.592Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
