@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T23:51:34.484Z",
+  "generatedAt": "2026-11-01T01:15:25.171Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "dbreunig/nesformer",
-        "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
-        "published": "2026-10-30T21:59:22.000Z",
-        "firstSeen": "2026-10-30T23:51:34.484Z"
+        "title": "How We Took Over ChatGPT Accounts",
+        "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+        "published": "2026-10-31T23:15:22.000Z",
+        "firstSeen": "2026-11-01T01:15:25.171Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/": "2026-11-01T01:15:25.171Z",
+    "https://simonwillison.net/2026/Oct/31/datasette-llm/": "2026-11-01T01:15:25.171Z",
     "https://simonwillison.net/2026/Oct/30/nesformer/": "2026-10-30T23:51:34.484Z",
     "https://simonwillison.net/2026/Oct/29/api-credits/": "2026-10-30T01:05:24.141Z",
     "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/": "2026-10-29T21:11:42.038Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/": "2026-10-28T21:41:42.528Z",
     "https://simonwillison.net/2026/Oct/28/vibe-game-development/": "2026-10-28T16:41:11.216Z",
     "https://simonwillison.net/2026/Oct/28/terk-terkowitz/": "2026-10-28T16:41:11.216Z",
-    "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/": "2026-10-27T22:59:02.006Z",
-    "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": "2026-10-27T00:30:05.085Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
