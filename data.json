@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:15:25.171Z",
+  "generatedAt": "2026-11-01T15:15:05.207Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -99,10 +99,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Brothers Karamazov",
-        "url": "https://patrickcollison.com/dispatches/on-karamazov",
+        "title": "Liquid Software",
+        "url": "https://patrickcollison.com/dispatches/liquid-software",
         "published": null,
-        "firstSeen": "2026-10-11T05:53:31.327Z"
+        "firstSeen": "2026-11-01T15:15:05.207Z"
       }
     },
     {
@@ -229,6 +229,7 @@
     "https://www.neelnanda.io/blog/46-bets-v-outcomes": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/45-x-risk": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/44-agency": "2026-07-25T15:30:20.181Z",
+    "https://patrickcollison.com/dispatches/liquid-software": "2026-11-01T15:15:05.207Z",
     "https://patrickcollison.com/dispatches/on-karamazov": "2026-10-11T05:53:31.327Z",
     "https://patrickcollison.com/dispatches/agentic-economy": "2026-10-10T15:24:44.207Z",
     "https://patrickcollison.com/dispatches/why-aesthetics": "2026-08-02T17:18:15.887Z",
