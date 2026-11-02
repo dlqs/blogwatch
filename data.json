@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:16:16.956Z",
+  "generatedAt": "2026-11-02T16:16:47.893Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "If in doubt, delete the uv.lock file",
-        "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
-        "published": "2026-11-01T23:24:22.000Z",
-        "firstSeen": "2026-11-01T23:39:16.318Z"
+        "title": "The U.S. Census Bureau and “Super Intelligence”",
+        "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+        "published": "2026-11-02T13:31:26.000Z",
+        "firstSeen": "2026-11-02T16:16:47.893Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "2026.44: At Long Last…",
-        "url": "https://stratechery.com/2026/at-long-last/",
-        "published": "2026-10-30T17:00:00.000Z",
-        "firstSeen": "2026-10-30T19:29:06.364Z"
+        "title": "Google Earnings, Facebook Déjà Vu, The Agent Play",
+        "url": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
+        "published": "2026-11-02T11:00:00.000Z",
+        "firstSeen": "2026-11-02T16:16:47.893Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": "2026-11-02T16:16:47.893Z",
     "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/": "2026-11-01T23:39:16.318Z",
     "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/": "2026-11-01T19:46:27.535Z",
     "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/": "2026-11-01T01:15:25.171Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/": "2026-10-29T21:11:42.038Z",
     "https://simonwillison.net/2026/Oct/29/ben-hylak/": "2026-10-29T16:12:31.747Z",
     "https://simonwillison.net/2026/Oct/28/ted-sanders/": "2026-10-29T01:50:45.751Z",
-    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/": "2026-10-28T21:41:42.528Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -266,6 +266,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/": "2026-11-02T16:16:47.893Z",
     "https://stratechery.com/2026/at-long-last/": "2026-10-30T19:29:06.364Z",
     "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/": "2026-10-30T14:16:18.357Z",
     "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/": "2026-10-29T16:12:31.747Z",
@@ -275,7 +276,6 @@
     "https://stratechery.com/2026/a-new-era/": "2026-10-23T18:24:23.184Z",
     "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/": "2026-10-23T13:30:06.457Z",
     "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/": "2026-10-22T13:50:16.422Z",
-    "https://stratechery.com/2026/presented-by-stripe/": "2026-10-21T18:41:18.544Z",
     "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
     "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
     "https://groups.google.com/g/komoroske-updates/c/pAraCnW1pRE": "2026-10-20T01:52:01.091Z",
