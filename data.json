@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:39:16.318Z",
+  "generatedAt": "2026-11-02T06:16:16.956Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Your Book Review: The History And Adventures Of An Atom",
-        "url": "https://www.astralcodexten.com/p/your-book-review-the-history-and",
-        "published": "2026-10-30T16:30:33.000Z",
-        "firstSeen": "2026-10-30T19:29:06.364Z"
+        "title": "Open Thread 458",
+        "url": "https://www.astralcodexten.com/p/open-thread-458",
+        "published": "2026-11-02T05:04:37.000Z",
+        "firstSeen": "2026-11-02T06:16:16.956Z"
       }
     },
     {
@@ -99,10 +99,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Liquid Software",
-        "url": "https://patrickcollison.com/dispatches/liquid-software",
+        "title": "Kratsios interview",
+        "url": "https://patrickcollison.com/dispatches/kratsios-interview",
         "published": null,
-        "firstSeen": "2026-11-01T15:15:05.207Z"
+        "firstSeen": "2026-11-02T06:16:16.956Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/open-thread-458": "2026-11-02T06:16:16.956Z",
     "https://www.astralcodexten.com/p/your-book-review-the-history-and": "2026-10-30T19:29:06.364Z",
     "https://www.astralcodexten.com/p/links-for-october-2026": "2026-10-29T21:11:42.038Z",
     "https://www.astralcodexten.com/p/my-california-ballot-2026": "2026-10-28T16:41:11.216Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/why-global-trepanation": "2026-10-21T22:23:57.244Z",
     "https://www.astralcodexten.com/p/against-against-handover": "2026-10-20T22:20:05.929Z",
     "https://www.astralcodexten.com/p/open-thread-456": "2026-10-19T22:24:08.347Z",
-    "https://www.astralcodexten.com/p/your-book-review-storm-of-steel": "2026-10-17T04:34:21.424Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -232,6 +232,7 @@
     "https://patrickcollison.com/dispatches/liquid-software": "2026-11-01T15:15:05.207Z",
     "https://patrickcollison.com/dispatches/on-karamazov": "2026-10-11T05:53:31.327Z",
     "https://patrickcollison.com/dispatches/agentic-economy": "2026-10-10T15:24:44.207Z",
+    "https://patrickcollison.com/dispatches/kratsios-interview": "2026-11-02T06:16:16.956Z",
     "https://patrickcollison.com/dispatches/why-aesthetics": "2026-08-02T17:18:15.887Z",
     "https://patrickcollison.com/dispatches/paris": "2026-07-05T09:58:47.573Z",
     "https://patrickcollison.com/dispatches/new-aesthetics": "2026-07-05T09:58:47.573Z",
