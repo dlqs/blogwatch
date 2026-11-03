@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T06:54:46.417Z",
+  "generatedAt": "2026-11-03T15:14:21.407Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Google Earnings, Facebook Déjà Vu, The Agent Play",
-        "url": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
-        "published": "2026-11-02T11:00:00.000Z",
-        "firstSeen": "2026-11-02T16:16:47.893Z"
+        "title": "Apple Earnings, Memory Problems, The Hardware Company Regression",
+        "url": "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/",
+        "published": "2026-11-03T11:00:00.000Z",
+        "firstSeen": "2026-11-03T15:14:21.407Z"
       }
     },
     {
@@ -266,6 +266,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/": "2026-11-03T15:14:21.407Z",
     "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/": "2026-11-02T16:16:47.893Z",
     "https://stratechery.com/2026/at-long-last/": "2026-10-30T19:29:06.364Z",
     "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/": "2026-10-30T14:16:18.357Z",
@@ -275,7 +276,6 @@
     "https://stratechery.com/2026/the-end-of-the-internet/": "2026-10-26T14:20:08.828Z",
     "https://stratechery.com/2026/a-new-era/": "2026-10-23T18:24:23.184Z",
     "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/": "2026-10-23T13:30:06.457Z",
-    "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/": "2026-10-22T13:50:16.422Z",
     "https://groups.google.com/g/komoroske-updates/c/vCyiYXC35Pw": "2026-11-02T23:37:29.172Z",
     "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
     "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
