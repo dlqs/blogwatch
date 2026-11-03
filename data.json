@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T23:37:29.172Z",
+  "generatedAt": "2026-11-03T06:54:46.417Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The U.S. Census Bureau and “Super Intelligence”",
-        "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-        "published": "2026-11-02T13:31:26.000Z",
-        "firstSeen": "2026-11-02T16:16:47.893Z"
+        "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+        "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+        "published": "2026-11-03T05:32:25.000Z",
+        "firstSeen": "2026-11-03T06:54:46.417Z"
       }
     },
     {
@@ -209,6 +209,9 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": "2026-11-03T06:54:46.417Z",
+    "https://simonwillison.net/2026/Nov/3/october-newsletter/": "2026-11-03T06:54:46.417Z",
+    "https://simonwillison.net/2026/Nov/2/llm/": "2026-11-03T06:54:46.417Z",
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": "2026-11-02T16:16:47.893Z",
     "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/": "2026-11-01T23:39:16.318Z",
     "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/": "2026-11-01T19:46:27.535Z",
@@ -216,9 +219,6 @@
     "https://simonwillison.net/2026/Oct/31/datasette-llm/": "2026-11-01T01:15:25.171Z",
     "https://simonwillison.net/2026/Oct/30/nesformer/": "2026-10-30T23:51:34.484Z",
     "https://simonwillison.net/2026/Oct/29/api-credits/": "2026-10-30T01:05:24.141Z",
-    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/": "2026-10-29T21:11:42.038Z",
-    "https://simonwillison.net/2026/Oct/29/ben-hylak/": "2026-10-29T16:12:31.747Z",
-    "https://simonwillison.net/2026/Oct/28/ted-sanders/": "2026-10-29T01:50:45.751Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
