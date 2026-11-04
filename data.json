@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T18:01:18.733Z",
+  "generatedAt": "2026-11-04T23:44:01.247Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-        "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-        "published": "2026-11-03T16:29:48.000Z",
-        "firstSeen": "2026-11-03T21:05:00.428Z"
+        "title": "datasette-llm 0.1a10",
+        "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+        "published": "2026-11-04T15:26:02.000Z",
+        "firstSeen": "2026-11-04T23:44:01.247Z"
       }
     },
     {
@@ -209,16 +209,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/4/datasette-llm/": "2026-11-04T23:44:01.247Z",
+    "https://simonwillison.net/2026/Nov/4/datasette-apps/": "2026-11-04T23:44:01.247Z",
+    "https://simonwillison.net/2026/Nov/3/datasette-agent/": "2026-11-04T23:44:01.247Z",
+    "https://simonwillison.net/2026/Nov/3/llm/": "2026-11-04T23:44:01.247Z",
     "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/": "2026-11-03T21:05:00.428Z",
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": "2026-11-03T06:54:46.417Z",
     "https://simonwillison.net/2026/Nov/3/october-newsletter/": "2026-11-03T06:54:46.417Z",
     "https://simonwillison.net/2026/Nov/2/llm/": "2026-11-03T06:54:46.417Z",
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": "2026-11-02T16:16:47.893Z",
     "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/": "2026-11-01T23:39:16.318Z",
-    "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/": "2026-11-01T19:46:27.535Z",
-    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/": "2026-11-01T01:15:25.171Z",
-    "https://simonwillison.net/2026/Oct/31/datasette-llm/": "2026-11-01T01:15:25.171Z",
-    "https://simonwillison.net/2026/Oct/30/nesformer/": "2026-10-30T23:51:34.484Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
