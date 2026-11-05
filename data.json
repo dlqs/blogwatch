@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:44:01.247Z",
+  "generatedAt": "2026-11-05T06:54:46.037Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 458",
-        "url": "https://www.astralcodexten.com/p/open-thread-458",
-        "published": "2026-11-02T05:04:37.000Z",
-        "firstSeen": "2026-11-02T06:16:16.956Z"
+        "title": "Links For November 2026",
+        "url": "https://www.astralcodexten.com/p/links-for-november-2026",
+        "published": "2026-11-05T02:01:33.000Z",
+        "firstSeen": "2026-11-05T06:54:46.037Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/links-for-november-2026": "2026-11-05T06:54:46.037Z",
     "https://www.astralcodexten.com/p/open-thread-458": "2026-11-02T06:16:16.956Z",
     "https://www.astralcodexten.com/p/your-book-review-the-history-and": "2026-10-30T19:29:06.364Z",
     "https://www.astralcodexten.com/p/links-for-october-2026": "2026-10-29T21:11:42.038Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday": "2026-10-22T22:22:44.140Z",
     "https://www.astralcodexten.com/p/why-global-trepanation": "2026-10-21T22:23:57.244Z",
     "https://www.astralcodexten.com/p/against-against-handover": "2026-10-20T22:20:05.929Z",
-    "https://www.astralcodexten.com/p/open-thread-456": "2026-10-19T22:24:08.347Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
