@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T15:32:02.746Z",
+  "generatedAt": "2026-11-05T22:03:55.149Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Test and verification technique effectiveness with GPT-6 Astra",
-        "url": "https://danluu.com/astra-testing/",
-        "published": "2026-11-02T00:00:00.000Z",
-        "firstSeen": "2026-11-05T15:32:02.746Z"
+        "title": "“We should be more ambitious with the software we build”",
+        "url": "https://danluu.com/ambitious/",
+        "published": "2026-10-24T00:00:00.000Z",
+        "firstSeen": "2026-10-25T09:51:18.103Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "datasette-llm 0.1a10",
-        "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-        "published": "2026-11-04T15:26:02.000Z",
-        "firstSeen": "2026-11-04T23:44:01.247Z"
+        "title": "Quoting Paul Ford",
+        "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+        "published": "2026-11-05T17:34:03.000Z",
+        "firstSeen": "2026-11-05T22:03:55.149Z"
       }
     },
     {
@@ -159,7 +159,6 @@
     }
   ],
   "seen": {
-    "https://danluu.com/astra-testing/": "2026-11-05T15:32:02.746Z",
     "https://danluu.com/ambitious/": "2026-10-25T09:51:18.103Z",
     "https://danluu.com/brain-off/": "2026-09-28T15:33:24.914Z",
     "https://danluu.com/agentic-testing/": "2026-10-13T22:49:32.862Z",
@@ -169,6 +168,7 @@
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
+    "https://danluu.com/ai-coding/": "2026-11-05T22:03:55.149Z",
     "https://www.astralcodexten.com/p/links-for-november-2026": "2026-11-05T06:54:46.037Z",
     "https://www.astralcodexten.com/p/open-thread-458": "2026-11-02T06:16:16.956Z",
     "https://www.astralcodexten.com/p/your-book-review-the-history-and": "2026-10-30T19:29:06.364Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/5/paul-ford/": "2026-11-05T22:03:55.149Z",
     "https://simonwillison.net/2026/Nov/4/datasette-llm/": "2026-11-04T23:44:01.247Z",
     "https://simonwillison.net/2026/Nov/4/datasette-apps/": "2026-11-04T23:44:01.247Z",
     "https://simonwillison.net/2026/Nov/3/datasette-agent/": "2026-11-04T23:44:01.247Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Nov/3/october-newsletter/": "2026-11-03T06:54:46.417Z",
     "https://simonwillison.net/2026/Nov/2/llm/": "2026-11-03T06:54:46.417Z",
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": "2026-11-02T16:16:47.893Z",
-    "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/": "2026-11-01T23:39:16.318Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
