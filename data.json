@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:54:46.037Z",
+  "generatedAt": "2026-11-05T15:32:02.746Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "“We should be more ambitious with the software we build”",
-        "url": "https://danluu.com/ambitious/",
-        "published": "2026-10-24T00:00:00.000Z",
-        "firstSeen": "2026-10-25T09:51:18.103Z"
+        "title": "Test and verification technique effectiveness with GPT-6 Astra",
+        "url": "https://danluu.com/astra-testing/",
+        "published": "2026-11-02T00:00:00.000Z",
+        "firstSeen": "2026-11-05T15:32:02.746Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "AI on the Ballot",
-        "url": "https://stratechery.com/2026/ai-on-the-ballot/",
-        "published": "2026-11-04T11:00:00.000Z",
-        "firstSeen": "2026-11-04T18:01:18.733Z"
+        "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
+        "url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
+        "published": "2026-11-05T11:00:00.000Z",
+        "firstSeen": "2026-11-05T15:32:02.746Z"
       }
     },
     {
@@ -159,6 +159,7 @@
     }
   ],
   "seen": {
+    "https://danluu.com/astra-testing/": "2026-11-05T15:32:02.746Z",
     "https://danluu.com/ambitious/": "2026-10-25T09:51:18.103Z",
     "https://danluu.com/brain-off/": "2026-09-28T15:33:24.914Z",
     "https://danluu.com/agentic-testing/": "2026-10-13T22:49:32.862Z",
@@ -168,7 +169,6 @@
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
-    "https://danluu.com/ai-coding/": "2026-10-13T22:49:32.862Z",
     "https://www.astralcodexten.com/p/links-for-november-2026": "2026-11-05T06:54:46.037Z",
     "https://www.astralcodexten.com/p/open-thread-458": "2026-11-02T06:16:16.956Z",
     "https://www.astralcodexten.com/p/your-book-review-the-history-and": "2026-10-30T19:29:06.364Z",
@@ -266,6 +266,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/": "2026-11-05T15:32:02.746Z",
     "https://stratechery.com/2026/ai-on-the-ballot/": "2026-11-04T18:01:18.733Z",
     "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/": "2026-11-03T15:14:21.407Z",
     "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/": "2026-11-02T16:16:47.893Z",
@@ -275,7 +276,6 @@
     "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/": "2026-10-28T16:41:11.216Z",
     "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/": "2026-10-27T13:16:49.682Z",
     "https://stratechery.com/2026/the-end-of-the-internet/": "2026-10-26T14:20:08.828Z",
-    "https://stratechery.com/2026/a-new-era/": "2026-10-23T18:24:23.184Z",
     "https://groups.google.com/g/komoroske-updates/c/vCyiYXC35Pw": "2026-11-02T23:37:29.172Z",
     "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
     "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
