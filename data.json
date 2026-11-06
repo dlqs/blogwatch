@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T22:03:55.149Z",
+  "generatedAt": "2026-11-06T18:01:25.828Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -8,10 +8,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "“We should be more ambitious with the software we build”",
-        "url": "https://danluu.com/ambitious/",
-        "published": "2026-10-24T00:00:00.000Z",
-        "firstSeen": "2026-10-25T09:51:18.103Z"
+        "title": "Test and verification technique effectiveness with GPT-6 Astra",
+        "url": "https://danluu.com/astra-testing/",
+        "published": "2026-11-02T00:00:00.000Z",
+        "firstSeen": "2026-11-06T18:01:25.828Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Paul Ford",
-        "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
-        "published": "2026-11-05T17:34:03.000Z",
-        "firstSeen": "2026-11-05T22:03:55.149Z"
+        "title": "Quoting Nilay Patel",
+        "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+        "published": "2026-11-06T17:13:12.000Z",
+        "firstSeen": "2026-11-06T18:01:25.828Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
-        "url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
-        "published": "2026-11-05T11:00:00.000Z",
-        "firstSeen": "2026-11-05T15:32:02.746Z"
+        "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+        "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
+        "published": "2026-11-06T11:00:00.000Z",
+        "firstSeen": "2026-11-06T18:01:25.828Z"
       }
     },
     {
@@ -159,6 +159,7 @@
     }
   ],
   "seen": {
+    "https://danluu.com/astra-testing/": "2026-11-06T18:01:25.828Z",
     "https://danluu.com/ambitious/": "2026-10-25T09:51:18.103Z",
     "https://danluu.com/brain-off/": "2026-09-28T15:33:24.914Z",
     "https://danluu.com/agentic-testing/": "2026-10-13T22:49:32.862Z",
@@ -168,7 +169,6 @@
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
-    "https://danluu.com/ai-coding/": "2026-11-05T22:03:55.149Z",
     "https://www.astralcodexten.com/p/links-for-november-2026": "2026-11-05T06:54:46.037Z",
     "https://www.astralcodexten.com/p/open-thread-458": "2026-11-02T06:16:16.956Z",
     "https://www.astralcodexten.com/p/your-book-review-the-history-and": "2026-10-30T19:29:06.364Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/6/nilay-patel/": "2026-11-06T18:01:25.828Z",
     "https://simonwillison.net/2026/Nov/5/paul-ford/": "2026-11-05T22:03:55.149Z",
     "https://simonwillison.net/2026/Nov/4/datasette-llm/": "2026-11-04T23:44:01.247Z",
     "https://simonwillison.net/2026/Nov/4/datasette-apps/": "2026-11-04T23:44:01.247Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": "2026-11-03T06:54:46.417Z",
     "https://simonwillison.net/2026/Nov/3/october-newsletter/": "2026-11-03T06:54:46.417Z",
     "https://simonwillison.net/2026/Nov/2/llm/": "2026-11-03T06:54:46.417Z",
-    "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": "2026-11-02T16:16:47.893Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -266,6 +266,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/": "2026-11-06T18:01:25.828Z",
     "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/": "2026-11-05T15:32:02.746Z",
     "https://stratechery.com/2026/ai-on-the-ballot/": "2026-11-04T18:01:18.733Z",
     "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/": "2026-11-03T15:14:21.407Z",
@@ -275,7 +276,6 @@
     "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/": "2026-10-29T16:12:31.747Z",
     "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/": "2026-10-28T16:41:11.216Z",
     "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/": "2026-10-27T13:16:49.682Z",
-    "https://stratechery.com/2026/the-end-of-the-internet/": "2026-10-26T14:20:08.828Z",
     "https://groups.google.com/g/komoroske-updates/c/vCyiYXC35Pw": "2026-11-02T23:37:29.172Z",
     "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
     "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
