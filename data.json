@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T18:01:25.828Z",
+  "generatedAt": "2026-11-06T23:13:37.217Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Links For November 2026",
-        "url": "https://www.astralcodexten.com/p/links-for-november-2026",
-        "published": "2026-11-05T02:01:33.000Z",
-        "firstSeen": "2026-11-05T06:54:46.037Z"
+        "title": "Your Book Review: Orality and Literacy",
+        "url": "https://www.astralcodexten.com/p/your-book-review-orality-and-literacy",
+        "published": "2026-11-06T21:31:52.000Z",
+        "firstSeen": "2026-11-06T23:13:37.217Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
-        "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
-        "published": "2026-11-06T11:00:00.000Z",
-        "firstSeen": "2026-11-06T18:01:25.828Z"
+        "title": "2026.45: Falling Leaves (and Stocks)",
+        "url": "https://stratechery.com/2026/falling-leaves-and-stocks/",
+        "published": "2026-11-06T18:14:42.000Z",
+        "firstSeen": "2026-11-06T23:13:37.217Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/your-book-review-orality-and-literacy": "2026-11-06T23:13:37.217Z",
     "https://www.astralcodexten.com/p/links-for-november-2026": "2026-11-05T06:54:46.037Z",
     "https://www.astralcodexten.com/p/open-thread-458": "2026-11-02T06:16:16.956Z",
     "https://www.astralcodexten.com/p/your-book-review-the-history-and": "2026-10-30T19:29:06.364Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my": "2026-10-24T00:47:54.194Z",
     "https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday": "2026-10-22T22:22:44.140Z",
     "https://www.astralcodexten.com/p/why-global-trepanation": "2026-10-21T22:23:57.244Z",
-    "https://www.astralcodexten.com/p/against-against-handover": "2026-10-20T22:20:05.929Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -266,6 +266,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/falling-leaves-and-stocks/": "2026-11-06T23:13:37.217Z",
     "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/": "2026-11-06T18:01:25.828Z",
     "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/": "2026-11-05T15:32:02.746Z",
     "https://stratechery.com/2026/ai-on-the-ballot/": "2026-11-04T18:01:18.733Z",
@@ -275,7 +276,6 @@
     "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/": "2026-10-30T14:16:18.357Z",
     "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/": "2026-10-29T16:12:31.747Z",
     "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/": "2026-10-28T16:41:11.216Z",
-    "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/": "2026-10-27T13:16:49.682Z",
     "https://groups.google.com/g/komoroske-updates/c/vCyiYXC35Pw": "2026-11-02T23:37:29.172Z",
     "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
     "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
