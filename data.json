@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:57:19.666Z",
+  "generatedAt": "2026-11-09T08:02:12.064Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "parse_number() as a SQLite extension: C vs Rust",
-        "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-        "published": "2026-11-08T22:26:00.000Z",
-        "firstSeen": "2026-11-09T00:57:19.666Z"
+        "title": "The Web Is More Than Enough, by Paul Ford",
+        "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+        "published": "2026-11-09T04:32:33.000Z",
+        "firstSeen": "2026-11-09T08:02:12.064Z"
       }
     },
     {
@@ -209,16 +209,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/9/hn-50421091/": "2026-11-09T08:02:12.064Z",
+    "https://simonwillison.net/2026/Nov/9/details-summary/": "2026-11-09T08:02:12.064Z",
     "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/": "2026-11-09T00:57:19.666Z",
     "https://simonwillison.net/2026/Nov/7/link-rel-next/": "2026-11-08T00:42:08.292Z",
+    "https://simonwillison.net/2026/Nov/7/hn-50407316/": "2026-11-09T08:02:12.064Z",
     "https://simonwillison.net/2026/Nov/6/nilay-patel/": "2026-11-06T18:01:25.828Z",
     "https://simonwillison.net/2026/Nov/5/paul-ford/": "2026-11-05T22:03:55.149Z",
     "https://simonwillison.net/2026/Nov/4/datasette-llm/": "2026-11-04T23:44:01.247Z",
     "https://simonwillison.net/2026/Nov/4/datasette-apps/": "2026-11-04T23:44:01.247Z",
     "https://simonwillison.net/2026/Nov/3/datasette-agent/": "2026-11-04T23:44:01.247Z",
-    "https://simonwillison.net/2026/Nov/3/llm/": "2026-11-04T23:44:01.247Z",
-    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/": "2026-11-03T21:05:00.428Z",
-    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": "2026-11-03T06:54:46.417Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
