@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T09:56:34.524Z",
+  "generatedAt": "2026-11-10T17:54:17.464Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Jensen Huang’s Affair, The Culper Report, Huang’s Righteousness",
-        "url": "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/",
-        "published": "2026-11-09T11:00:00.000Z",
-        "firstSeen": "2026-11-09T18:51:54.768Z"
+        "title": "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
+        "url": "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
+        "published": "2026-11-10T11:00:00.000Z",
+        "firstSeen": "2026-11-10T17:54:17.464Z"
       }
     },
     {
@@ -267,6 +267,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/": "2026-11-10T17:54:17.464Z",
     "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/": "2026-11-09T18:51:54.768Z",
     "https://stratechery.com/2026/falling-leaves-and-stocks/": "2026-11-06T23:13:37.217Z",
     "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/": "2026-11-06T18:01:25.828Z",
@@ -276,7 +277,6 @@
     "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/": "2026-11-02T16:16:47.893Z",
     "https://stratechery.com/2026/at-long-last/": "2026-10-30T19:29:06.364Z",
     "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/": "2026-10-30T14:16:18.357Z",
-    "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/": "2026-10-29T16:12:31.747Z",
     "https://groups.google.com/g/komoroske-updates/c/vCyiYXC35Pw": "2026-11-02T23:37:29.172Z",
     "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
     "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
