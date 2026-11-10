@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T17:54:17.464Z",
+  "generatedAt": "2026-11-10T23:27:08.489Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-        "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-        "published": "2026-11-10T07:28:21.000Z",
-        "firstSeen": "2026-11-10T09:56:34.524Z"
+        "title": "llm-gemini 0.36",
+        "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+        "published": "2026-11-10T20:09:44.000Z",
+        "firstSeen": "2026-11-10T23:27:08.489Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/10/llm-gemini/": "2026-11-10T23:27:08.489Z",
     "https://simonwillison.net/2026/Nov/10/muse-ember/": "2026-11-10T09:56:34.524Z",
     "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/": "2026-11-10T09:56:34.524Z",
     "https://simonwillison.net/2026/Nov/10/yonkers-rises/": "2026-11-10T09:56:34.524Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Nov/9/details-summary/": "2026-11-09T08:02:12.064Z",
     "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/": "2026-11-09T00:57:19.666Z",
     "https://simonwillison.net/2026/Nov/7/link-rel-next/": "2026-11-08T00:42:08.292Z",
-    "https://simonwillison.net/2026/Nov/7/hn-50407316/": "2026-11-09T08:02:12.064Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
