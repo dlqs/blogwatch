@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T18:51:54.768Z",
+  "generatedAt": "2026-11-10T02:11:41.220Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Your Book Review: Orality and Literacy",
-        "url": "https://www.astralcodexten.com/p/your-book-review-orality-and-literacy",
-        "published": "2026-11-06T21:31:52.000Z",
-        "firstSeen": "2026-11-06T23:13:37.217Z"
+        "title": "Open Thread 459",
+        "url": "https://www.astralcodexten.com/p/open-thread-459",
+        "published": "2026-11-09T22:18:03.000Z",
+        "firstSeen": "2026-11-10T02:11:41.220Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The Web Is More Than Enough, by Paul Ford",
-        "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-        "published": "2026-11-09T04:32:33.000Z",
-        "firstSeen": "2026-11-09T08:02:12.064Z"
+        "title": "llm-anthropic 0.31",
+        "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+        "published": "2026-11-09T23:58:46.000Z",
+        "firstSeen": "2026-11-10T02:11:41.220Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/open-thread-459": "2026-11-10T02:11:41.220Z",
     "https://www.astralcodexten.com/p/your-book-review-orality-and-literacy": "2026-11-06T23:13:37.217Z",
     "https://www.astralcodexten.com/p/links-for-november-2026": "2026-11-05T06:54:46.037Z",
     "https://www.astralcodexten.com/p/open-thread-458": "2026-11-02T06:16:16.956Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/open-thread-457": "2026-10-26T20:32:23.592Z",
     "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my": "2026-10-24T00:47:54.194Z",
     "https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday": "2026-10-22T22:22:44.140Z",
-    "https://www.astralcodexten.com/p/why-global-trepanation": "2026-10-21T22:23:57.244Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/9/llm-anthropic/": "2026-11-10T02:11:41.220Z",
+    "https://simonwillison.net/2026/Nov/9/mysterious-beeps/": "2026-11-10T02:11:41.220Z",
     "https://simonwillison.net/2026/Nov/9/hn-50421091/": "2026-11-09T08:02:12.064Z",
     "https://simonwillison.net/2026/Nov/9/details-summary/": "2026-11-09T08:02:12.064Z",
     "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/": "2026-11-09T00:57:19.666Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Nov/6/nilay-patel/": "2026-11-06T18:01:25.828Z",
     "https://simonwillison.net/2026/Nov/5/paul-ford/": "2026-11-05T22:03:55.149Z",
     "https://simonwillison.net/2026/Nov/4/datasette-llm/": "2026-11-04T23:44:01.247Z",
-    "https://simonwillison.net/2026/Nov/4/datasette-apps/": "2026-11-04T23:44:01.247Z",
-    "https://simonwillison.net/2026/Nov/3/datasette-agent/": "2026-11-04T23:44:01.247Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
