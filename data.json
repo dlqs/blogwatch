@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T15:18:11.111Z",
+  "generatedAt": "2026-11-11T22:43:55.363Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Anthropic's IPO roadshow video",
-        "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-        "published": "2026-11-11T15:11:59.000Z",
-        "firstSeen": "2026-11-11T15:18:11.111Z"
+        "title": "Gemini Decisions API",
+        "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+        "published": "2026-11-11T22:03:25.000Z",
+        "firstSeen": "2026-11-11T22:43:55.363Z"
       }
     },
     {
@@ -209,16 +209,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/": "2026-11-11T22:43:55.363Z",
+    "https://simonwillison.net/2026/Nov/11/aws-emulator/": "2026-11-11T22:43:55.363Z",
+    "https://simonwillison.net/2026/Nov/11/tools-tags/": "2026-11-11T22:43:55.363Z",
+    "https://simonwillison.net/2026/Nov/11/llm/": "2026-11-11T22:43:55.363Z",
     "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/": "2026-11-11T15:18:11.111Z",
     "https://simonwillison.net/2026/Nov/10/llm-gemini/": "2026-11-10T23:27:08.489Z",
     "https://simonwillison.net/2026/Nov/10/muse-ember/": "2026-11-10T09:56:34.524Z",
     "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/": "2026-11-10T09:56:34.524Z",
     "https://simonwillison.net/2026/Nov/10/yonkers-rises/": "2026-11-10T09:56:34.524Z",
     "https://simonwillison.net/2026/Nov/9/llm-anthropic/": "2026-11-10T02:11:41.220Z",
-    "https://simonwillison.net/2026/Nov/9/mysterious-beeps/": "2026-11-10T02:11:41.220Z",
-    "https://simonwillison.net/2026/Nov/9/hn-50421091/": "2026-11-09T08:02:12.064Z",
-    "https://simonwillison.net/2026/Nov/9/details-summary/": "2026-11-09T08:02:12.064Z",
-    "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/": "2026-11-09T00:57:19.666Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
