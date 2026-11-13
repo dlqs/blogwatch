@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T09:37:29.221Z",
+  "generatedAt": "2026-11-13T23:37:24.670Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
-        "url": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
-        "published": "2026-11-13T03:47:52.000Z",
-        "firstSeen": "2026-11-13T09:37:29.221Z"
+        "title": "2026.46: The End of Jensen",
+        "url": "https://stratechery.com/2026/the-end-of-jensen/",
+        "published": "2026-11-13T18:00:00.000Z",
+        "firstSeen": "2026-11-13T23:37:24.670Z"
       }
     },
     {
@@ -267,6 +267,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/the-end-of-jensen/": "2026-11-13T23:37:24.670Z",
     "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/": "2026-11-13T09:37:29.221Z",
     "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/": "2026-11-12T12:48:36.201Z",
     "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/": "2026-11-11T15:18:11.111Z",
@@ -276,7 +277,6 @@
     "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/": "2026-11-06T18:01:25.828Z",
     "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/": "2026-11-05T15:32:02.746Z",
     "https://stratechery.com/2026/ai-on-the-ballot/": "2026-11-04T18:01:18.733Z",
-    "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/": "2026-11-03T15:14:21.407Z",
     "https://groups.google.com/g/komoroske-updates/c/vCyiYXC35Pw": "2026-11-02T23:37:29.172Z",
     "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
     "https://groups.google.com/g/komoroske-updates/c/9O4P5M35jFQ": "2026-10-22T18:34:33.303Z",
