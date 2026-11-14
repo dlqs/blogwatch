@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:37:24.670Z",
+  "generatedAt": "2026-11-14T06:32:55.288Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "AI Company Employees Should Unionize",
-        "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
-        "published": "2026-11-12T23:09:15.000Z",
-        "firstSeen": "2026-11-13T01:52:36.241Z"
+        "title": "Vote In The 2026 Book Review Contest",
+        "url": "https://www.astralcodexten.com/p/vote-in-the-2026-book-review-contest",
+        "published": "2026-11-14T00:23:27.000Z",
+        "firstSeen": "2026-11-14T06:32:55.288Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "llm-gemini 0.37",
-        "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-        "published": "2026-11-12T22:55:19.000Z",
-        "firstSeen": "2026-11-13T01:52:36.241Z"
+        "title": "datasette-cluster-map 0.19",
+        "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+        "published": "2026-11-13T23:02:45.000Z",
+        "firstSeen": "2026-11-14T06:32:55.288Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/vote-in-the-2026-book-review-contest": "2026-11-14T06:32:55.288Z",
     "https://www.astralcodexten.com/p/ai-company-employees-should-unionize": "2026-11-13T01:52:36.241Z",
     "https://www.astralcodexten.com/p/escaping-the-outside-criticism-trap": "2026-11-11T15:18:11.111Z",
     "https://www.astralcodexten.com/p/open-thread-459": "2026-11-10T02:11:41.220Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/your-book-review-the-history-and": "2026-10-30T19:29:06.364Z",
     "https://www.astralcodexten.com/p/links-for-october-2026": "2026-10-29T21:11:42.038Z",
     "https://www.astralcodexten.com/p/my-california-ballot-2026": "2026-10-28T16:41:11.216Z",
-    "https://www.astralcodexten.com/p/open-thread-457": "2026-10-26T20:32:23.592Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
     "https://scholars-stage.org/on-bombing-iran/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/": "2026-11-14T06:32:55.288Z",
+    "https://simonwillison.net/2026/Nov/13/datasette-leaflet/": "2026-11-14T06:32:55.288Z",
     "https://simonwillison.net/2026/Nov/12/llm-gemini/": "2026-11-13T01:52:36.241Z",
     "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/": "2026-11-11T22:43:55.363Z",
     "https://simonwillison.net/2026/Nov/11/aws-emulator/": "2026-11-11T22:43:55.363Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/": "2026-11-11T15:18:11.111Z",
     "https://simonwillison.net/2026/Nov/10/llm-gemini/": "2026-11-10T23:27:08.489Z",
     "https://simonwillison.net/2026/Nov/10/muse-ember/": "2026-11-10T09:56:34.524Z",
-    "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/": "2026-11-10T09:56:34.524Z",
-    "https://simonwillison.net/2026/Nov/10/yonkers-rises/": "2026-11-10T09:56:34.524Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
