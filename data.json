@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:31:05.255Z",
+  "generatedAt": "2026-11-17T22:55:50.449Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Go Proverbs",
-        "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
-        "published": "2026-11-17T06:16:26.000Z",
-        "firstSeen": "2026-11-17T14:31:05.255Z"
+        "title": "External sandboxes for coding agents",
+        "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+        "published": "2026-11-17T22:52:29.000Z",
+        "firstSeen": "2026-11-17T22:55:50.449Z"
       }
     },
     {
@@ -209,6 +209,9 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/": "2026-11-17T22:55:50.449Z",
+    "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/": "2026-11-17T22:55:50.449Z",
+    "https://simonwillison.net/2026/Nov/17/datasette-lite/": "2026-11-17T22:55:50.449Z",
     "https://simonwillison.net/2026/Nov/17/go-proverbs/": "2026-11-17T14:31:05.255Z",
     "https://simonwillison.net/2026/Nov/16/llm/": "2026-11-17T04:32:49.571Z",
     "https://simonwillison.net/2026/Nov/15/datasette-maplibre/": "2026-11-16T02:47:30.447Z",
@@ -216,9 +219,6 @@
     "https://simonwillison.net/2026/Nov/15/datasette-2/": "2026-11-16T02:47:30.447Z",
     "https://simonwillison.net/2026/Nov/15/datasette-apps/": "2026-11-16T02:47:30.447Z",
     "https://simonwillison.net/2026/Nov/15/datasette-agent/": "2026-11-16T02:47:30.447Z",
-    "https://simonwillison.net/2026/Nov/14/datasette-llm/": "2026-11-15T02:44:06.680Z",
-    "https://simonwillison.net/2026/Nov/14/datasette-vega/": "2026-11-15T02:44:06.680Z",
-    "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/": "2026-11-14T06:32:55.288Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
