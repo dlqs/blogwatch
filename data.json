@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:55:50.449Z",
+  "generatedAt": "2026-11-18T14:07:12.629Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Open Thread 460",
-        "url": "https://www.astralcodexten.com/p/open-thread-460",
-        "published": "2026-11-17T06:30:03.000Z",
-        "firstSeen": "2026-11-17T14:31:05.255Z"
+        "title": "Varieties Of Discourseposting",
+        "url": "https://www.astralcodexten.com/p/varieties-of-discourseposting",
+        "published": "2026-11-18T07:47:03.000Z",
+        "firstSeen": "2026-11-18T14:07:12.629Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
-        "url": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/",
-        "published": "2026-11-17T11:00:00.000Z",
-        "firstSeen": "2026-11-17T14:31:05.255Z"
+        "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+        "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
+        "published": "2026-11-18T11:00:00.000Z",
+        "firstSeen": "2026-11-18T14:07:12.629Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/varieties-of-discourseposting": "2026-11-18T14:07:12.629Z",
     "https://www.astralcodexten.com/p/open-thread-460": "2026-11-17T14:31:05.255Z",
     "https://www.astralcodexten.com/p/vote-in-the-2026-book-review-contest": "2026-11-14T06:32:55.288Z",
     "https://www.astralcodexten.com/p/ai-company-employees-should-unionize": "2026-11-13T01:52:36.241Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/links-for-november-2026": "2026-11-05T06:54:46.037Z",
     "https://www.astralcodexten.com/p/open-thread-458": "2026-11-02T06:16:16.956Z",
     "https://www.astralcodexten.com/p/your-book-review-the-history-and": "2026-10-30T19:29:06.364Z",
-    "https://www.astralcodexten.com/p/links-for-october-2026": "2026-10-29T21:11:42.038Z",
     "https://scholars-stage.org/why-cant-we-see-the-cause-of-our-defeat/": "2026-11-17T14:31:05.255Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
@@ -268,6 +268,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/": "2026-11-18T14:07:12.629Z",
     "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/": "2026-11-17T14:31:05.255Z",
     "https://stratechery.com/2026/obituaries/": "2026-11-16T11:32:35.421Z",
     "https://stratechery.com/2026/the-end-of-jensen/": "2026-11-13T23:37:24.670Z",
@@ -277,7 +278,6 @@
     "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/": "2026-11-10T17:54:17.464Z",
     "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/": "2026-11-09T18:51:54.768Z",
     "https://stratechery.com/2026/falling-leaves-and-stocks/": "2026-11-06T23:13:37.217Z",
-    "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/": "2026-11-06T18:01:25.828Z",
     "https://groups.google.com/g/komoroske-updates/c/UFyf7gU64oA": "2026-11-16T22:11:39.744Z",
     "https://groups.google.com/g/komoroske-updates/c/vCyiYXC35Pw": "2026-11-02T23:37:29.172Z",
     "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
