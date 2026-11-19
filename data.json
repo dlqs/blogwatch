@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:19:07.561Z",
+  "generatedAt": "2026-11-19T22:11:40.729Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Varieties Of Discourseposting",
-        "url": "https://www.astralcodexten.com/p/varieties-of-discourseposting",
-        "published": "2026-11-18T07:47:03.000Z",
-        "firstSeen": "2026-11-18T14:07:12.629Z"
+        "title": "The AI Forecasting Agenda",
+        "url": "https://www.astralcodexten.com/p/the-ai-forecasting-agenda",
+        "published": "2026-11-19T20:29:45.000Z",
+        "firstSeen": "2026-11-19T22:11:40.729Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "llm-gemini 0.38",
-        "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-        "published": "2026-11-18T23:59:20.000Z",
-        "firstSeen": "2026-11-19T13:19:07.561Z"
+        "title": "PostgreSQL 19 Released",
+        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+        "published": "2026-11-19T20:43:57.000Z",
+        "firstSeen": "2026-11-19T22:11:40.729Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/the-ai-forecasting-agenda": "2026-11-19T22:11:40.729Z",
     "https://www.astralcodexten.com/p/varieties-of-discourseposting": "2026-11-18T14:07:12.629Z",
     "https://www.astralcodexten.com/p/open-thread-460": "2026-11-17T14:31:05.255Z",
     "https://www.astralcodexten.com/p/vote-in-the-2026-book-review-contest": "2026-11-14T06:32:55.288Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/your-book-review-orality-and-literacy": "2026-11-06T23:13:37.217Z",
     "https://www.astralcodexten.com/p/links-for-november-2026": "2026-11-05T06:54:46.037Z",
     "https://www.astralcodexten.com/p/open-thread-458": "2026-11-02T06:16:16.956Z",
-    "https://www.astralcodexten.com/p/your-book-review-the-history-and": "2026-10-30T19:29:06.364Z",
     "https://scholars-stage.org/why-cant-we-see-the-cause-of-our-defeat/": "2026-11-17T14:31:05.255Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/19/postgresql-19/": "2026-11-19T22:11:40.729Z",
     "https://simonwillison.net/2026/Nov/18/llm-gemini/": "2026-11-19T13:19:07.561Z",
     "https://simonwillison.net/2026/Nov/18/datasette-arrows/": "2026-11-19T03:34:38.667Z",
     "https://simonwillison.net/2026/Nov/18/daniel-stenberg/": "2026-11-18T22:01:02.283Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Nov/17/datasette-lite/": "2026-11-17T22:55:50.449Z",
     "https://simonwillison.net/2026/Nov/17/go-proverbs/": "2026-11-17T14:31:05.255Z",
     "https://simonwillison.net/2026/Nov/16/llm/": "2026-11-17T04:32:49.571Z",
-    "https://simonwillison.net/2026/Nov/15/datasette-maplibre/": "2026-11-16T02:47:30.447Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
