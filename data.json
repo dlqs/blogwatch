@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T22:01:02.283Z",
+  "generatedAt": "2026-11-19T03:34:38.667Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Daniel Stenberg",
-        "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-        "published": "2026-11-18T15:58:27.000Z",
-        "firstSeen": "2026-11-18T22:01:02.283Z"
+        "title": "datasette-arrows 0.1a0",
+        "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+        "published": "2026-11-18T17:09:59.000Z",
+        "firstSeen": "2026-11-19T03:34:38.667Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/18/datasette-arrows/": "2026-11-19T03:34:38.667Z",
     "https://simonwillison.net/2026/Nov/18/daniel-stenberg/": "2026-11-18T22:01:02.283Z",
     "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/": "2026-11-18T22:01:02.283Z",
     "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/": "2026-11-17T22:55:50.449Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Nov/16/llm/": "2026-11-17T04:32:49.571Z",
     "https://simonwillison.net/2026/Nov/15/datasette-maplibre/": "2026-11-16T02:47:30.447Z",
     "https://simonwillison.net/2026/Nov/15/datasette/": "2026-11-16T02:47:30.447Z",
-    "https://simonwillison.net/2026/Nov/15/datasette-2/": "2026-11-16T02:47:30.447Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
