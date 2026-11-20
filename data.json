@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:11:40.729Z",
+  "generatedAt": "2026-11-20T03:24:33.572Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "PostgreSQL 19 Released",
-        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-        "published": "2026-11-19T20:43:57.000Z",
-        "firstSeen": "2026-11-19T22:11:40.729Z"
+        "title": "Token fraud is here and it’s BAD (YouTube)",
+        "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+        "published": "2026-11-20T02:49:57.000Z",
+        "firstSeen": "2026-11-20T03:24:33.572Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/": "2026-11-20T03:24:33.572Z",
     "https://simonwillison.net/2026/Nov/19/postgresql-19/": "2026-11-19T22:11:40.729Z",
     "https://simonwillison.net/2026/Nov/18/llm-gemini/": "2026-11-19T13:19:07.561Z",
     "https://simonwillison.net/2026/Nov/18/datasette-arrows/": "2026-11-19T03:34:38.667Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/": "2026-11-17T22:55:50.449Z",
     "https://simonwillison.net/2026/Nov/17/datasette-lite/": "2026-11-17T22:55:50.449Z",
     "https://simonwillison.net/2026/Nov/17/go-proverbs/": "2026-11-17T14:31:05.255Z",
-    "https://simonwillison.net/2026/Nov/16/llm/": "2026-11-17T04:32:49.571Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
