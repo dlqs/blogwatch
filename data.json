@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T21:11:22.538Z",
+  "generatedAt": "2026-11-21T23:23:53.212Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "The AI Forecasting Agenda",
-        "url": "https://www.astralcodexten.com/p/the-ai-forecasting-agenda",
-        "published": "2026-11-19T20:29:45.000Z",
-        "firstSeen": "2026-11-19T22:11:40.729Z"
+        "title": "Suggest Questions For The 2027 ACX/Metaculus Prediction Contest",
+        "url": "https://www.astralcodexten.com/p/suggest-questions-for-the-2027-acxmetaculus",
+        "published": "2026-11-21T19:00:45.000Z",
+        "firstSeen": "2026-11-21T23:23:53.212Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/suggest-questions-for-the-2027-acxmetaculus": "2026-11-21T23:23:53.212Z",
     "https://www.astralcodexten.com/p/the-ai-forecasting-agenda": "2026-11-19T22:11:40.729Z",
     "https://www.astralcodexten.com/p/varieties-of-discourseposting": "2026-11-18T14:07:12.629Z",
     "https://www.astralcodexten.com/p/open-thread-460": "2026-11-17T14:31:05.255Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/open-thread-459": "2026-11-10T02:11:41.220Z",
     "https://www.astralcodexten.com/p/your-book-review-orality-and-literacy": "2026-11-06T23:13:37.217Z",
     "https://www.astralcodexten.com/p/links-for-november-2026": "2026-11-05T06:54:46.037Z",
-    "https://www.astralcodexten.com/p/open-thread-458": "2026-11-02T06:16:16.956Z",
     "https://scholars-stage.org/why-cant-we-see-the-cause-of-our-defeat/": "2026-11-17T14:31:05.255Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
@@ -211,6 +211,7 @@
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
     "https://simonwillison.net/2026/Nov/20/ravi-vakil/": "2026-11-20T21:11:22.538Z",
     "https://simonwillison.net/2026/Nov/20/levent-alpoge/": "2026-11-20T21:11:22.538Z",
+    "https://simonwillison.net/2026/Nov/20/llm-gemini/": "2026-11-21T23:23:53.212Z",
     "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/": "2026-11-20T03:24:33.572Z",
     "https://simonwillison.net/2026/Nov/19/postgresql-19/": "2026-11-19T22:11:40.729Z",
     "https://simonwillison.net/2026/Nov/18/llm-gemini/": "2026-11-19T13:19:07.561Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Nov/18/daniel-stenberg/": "2026-11-18T22:01:02.283Z",
     "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/": "2026-11-18T22:01:02.283Z",
     "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/": "2026-11-17T22:55:50.449Z",
-    "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/": "2026-11-17T22:55:50.449Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
