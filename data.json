@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:57:36.176Z",
+  "generatedAt": "2026-11-23T02:50:48.998Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Muru",
-        "url": "https://simonwillison.net/2026/Nov/21/muru/",
-        "published": "2026-11-21T23:56:28.000Z",
-        "firstSeen": "2026-11-22T06:57:36.176Z"
+        "title": "Select Styling Specimens",
+        "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+        "published": "2026-11-22T19:45:06.000Z",
+        "firstSeen": "2026-11-23T02:50:48.998Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/22/select-styling/": "2026-11-23T02:50:48.998Z",
     "https://simonwillison.net/2026/Nov/21/muru/": "2026-11-22T06:57:36.176Z",
     "https://simonwillison.net/2026/Nov/20/ravi-vakil/": "2026-11-20T21:11:22.538Z",
     "https://simonwillison.net/2026/Nov/20/levent-alpoge/": "2026-11-20T21:11:22.538Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Nov/18/llm-gemini/": "2026-11-19T13:19:07.561Z",
     "https://simonwillison.net/2026/Nov/18/datasette-arrows/": "2026-11-19T03:34:38.667Z",
     "https://simonwillison.net/2026/Nov/18/daniel-stenberg/": "2026-11-18T22:01:02.283Z",
-    "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/": "2026-11-18T22:01:02.283Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
