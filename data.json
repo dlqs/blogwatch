@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T11:00:46.348Z",
+  "generatedAt": "2026-11-24T21:17:41.723Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "datasette-charts 0.2a0",
-        "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
-        "published": "2026-11-24T04:24:29.000Z",
-        "firstSeen": "2026-11-24T11:00:46.348Z"
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+        "published": "2026-11-24T16:53:59.000Z",
+        "firstSeen": "2026-11-24T21:17:41.723Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/": "2026-11-24T21:17:41.723Z",
     "https://simonwillison.net/2026/Nov/24/datasette-charts/": "2026-11-24T11:00:46.348Z",
     "https://simonwillison.net/2026/Nov/24/datasette-agent/": "2026-11-24T11:00:46.348Z",
     "https://simonwillison.net/2026/Nov/23/glm-54/": "2026-11-24T00:57:14.710Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Nov/21/muru/": "2026-11-22T06:57:36.176Z",
     "https://simonwillison.net/2026/Nov/20/ravi-vakil/": "2026-11-20T21:11:22.538Z",
     "https://simonwillison.net/2026/Nov/20/levent-alpoge/": "2026-11-20T21:11:22.538Z",
-    "https://simonwillison.net/2026/Nov/20/llm-gemini/": "2026-11-21T23:23:53.212Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
