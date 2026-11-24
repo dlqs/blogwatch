@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T12:57:42.413Z",
+  "generatedAt": "2026-11-24T00:57:14.710Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -21,10 +21,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Suggest Questions For The 2027 ACX/Metaculus Prediction Contest",
-        "url": "https://www.astralcodexten.com/p/suggest-questions-for-the-2027-acxmetaculus",
-        "published": "2026-11-21T19:00:45.000Z",
-        "firstSeen": "2026-11-21T23:23:53.212Z"
+        "title": "Open Thread 461",
+        "url": "https://www.astralcodexten.com/p/open-thread-461",
+        "published": "2026-11-24T00:16:22.000Z",
+        "firstSeen": "2026-11-24T00:57:14.710Z"
       }
     },
     {
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Select Styling Specimens",
-        "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
-        "published": "2026-11-22T19:45:06.000Z",
-        "firstSeen": "2026-11-23T02:50:48.998Z"
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+        "published": "2026-11-23T23:40:49.000Z",
+        "firstSeen": "2026-11-24T00:57:14.710Z"
       }
     },
     {
@@ -138,10 +138,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Bits and Bobs 11/16/26",
-        "url": "https://groups.google.com/g/komoroske-updates/c/UFyf7gU64oA",
+        "title": "Bits and Bobs 11/23/26",
+        "url": "https://groups.google.com/g/komoroske-updates/c/-7efDD0MvWY",
         "published": null,
-        "firstSeen": "2026-11-16T22:11:39.744Z"
+        "firstSeen": "2026-11-24T00:57:14.710Z"
       }
     },
     {
@@ -169,6 +169,7 @@
     "https://danluu.com/benchpocalypse/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/pl-tokens/": "2026-10-13T22:49:32.862Z",
     "https://danluu.com/exercise-7/": "2026-10-13T22:49:32.862Z",
+    "https://www.astralcodexten.com/p/open-thread-461": "2026-11-24T00:57:14.710Z",
     "https://www.astralcodexten.com/p/suggest-questions-for-the-2027-acxmetaculus": "2026-11-21T23:23:53.212Z",
     "https://www.astralcodexten.com/p/the-ai-forecasting-agenda": "2026-11-19T22:11:40.729Z",
     "https://www.astralcodexten.com/p/varieties-of-discourseposting": "2026-11-18T14:07:12.629Z",
@@ -178,7 +179,6 @@
     "https://www.astralcodexten.com/p/escaping-the-outside-criticism-trap": "2026-11-11T15:18:11.111Z",
     "https://www.astralcodexten.com/p/open-thread-459": "2026-11-10T02:11:41.220Z",
     "https://www.astralcodexten.com/p/your-book-review-orality-and-literacy": "2026-11-06T23:13:37.217Z",
-    "https://www.astralcodexten.com/p/links-for-november-2026": "2026-11-05T06:54:46.037Z",
     "https://scholars-stage.org/why-cant-we-see-the-cause-of-our-defeat/": "2026-11-17T14:31:05.255Z",
     "https://scholars-stage.org/the-cure-for-cancer-is-not-a-pure-math-benchmark/": "2026-09-19T05:58:38.671Z",
     "https://scholars-stage.org/china-and-the-future-of-science/": "2026-07-05T09:48:58.014Z",
@@ -209,6 +209,9 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/23/glm-54/": "2026-11-24T00:57:14.710Z",
+    "https://simonwillison.net/2026/Nov/23/ladybird/": "2026-11-24T00:57:14.710Z",
+    "https://simonwillison.net/2026/Nov/23/datasette-charts/": "2026-11-24T00:57:14.710Z",
     "https://simonwillison.net/2026/Nov/22/select-styling/": "2026-11-23T02:50:48.998Z",
     "https://simonwillison.net/2026/Nov/21/muru/": "2026-11-22T06:57:36.176Z",
     "https://simonwillison.net/2026/Nov/20/ravi-vakil/": "2026-11-20T21:11:22.538Z",
@@ -216,9 +219,6 @@
     "https://simonwillison.net/2026/Nov/20/llm-gemini/": "2026-11-21T23:23:53.212Z",
     "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/": "2026-11-20T03:24:33.572Z",
     "https://simonwillison.net/2026/Nov/19/postgresql-19/": "2026-11-19T22:11:40.729Z",
-    "https://simonwillison.net/2026/Nov/18/llm-gemini/": "2026-11-19T13:19:07.561Z",
-    "https://simonwillison.net/2026/Nov/18/datasette-arrows/": "2026-11-19T03:34:38.667Z",
-    "https://simonwillison.net/2026/Nov/18/daniel-stenberg/": "2026-11-18T22:01:02.283Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -278,6 +278,7 @@
     "https://stratechery.com/2026/the-end-of-jensen/": "2026-11-13T23:37:24.670Z",
     "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/": "2026-11-13T09:37:29.221Z",
     "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/": "2026-11-12T12:48:36.201Z",
+    "https://groups.google.com/g/komoroske-updates/c/-7efDD0MvWY": "2026-11-24T00:57:14.710Z",
     "https://groups.google.com/g/komoroske-updates/c/UFyf7gU64oA": "2026-11-16T22:11:39.744Z",
     "https://groups.google.com/g/komoroske-updates/c/vCyiYXC35Pw": "2026-11-02T23:37:29.172Z",
     "https://groups.google.com/g/komoroske-updates/c/Azv95yrdRX8": "2026-10-26T20:32:23.592Z",
@@ -307,7 +308,6 @@
     "https://groups.google.com/g/komoroske-updates/c/iqpYeJG2Kok": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/BJvWxE1TXe4": "2026-07-05T15:35:44.955Z",
     "https://groups.google.com/g/komoroske-updates/c/r38Adlmyz9I": "2026-07-05T15:35:44.955Z",
-    "https://groups.google.com/g/komoroske-updates/c/bVDMq3dOWhY": "2026-07-05T15:35:44.955Z",
     "https://www.paulgraham.com/powerful.html": "2026-09-13T16:22:50.809Z",
     "https://www.paulgraham.com/prepare.html": "2026-08-25T01:54:17.844Z",
     "https://www.paulgraham.com/earn.html": "2026-09-06T09:28:31.080Z",
