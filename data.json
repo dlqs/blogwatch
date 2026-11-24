@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:57:14.710Z",
+  "generatedAt": "2026-11-24T11:00:46.348Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-        "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
-        "published": "2026-11-23T23:40:49.000Z",
-        "firstSeen": "2026-11-24T00:57:14.710Z"
+        "title": "datasette-charts 0.2a0",
+        "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+        "published": "2026-11-24T04:24:29.000Z",
+        "firstSeen": "2026-11-24T11:00:46.348Z"
       }
     },
     {
@@ -125,10 +125,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Amazon Earnings, The Chip Question, About Agents",
-        "url": "https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/",
-        "published": "2026-11-23T11:00:00.000Z",
-        "firstSeen": "2026-11-23T12:57:42.413Z"
+        "title": "The Individual Exception",
+        "url": "https://stratechery.com/2026/the-individual-exception/",
+        "published": "2026-11-24T11:00:00.000Z",
+        "firstSeen": "2026-11-24T11:00:46.348Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/24/datasette-charts/": "2026-11-24T11:00:46.348Z",
+    "https://simonwillison.net/2026/Nov/24/datasette-agent/": "2026-11-24T11:00:46.348Z",
     "https://simonwillison.net/2026/Nov/23/glm-54/": "2026-11-24T00:57:14.710Z",
     "https://simonwillison.net/2026/Nov/23/ladybird/": "2026-11-24T00:57:14.710Z",
     "https://simonwillison.net/2026/Nov/23/datasette-charts/": "2026-11-24T00:57:14.710Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Nov/20/ravi-vakil/": "2026-11-20T21:11:22.538Z",
     "https://simonwillison.net/2026/Nov/20/levent-alpoge/": "2026-11-20T21:11:22.538Z",
     "https://simonwillison.net/2026/Nov/20/llm-gemini/": "2026-11-21T23:23:53.212Z",
-    "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/": "2026-11-20T03:24:33.572Z",
-    "https://simonwillison.net/2026/Nov/19/postgresql-19/": "2026-11-19T22:11:40.729Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -268,6 +268,7 @@
     "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/": "2026-07-05T15:35:44.955Z",
     "https://www.bitsaboutmoney.com/archive/bam-2024-retrospective/": "2026-07-05T15:35:44.955Z",
+    "https://stratechery.com/2026/the-individual-exception/": "2026-11-24T11:00:46.348Z",
     "https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/": "2026-11-23T12:57:42.413Z",
     "https://stratechery.com/2026/down-in-dc/": "2026-11-20T21:11:22.538Z",
     "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/": "2026-11-20T12:59:46.310Z",
@@ -277,7 +278,6 @@
     "https://stratechery.com/2026/obituaries/": "2026-11-16T11:32:35.421Z",
     "https://stratechery.com/2026/the-end-of-jensen/": "2026-11-13T23:37:24.670Z",
     "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/": "2026-11-13T09:37:29.221Z",
-    "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/": "2026-11-12T12:48:36.201Z",
     "https://groups.google.com/g/komoroske-updates/c/-7efDD0MvWY": "2026-11-24T00:57:14.710Z",
     "https://groups.google.com/g/komoroske-updates/c/UFyf7gU64oA": "2026-11-16T22:11:39.744Z",
     "https://groups.google.com/g/komoroske-updates/c/vCyiYXC35Pw": "2026-11-02T23:37:29.172Z",
