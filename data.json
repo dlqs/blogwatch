@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:17:41.723Z",
+  "generatedAt": "2026-11-25T04:54:33.905Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "GPT 6.2 Astra Solves a Historical Mystery",
-        "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-        "published": "2026-11-24T16:53:59.000Z",
-        "firstSeen": "2026-11-24T21:17:41.723Z"
+        "title": "Three LLM inflection points in twelve months",
+        "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+        "published": "2026-11-24T23:02:07.000Z",
+        "firstSeen": "2026-11-25T04:54:33.905Z"
       }
     },
     {
@@ -99,10 +99,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Post-scarcity incentives",
-        "url": "https://patrickcollison.com/dispatches/post-scarcity-incentives",
+        "title": "Democracy in America",
+        "url": "https://patrickcollison.com/dispatches/democracy-in-america",
         "published": null,
-        "firstSeen": "2026-11-15T11:03:00.489Z"
+        "firstSeen": "2026-11-25T04:54:33.905Z"
       }
     },
     {
@@ -209,6 +209,7 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/24/llm-inflection-points/": "2026-11-25T04:54:33.905Z",
     "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/": "2026-11-24T21:17:41.723Z",
     "https://simonwillison.net/2026/Nov/24/datasette-charts/": "2026-11-24T11:00:46.348Z",
     "https://simonwillison.net/2026/Nov/24/datasette-agent/": "2026-11-24T11:00:46.348Z",
@@ -218,7 +219,6 @@
     "https://simonwillison.net/2026/Nov/22/select-styling/": "2026-11-23T02:50:48.998Z",
     "https://simonwillison.net/2026/Nov/21/muru/": "2026-11-22T06:57:36.176Z",
     "https://simonwillison.net/2026/Nov/20/ravi-vakil/": "2026-11-20T21:11:22.538Z",
-    "https://simonwillison.net/2026/Nov/20/levent-alpoge/": "2026-11-20T21:11:22.538Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
@@ -229,6 +229,7 @@
     "https://www.neelnanda.io/blog/46-bets-v-outcomes": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/45-x-risk": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/44-agency": "2026-07-25T15:30:20.181Z",
+    "https://patrickcollison.com/dispatches/democracy-in-america": "2026-11-25T04:54:33.905Z",
     "https://patrickcollison.com/dispatches/post-scarcity-incentives": "2026-11-15T11:03:00.489Z",
     "https://patrickcollison.com/dispatches/two-ai-questions": "2026-11-08T20:31:01.753Z",
     "https://patrickcollison.com/dispatches/liquid-software": "2026-11-01T15:15:05.207Z",
