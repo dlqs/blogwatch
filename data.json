@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:27:00.946Z",
+  "generatedAt": "2026-11-26T09:36:34.980Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Scott Aaronson",
-        "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
-        "published": "2026-11-25T23:26:32.000Z",
-        "firstSeen": "2026-11-26T00:27:00.946Z"
+        "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+        "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+        "published": "2026-11-26T06:08:25.000Z",
+        "firstSeen": "2026-11-26T09:36:34.980Z"
       }
     },
     {
@@ -209,16 +209,16 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/": "2026-11-26T09:36:34.980Z",
     "https://simonwillison.net/2026/Nov/25/scott-aaronson/": "2026-11-26T00:27:00.946Z",
+    "https://simonwillison.net/2026/Nov/25/datasette-charts/": "2026-11-26T09:36:34.980Z",
     "https://simonwillison.net/2026/Nov/24/llm-inflection-points/": "2026-11-25T04:54:33.905Z",
     "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/": "2026-11-24T21:17:41.723Z",
+    "https://simonwillison.net/2026/Nov/24/datasette-charts-2/": "2026-11-26T09:36:34.980Z",
     "https://simonwillison.net/2026/Nov/24/datasette-charts/": "2026-11-24T11:00:46.348Z",
     "https://simonwillison.net/2026/Nov/24/datasette-agent/": "2026-11-24T11:00:46.348Z",
     "https://simonwillison.net/2026/Nov/23/glm-54/": "2026-11-24T00:57:14.710Z",
     "https://simonwillison.net/2026/Nov/23/ladybird/": "2026-11-24T00:57:14.710Z",
-    "https://simonwillison.net/2026/Nov/23/datasette-charts/": "2026-11-24T00:57:14.710Z",
-    "https://simonwillison.net/2026/Nov/22/select-styling/": "2026-11-23T02:50:48.998Z",
-    "https://simonwillison.net/2026/Nov/21/muru/": "2026-11-22T06:57:36.176Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
