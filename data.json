@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T22:01:16.712Z",
+  "generatedAt": "2026-11-28T03:56:54.390Z",
   "blogs": [
     {
       "name": "Dan Luu",
@@ -73,10 +73,10 @@
       "ok": true,
       "error": null,
       "latest": {
-        "title": "Quoting Jack Despain Zhou",
-        "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
-        "published": "2026-11-26T15:09:31.000Z",
-        "firstSeen": "2026-11-26T19:40:34.468Z"
+        "title": "datasette-charts 0.4a0",
+        "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+        "published": "2026-11-27T23:57:17.000Z",
+        "firstSeen": "2026-11-28T03:56:54.390Z"
       }
     },
     {
@@ -209,6 +209,8 @@
     "https://blog.samaltman.com/reflections": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/gpt-4o": "2026-07-05T09:48:58.014Z",
     "https://blog.samaltman.com/what-i-wish-someone-had-told-me": "2026-07-05T09:48:58.014Z",
+    "https://simonwillison.net/2026/Nov/27/datasette-charts/": "2026-11-28T03:56:54.390Z",
+    "https://simonwillison.net/2026/Nov/27/datasette-mcp/": "2026-11-28T03:56:54.390Z",
     "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/": "2026-11-26T19:40:34.468Z",
     "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/": "2026-11-26T09:36:34.980Z",
     "https://simonwillison.net/2026/Nov/26/hn-50651685/": "2026-11-26T19:40:34.468Z",
@@ -217,8 +219,6 @@
     "https://simonwillison.net/2026/Nov/24/llm-inflection-points/": "2026-11-25T04:54:33.905Z",
     "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/": "2026-11-24T21:17:41.723Z",
     "https://simonwillison.net/2026/Nov/24/datasette-charts-2/": "2026-11-26T09:36:34.980Z",
-    "https://simonwillison.net/2026/Nov/24/datasette-charts/": "2026-11-24T11:00:46.348Z",
-    "https://simonwillison.net/2026/Nov/24/datasette-agent/": "2026-11-24T11:00:46.348Z",
     "https://www.neelnanda.io/blog/mats-apps-9": "2026-07-05T09:48:58.014Z",
     "https://www.neelnanda.io/blog/51-socratic-persuasion": "2026-07-25T15:30:20.181Z",
     "https://www.neelnanda.io/blog/50-strategic-takes": "2026-07-25T15:30:20.181Z",
